@@ -223,7 +223,10 @@ OFF_TOPIC_TAGS = {"carousel", "fairground", "fair", "funfair", "amusement park",
                   # things that break a serious motivation mood (phones, cars, offices and cities are on-topic here)
                   "bitcoin", "crypto", "cryptocurrency", "blockchain", "btc", "ethereum", "nightclub",
                   "party", "halloween", "selfie", "christmas", "santa", "birthday", "wedding", "bikini",
-                  "funny", "cute", "baby", "kitten", "puppy"}
+                  "funny", "cute", "baby", "kitten", "puppy",
+                  # footage made for video editing, not to be shown as is (a man on a green screen slipped through once)
+                  "green screen", "greenscreen", "chroma key", "chromakey", "chroma", "green background",
+                  "alpha channel", "transparent background", "blue screen"}
 
 PERSON_TAGS = {"woman", "women", "man", "men", "girl", "girls", "boy", "boys", "kid", "kids", "child", "children",
                "people", "person", "lady", "guy", "couple", "family", "baby", "teenager", "human", "face"}
