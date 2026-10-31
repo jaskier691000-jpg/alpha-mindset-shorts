@@ -19,6 +19,7 @@ BRIGHTNESS_CACHE = ROOT / "assets" / "clips" / "brightness.json"
 CUTS_PER_CLIP = 2  # each downloaded clip gives 2 different cuts (fewer downloads)
 MAX_DOWNLOAD_MB = 40
 KEEP_CLIPS_DAYS = 30
+KEEP_CLIPS_MB = 1500  # assets/clips rides in GitHub's cache with the AI models (10 GB max): oldest clips go first
 W, H, FPS = 1080, 1920, 30
 HEADERS = {"User-Agent": "alpha-mindset-shorts"}
 # Wikimedia asks every automated tool to name itself in the User-Agent
@@ -153,12 +154,16 @@ def find_paintings(queries):
 
 
 def clean_old_clips():
-    """Delete clips not used for KEEP_CLIPS_DAYS days, so the folder doesn't keep growing."""
+    """Delete clips not used for KEEP_CLIPS_DAYS days, and the least recently used ones above KEEP_CLIPS_MB,
+    so the folder doesn't keep growing."""
     if not CLIPS.exists():
         return
     limit = time.time() - KEEP_CLIPS_DAYS * 24 * 3600
-    for path in [*CLIPS.glob("*.mp4"), *CLIPS.glob("*.jpg")]:
-        if path.stat().st_mtime < limit:
+    newest_first = sorted([*CLIPS.glob("*.mp4"), *CLIPS.glob("*.jpg")], key=lambda p: p.stat().st_mtime, reverse=True)
+    kept = 0
+    for path in newest_first:
+        kept += path.stat().st_size
+        if path.stat().st_mtime < limit or kept > KEEP_CLIPS_MB * 1e6:
             path.unlink()
 
 

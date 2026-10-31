@@ -26,6 +26,7 @@ from zoneinfo import ZoneInfo
 
 import notify
 from common import OUTPUT, ROOT, STATE_FILE, load_config, load_json, save_json
+from footage import clean_old_clips
 from make_video import make_video
 from publish import api, post_problems, publish
 from scenes import remember as remember_clips
@@ -219,6 +220,7 @@ def main():
     real_run = not (args.no_publish or args.dry_run)
 
     clean_old_videos()
+    clean_old_clips()  # stock clips are saved in GitHub's cache: without this they pass its 10 GB limit in ~3 weeks
     config = load_config()
     timezone = config["timezone"]
     print(f"Publish mode: {config['publish_mode']}"

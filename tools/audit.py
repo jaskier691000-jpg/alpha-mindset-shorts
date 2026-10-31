@@ -119,6 +119,8 @@ check(code == 0, "montage builder is valid JavaScript", out.strip()[:200])
 req = (ROOT / "requirements.txt").read_text(encoding="utf-8")
 check("chatterbox-tts @ git+" in req and "@5de7a54" in req, "voice model pinned to the tested Chatterbox commit")
 check("hyperframes@0.8.223" in (ROOT / "src" / "make_video.py").read_text(encoding="utf-8"), "HyperFrames version pinned")
+daily_py = (ROOT / "src" / "run_daily.py").read_text(encoding="utf-8")
+check(re.search(r"^\s+clean_old_clips\(\)", daily_py, re.M) is not None, "old stock clips deleted every run (cache stays small)")
 
 section("Content")
 code, out = run(sys.executable, "src/add_content.py")
@@ -165,6 +167,9 @@ section("Last GitHub runs")
 runs = gh_json("run", "list", "-R", REPO, "--workflow", "daily.yml", "--limit", "5", "--json", "conclusion,displayTitle,createdAt,event")
 last = (runs or [None])[0]
 check(bool(last) and last.get("conclusion") == "success", "last daily run succeeded", (last or {}).get("createdAt", "no run"))
+caches = gh_json("cache", "list", "-R", REPO, "--limit", "50", "--json", "key,sizeInBytes") or []
+biggest = max((c["sizeInBytes"] for c in caches), default=0) / 1e9
+check(bool(caches) and biggest < 8, "GitHub cache well under its 10 GB limit", f"biggest entry {biggest:.1f} GB")
 
 print("\nNotes:")
 for n in notes:
