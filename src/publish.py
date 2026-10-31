@@ -103,7 +103,7 @@ def build_requests(info, video_url, mode, when, config):
         "express_consent_given": True,
     }
     # TikTok requires the "AI-generated" label on realistic AI images (the cinema library clips).
-    # Zernio's field name is not in its public docs yet: it is set in config.json and checked with a draft test.
+    # Zernio's field is videoMadeWithAi (docs.zernio.com > Create post > TikTokPlatformData), set in config.json.
     ai_field = config.get("tiktok_ai_label_field", "")
     if info.get("ai_generated") and ai_field:
         tiktok_settings[ai_field] = True
@@ -167,8 +167,8 @@ def publish(info, when=None, dry_run=False):
         try:
             status, result = api("POST", "/posts", body, {"Idempotency-Key": key})
         except SystemExit as e:
-            # the AI-label field is not in Zernio's public docs: if Zernio refuses the post because of it,
-            # post without it rather than lose the video, and tell the owner to check the label in the TikTok app
+            # if Zernio ever refuses the post because of the AI-label field, post without it
+            # rather than lose the video, and tell the owner to check the label in the TikTok app
             ai_field = config.get("tiktok_ai_label_field", "")
             refused = str(e).startswith(("Zernio error 400", "Zernio error 422"))
             if not (refused and ai_field and ai_field in body.get("tiktokSettings", {})):

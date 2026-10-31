@@ -8,7 +8,7 @@
   "min_seconds": 61,
   "post_time_jitter_minutes": 35,
   "telegram_chat_id": "",
-  "tiktok_ai_label_field": "video_made_with_ai",
+  "tiktok_ai_label_field": "videoMadeWithAi",
   "languages": {
     "en": {
       "enabled": true,
