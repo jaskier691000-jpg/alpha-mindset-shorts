@@ -112,6 +112,16 @@ def main():
                 problems.append(f"{item['id']}: written twice")
             problems += check_topic(item, cats)
             written[item["id"]] = item
+    # every monologue is new: no hook used twice, no sentence of 6+ words repeated (the routine once reused an example)
+    seen = {}
+    for tid, item in written.items():
+        for n, line in enumerate(item.get("lines", []), 1):
+            text = line.get("text", "").lower().strip()
+            if n == 1 or len(text.split()) >= 6:
+                if text in seen:
+                    problems.append(f"{tid} line {n}: already used in {seen[text]}: '{line['text']}'")
+                else:
+                    seen[text] = f"{tid} line {n}"
     if problems:
         sys.exit("Problems to fix:\n" + "\n".join(problems))
 

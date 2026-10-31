@@ -1661,7 +1661,7 @@
   "id": "motivation-is-a-liar",
   "lines": [
    {
-    "text": "Motivation will leave you on the hardest day.",
+    "text": "Motivation is a liar that shows up on easy days.",
     "card": "MOTIVATION LIES",
     "scene": "rain-alone",
     "gap": 0.7
@@ -4800,7 +4800,7 @@
     "gap": 0.4
    },
    {
-    "text": "Either you move it, or you do not.",
+    "text": "The weight is honest. It goes up, or it stays down.",
     "scene": "eyes",
     "search": "man eyes focused gym",
     "gap": 0.4

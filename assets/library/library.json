@@ -346,6 +346,422 @@
  ],
  "clips": [
   {
+   "id": "rain-alone-1",
+   "cat": "rain-alone",
+   "tags": [
+    "rain",
+    "alone",
+    "night",
+    "struggle"
+   ],
+   "scene": "A lone man standing on an empty rooftop at night in heavy rain, seen from behind, city lights far below.",
+   "seed": 1899942682,
+   "seconds": 6.0
+  },
+  {
+   "id": "rain-alone-2",
+   "cat": "rain-alone",
+   "tags": [
+    "rain",
+    "alone",
+    "night",
+    "struggle"
+   ],
+   "scene": "A man walking alone down a dark city street in pouring rain at night, wet asphalt reflecting the street lights.",
+   "seed": 898982445,
+   "seconds": 6.0
+  },
+  {
+   "id": "rain-alone-3",
+   "cat": "rain-alone",
+   "tags": [
+    "rain",
+    "alone",
+    "night",
+    "struggle"
+   ],
+   "scene": "Close-up of a man's face in the rain at night, eyes closed, water running down his face, calm and determined.",
+   "seed": 1100534195,
+   "seconds": 6.0
+  },
+  {
+   "id": "rain-alone-4",
+   "cat": "rain-alone",
+   "tags": [
+    "rain",
+    "alone",
+    "night",
+    "struggle"
+   ],
+   "scene": "A man in a hooded jacket standing under a single street lamp in heavy rain, empty street around him.",
+   "seed": 1145815669,
+   "seconds": 6.0
+  },
+  {
+   "id": "crowd-against-1",
+   "cat": "crowd-against",
+   "tags": [
+    "alone",
+    "different",
+    "crowd",
+    "path"
+   ],
+   "scene": "A man walking forward through a busy crowd that all walks the other way, he is the only one in focus.",
+   "seed": 1492663772,
+   "seconds": 6.0
+  },
+  {
+   "id": "crowd-against-2",
+   "cat": "crowd-against",
+   "tags": [
+    "alone",
+    "different",
+    "crowd",
+    "path"
+   ],
+   "scene": "A man standing still on a crowded subway platform while blurred commuters rush past him.",
+   "seed": 94576274,
+   "seconds": 6.0
+  },
+  {
+   "id": "crowd-against-3",
+   "cat": "crowd-against",
+   "tags": [
+    "alone",
+    "different",
+    "crowd",
+    "path"
+   ],
+   "scene": "A lone man walking against a stream of people leaving a stadium at night, floodlights behind.",
+   "seed": 2527994760,
+   "seconds": 6.0
+  },
+  {
+   "id": "crowd-against-4",
+   "cat": "crowd-against",
+   "tags": [
+    "alone",
+    "different",
+    "crowd",
+    "path"
+   ],
+   "scene": "A man in a dark coat walking alone across a huge empty city square at dawn, pigeons flying.",
+   "seed": 285730906,
+   "seconds": 6.0
+  },
+  {
+   "id": "morning-alarm-1",
+   "cat": "morning-alarm",
+   "tags": [
+    "morning",
+    "wake up",
+    "early",
+    "routine"
+   ],
+   "scene": "A man sitting on the edge of his bed in a dark bedroom before sunrise, an old alarm clock glowing beside him.",
+   "seed": 1210152951,
+   "seconds": 6.0
+  },
+  {
+   "id": "morning-alarm-2",
+   "cat": "morning-alarm",
+   "tags": [
+    "morning",
+    "wake up",
+    "early",
+    "routine"
+   ],
+   "scene": "A man getting out of bed in a dark room, the first blue light of dawn through the window.",
+   "seed": 3446817376,
+   "seconds": 6.0
+  },
+  {
+   "id": "morning-alarm-3",
+   "cat": "morning-alarm",
+   "tags": [
+    "morning",
+    "wake up",
+    "early",
+    "routine"
+   ],
+   "scene": "A man splashing cold water on his face over a sink in a dark bathroom, a single light above the mirror.",
+   "seed": 2763771947,
+   "seconds": 6.0
+  },
+  {
+   "id": "morning-alarm-4",
+   "cat": "morning-alarm",
+   "tags": [
+    "morning",
+    "wake up",
+    "early",
+    "routine"
+   ],
+   "scene": "A man opening the curtains of a dark apartment window to the first light of dawn, silhouette.",
+   "seed": 1225864981,
+   "seconds": 6.0
+  },
+  {
+   "id": "comfort-trap-1",
+   "cat": "comfort-trap",
+   "tags": [
+    "lazy",
+    "comfort",
+    "phone",
+    "wasted time"
+   ],
+   "scene": "A man lying on a sofa in a dark room lit only by his phone screen, junk food on the table.",
+   "seed": 241660741,
+   "seconds": 6.0
+  },
+  {
+   "id": "comfort-trap-2",
+   "cat": "comfort-trap",
+   "tags": [
+    "lazy",
+    "comfort",
+    "phone",
+    "wasted time"
+   ],
+   "scene": "A man scrolling his phone in bed late at night, face lit blue by the screen, messy sheets.",
+   "seed": 2129250879,
+   "seconds": 6.0
+  },
+  {
+   "id": "comfort-trap-3",
+   "cat": "comfort-trap",
+   "tags": [
+    "lazy",
+    "comfort",
+    "phone",
+    "wasted time"
+   ],
+   "scene": "A man asleep on a couch in front of a glowing television, empty snack wrappers around him.",
+   "seed": 2358254820,
+   "seconds": 6.0
+  },
+  {
+   "id": "comfort-trap-4",
+   "cat": "comfort-trap",
+   "tags": [
+    "lazy",
+    "comfort",
+    "phone",
+    "wasted time"
+   ],
+   "scene": "A man slumped in a gaming chair in a dark room, controller in hand, energy drink cans on the desk.",
+   "seed": 3141447057,
+   "seconds": 6.0
+  },
+  {
+   "id": "getting-ready-1",
+   "cat": "getting-ready",
+   "tags": [
+    "prepare",
+    "start",
+    "ready",
+    "discipline"
+   ],
+   "scene": "A man tying his running shoes on a wet street at dawn, determined face, first light on the horizon.",
+   "seed": 113959824,
+   "seconds": 6.0
+  },
+  {
+   "id": "getting-ready-2",
+   "cat": "getting-ready",
+   "tags": [
+    "prepare",
+    "start",
+    "ready",
+    "discipline"
+   ],
+   "scene": "A boxer wrapping his hands with white tape in a dark locker room, a single overhead light.",
+   "seed": 3990672982,
+   "seconds": 6.0
+  },
+  {
+   "id": "getting-ready-3",
+   "cat": "getting-ready",
+   "tags": [
+    "prepare",
+    "start",
+    "ready",
+    "discipline"
+   ],
+   "scene": "Close-up of hands covered in chalk dust above a barbell in a dark gym.",
+   "seed": 391412912,
+   "seconds": 6.0
+  },
+  {
+   "id": "getting-ready-4",
+   "cat": "getting-ready",
+   "tags": [
+    "prepare",
+    "start",
+    "ready",
+    "discipline"
+   ],
+   "scene": "A man lacing heavy boots on a wooden bench before sunrise, steam rising from a coffee cup beside him.",
+   "seed": 3009988286,
+   "seconds": 6.0
+  },
+  {
+   "id": "gym-heavy-1",
+   "cat": "gym-heavy",
+   "tags": [
+    "gym",
+    "strength",
+    "lifting",
+    "training"
+   ],
+   "scene": "A man doing heavy deadlifts alone in a dark underground gym, chalk dust in a single beam of light.",
+   "seed": 1210947948,
+   "seconds": 6.0
+  },
+  {
+   "id": "gym-heavy-2",
+   "cat": "gym-heavy",
+   "tags": [
+    "gym",
+    "strength",
+    "lifting",
+    "training"
+   ],
+   "scene": "A man squatting a heavy barbell in a dark gym, veins visible, sweat, intense focus.",
+   "seed": 3103850930,
+   "seconds": 6.0
+  },
+  {
+   "id": "gym-heavy-3",
+   "cat": "gym-heavy",
+   "tags": [
+    "gym",
+    "strength",
+    "lifting",
+    "training"
+   ],
+   "scene": "A man pressing a heavy barbell overhead in an empty warehouse gym, dust in the light.",
+   "seed": 1211172737,
+   "seconds": 6.0
+  },
+  {
+   "id": "gym-heavy-4",
+   "cat": "gym-heavy",
+   "tags": [
+    "gym",
+    "strength",
+    "lifting",
+    "training"
+   ],
+   "scene": "A man doing kettlebell swings in a garage gym at night under a single bulb, motion blur on the kettlebell.",
+   "seed": 4078858849,
+   "seconds": 6.0
+  },
+  {
+   "id": "gym-effort-1",
+   "cat": "gym-effort",
+   "tags": [
+    "gym",
+    "pain",
+    "effort",
+    "sweat"
+   ],
+   "scene": "A man doing pull-ups on a rusty bar in a dark gym, back muscles straining, sweat dripping.",
+   "seed": 4206828726,
+   "seconds": 6.0
+  },
+  {
+   "id": "gym-effort-2",
+   "cat": "gym-effort",
+   "tags": [
+    "gym",
+    "pain",
+    "effort",
+    "sweat"
+   ],
+   "scene": "A man doing push-ups on a wet concrete floor in the rain at night under a street light.",
+   "seed": 3925529953,
+   "seconds": 6.0
+  },
+  {
+   "id": "gym-effort-3",
+   "cat": "gym-effort",
+   "tags": [
+    "gym",
+    "pain",
+    "effort",
+    "sweat"
+   ],
+   "scene": "A man slamming heavy battle ropes in a dark gym, water drops flying in the light.",
+   "seed": 1466834713,
+   "seconds": 6.0
+  },
+  {
+   "id": "gym-effort-4",
+   "cat": "gym-effort",
+   "tags": [
+    "gym",
+    "pain",
+    "effort",
+    "sweat"
+   ],
+   "scene": "Extreme close-up of a man's face dripping with sweat after training, breathing hard, dark background.",
+   "seed": 1448340213,
+   "seconds": 6.0
+  },
+  {
+   "id": "run-hard-1",
+   "cat": "run-hard",
+   "tags": [
+    "running",
+    "cardio",
+    "night",
+    "weather"
+   ],
+   "scene": "A man running alone in snow and freezing wind at night under a street lamp, breath visible.",
+   "seed": 1077866188,
+   "seconds": 6.0
+  },
+  {
+   "id": "run-hard-2",
+   "cat": "run-hard",
+   "tags": [
+    "running",
+    "cardio",
+    "night",
+    "weather"
+   ],
+   "scene": "A man sprinting on a wet road at night in the rain, car lights blurred behind him.",
+   "seed": 2582271724,
+   "seconds": 6.0
+  },
+  {
+   "id": "run-hard-3",
+   "cat": "run-hard",
+   "tags": [
+    "running",
+    "cardio",
+    "night",
+    "weather"
+   ],
+   "scene": "A man running up concrete stadium stairs at dawn, empty stadium, long shadows.",
+   "seed": 3391595586,
+   "seconds": 6.0
+  },
+  {
+   "id": "run-hard-4",
+   "cat": "run-hard",
+   "tags": [
+    "running",
+    "cardio",
+    "night",
+    "weather"
+   ],
+   "scene": "A man running along a beach under dark storm clouds, waves crashing beside him.",
+   "seed": 2981418359,
+   "seconds": 6.0
+  },
+  {
    "id": "boxing-1",
    "cat": "boxing",
    "tags": [
@@ -398,6 +814,370 @@
    "seconds": 6.0
   },
   {
+   "id": "work-late-1",
+   "cat": "work-late",
+   "tags": [
+    "work",
+    "silence",
+    "focus",
+    "night"
+   ],
+   "scene": "A man working on a laptop alone at a desk at three in the morning, city lights through the window.",
+   "seed": 3383905615,
+   "seconds": 6.0
+  },
+  {
+   "id": "work-late-2",
+   "cat": "work-late",
+   "tags": [
+    "work",
+    "silence",
+    "focus",
+    "night"
+   ],
+   "scene": "A man writing plans in a notebook at a wooden desk under a single lamp, coffee steaming.",
+   "seed": 3502598221,
+   "seconds": 6.0
+  },
+  {
+   "id": "work-late-3",
+   "cat": "work-late",
+   "tags": [
+    "work",
+    "silence",
+    "focus",
+    "night"
+   ],
+   "scene": "A craftsman working alone in a dark workshop at night, sparks and sawdust in the lamp light.",
+   "seed": 3697124857,
+   "seconds": 6.0
+  },
+  {
+   "id": "work-late-4",
+   "cat": "work-late",
+   "tags": [
+    "work",
+    "silence",
+    "focus",
+    "night"
+   ],
+   "scene": "A man studying alone in a dark library, a single desk lamp, stacks of books.",
+   "seed": 3133829182,
+   "seconds": 6.0
+  },
+  {
+   "id": "reading-1",
+   "cat": "reading",
+   "tags": [
+    "learning",
+    "books",
+    "mind",
+    "growth"
+   ],
+   "scene": "A man reading a book late at night by a desk lamp, a barbell next to the desk.",
+   "seed": 2133089409,
+   "seconds": 6.0
+  },
+  {
+   "id": "reading-2",
+   "cat": "reading",
+   "tags": [
+    "learning",
+    "books",
+    "mind",
+    "growth"
+   ],
+   "scene": "A tall stack of old books on a dark wooden table, a single candle beside them.",
+   "seed": 3884255044,
+   "seconds": 6.0
+  },
+  {
+   "id": "reading-3",
+   "cat": "reading",
+   "tags": [
+    "learning",
+    "books",
+    "mind",
+    "growth"
+   ],
+   "scene": "A man reading a book on an empty night train, city lights passing outside.",
+   "seed": 2802444287,
+   "seconds": 6.0
+  },
+  {
+   "id": "reading-4",
+   "cat": "reading",
+   "tags": [
+    "learning",
+    "books",
+    "mind",
+    "growth"
+   ],
+   "scene": "A man reading in an armchair by a window at dawn, a cup of black coffee on the side table.",
+   "seed": 1531807183,
+   "seconds": 6.0
+  },
+  {
+   "id": "into-light-1",
+   "cat": "into-light",
+   "tags": [
+    "hope",
+    "breakthrough",
+    "exit",
+    "future"
+   ],
+   "scene": "A man walking out of a dark tunnel toward a bright light, silhouette, decisive stride.",
+   "seed": 279099965,
+   "seconds": 6.0
+  },
+  {
+   "id": "into-light-2",
+   "cat": "into-light",
+   "tags": [
+    "hope",
+    "breakthrough",
+    "exit",
+    "future"
+   ],
+   "scene": "A man standing in a dark doorway, bright light pouring in from outside, silhouette.",
+   "seed": 4235557274,
+   "seconds": 6.0
+  },
+  {
+   "id": "into-light-3",
+   "cat": "into-light",
+   "tags": [
+    "hope",
+    "breakthrough",
+    "exit",
+    "future"
+   ],
+   "scene": "A man walking out of a dark cave toward a bright mountain valley.",
+   "seed": 2299527319,
+   "seconds": 6.0
+  },
+  {
+   "id": "into-light-4",
+   "cat": "into-light",
+   "tags": [
+    "hope",
+    "breakthrough",
+    "exit",
+    "future"
+   ],
+   "scene": "A man walking down a long dark corridor toward a bright window at the end.",
+   "seed": 205978226,
+   "seconds": 6.0
+  },
+  {
+   "id": "summit-1",
+   "cat": "summit",
+   "tags": [
+    "goal",
+    "mountain",
+    "success",
+    "climb"
+   ],
+   "scene": "A lone man standing on a mountain summit above the clouds at sunrise, looking forward.",
+   "seed": 2787433333,
+   "seconds": 6.0
+  },
+  {
+   "id": "summit-2",
+   "cat": "summit",
+   "tags": [
+    "goal",
+    "mountain",
+    "success",
+    "climb"
+   ],
+   "scene": "A man climbing a steep rock wall, chalked hands, the valley far below.",
+   "seed": 3351602528,
+   "seconds": 6.0
+  },
+  {
+   "id": "summit-3",
+   "cat": "summit",
+   "tags": [
+    "goal",
+    "mountain",
+    "success",
+    "climb"
+   ],
+   "scene": "A hiker walking along a narrow mountain ridge under dark storm clouds.",
+   "seed": 3736026566,
+   "seconds": 6.0
+  },
+  {
+   "id": "summit-4",
+   "cat": "summit",
+   "tags": [
+    "goal",
+    "mountain",
+    "success",
+    "climb"
+   ],
+   "scene": "A man standing on the edge of a high cliff above a sea of clouds at sunset, silhouette.",
+   "seed": 429185253,
+   "seconds": 6.0
+  },
+  {
+   "id": "lion-1",
+   "cat": "lion",
+   "tags": [
+    "lion",
+    "king",
+    "strength",
+    "leader"
+   ],
+   "scene": "A powerful male lion walking toward the camera through tall grass at golden hour, intense stare.",
+   "seed": 3110193964,
+   "seconds": 6.0
+  },
+  {
+   "id": "lion-2",
+   "cat": "lion",
+   "tags": [
+    "lion",
+    "king",
+    "strength",
+    "leader"
+   ],
+   "scene": "A male lion roaring on a rock under dramatic storm clouds.",
+   "seed": 3316741288,
+   "seconds": 6.0
+  },
+  {
+   "id": "lion-3",
+   "cat": "lion",
+   "tags": [
+    "lion",
+    "king",
+    "strength",
+    "leader"
+   ],
+   "scene": "A male lion resting on a rock at sunset, calm and dominant, wind in its mane.",
+   "seed": 1363238566,
+   "seconds": 6.0
+  },
+  {
+   "id": "lion-4",
+   "cat": "lion",
+   "tags": [
+    "lion",
+    "king",
+    "strength",
+    "leader"
+   ],
+   "scene": "Extreme close-up of a male lion's eyes and mane, golden light, dark background.",
+   "seed": 3171876100,
+   "seconds": 6.0
+  },
+  {
+   "id": "wolf-1",
+   "cat": "wolf",
+   "tags": [
+    "wolf",
+    "alone",
+    "hunter",
+    "loyalty"
+   ],
+   "scene": "A lone grey wolf walking through deep snow in a dark forest, breath visible.",
+   "seed": 2051275098,
+   "seconds": 6.0
+  },
+  {
+   "id": "wolf-2",
+   "cat": "wolf",
+   "tags": [
+    "wolf",
+    "alone",
+    "hunter",
+    "loyalty"
+   ],
+   "scene": "A wolf howling on a rocky hill under a full moon, night sky.",
+   "seed": 95961190,
+   "seconds": 6.0
+  },
+  {
+   "id": "wolf-3",
+   "cat": "wolf",
+   "tags": [
+    "wolf",
+    "alone",
+    "hunter",
+    "loyalty"
+   ],
+   "scene": "A wolf walking through a misty pine forest at dawn, looking toward the camera.",
+   "seed": 1871278256,
+   "seconds": 6.0
+  },
+  {
+   "id": "wolf-4",
+   "cat": "wolf",
+   "tags": [
+    "wolf",
+    "alone",
+    "hunter",
+    "loyalty"
+   ],
+   "scene": "Extreme close-up of a wolf's piercing eyes, snowflakes in its fur.",
+   "seed": 1827809596,
+   "seconds": 6.0
+  },
+  {
+   "id": "eagle-1",
+   "cat": "eagle",
+   "tags": [
+    "eagle",
+    "freedom",
+    "vision",
+    "rise"
+   ],
+   "scene": "A bald eagle flying over snowy mountains, wings fully spread.",
+   "seed": 3027256910,
+   "seconds": 6.0
+  },
+  {
+   "id": "eagle-2",
+   "cat": "eagle",
+   "tags": [
+    "eagle",
+    "freedom",
+    "vision",
+    "rise"
+   ],
+   "scene": "Close-up portrait of a golden eagle, sharp eyes, dark background.",
+   "seed": 2849620420,
+   "seconds": 6.0
+  },
+  {
+   "id": "eagle-3",
+   "cat": "eagle",
+   "tags": [
+    "eagle",
+    "freedom",
+    "vision",
+    "rise"
+   ],
+   "scene": "An eagle soaring above dark storm clouds, a beam of sun behind it.",
+   "seed": 311013076,
+   "seconds": 6.0
+  },
+  {
+   "id": "eagle-4",
+   "cat": "eagle",
+   "tags": [
+    "eagle",
+    "freedom",
+    "vision",
+    "rise"
+   ],
+   "scene": "An eagle landing on a dead tree branch, talons out, wings wide.",
+   "seed": 845717642,
+   "seconds": 6.0
+  },
+  {
    "id": "chess-1",
    "cat": "chess",
    "tags": [
@@ -421,6 +1201,188 @@
    ],
    "scene": "A man playing chess alone in a dark room, deep in thought, lamp light on the board.",
    "seed": 3415961393,
+   "seconds": 6.0
+  },
+  {
+   "id": "chess-3",
+   "cat": "chess",
+   "tags": [
+    "strategy",
+    "chess",
+    "king",
+    "mind"
+   ],
+   "scene": "A hand moving a chess king into position, extreme close-up, dramatic light.",
+   "seed": 2279387699,
+   "seconds": 6.0
+  },
+  {
+   "id": "chess-4",
+   "cat": "chess",
+   "tags": [
+    "strategy",
+    "chess",
+    "king",
+    "mind"
+   ],
+   "scene": "A chessboard in the dark with only the two kings left, smoke drifting.",
+   "seed": 3385770938,
+   "seconds": 6.0
+  },
+  {
+   "id": "city-night-1",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "ambition",
+    "night",
+    "view"
+   ],
+   "scene": "A city skyline at night seen from a rooftop, a man looking over it, seen from behind.",
+   "seed": 393277008,
+   "seconds": 6.0
+  },
+  {
+   "id": "city-night-2",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "ambition",
+    "night",
+    "view"
+   ],
+   "scene": "A man standing at a floor-to-ceiling office window at night, overlooking the city lights.",
+   "seed": 4232006389,
+   "seconds": 6.0
+  },
+  {
+   "id": "city-night-3",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "ambition",
+    "night",
+    "view"
+   ],
+   "scene": "An empty city street at four in the morning, wet asphalt, traffic lights reflecting.",
+   "seed": 3410927747,
+   "seconds": 6.0
+  },
+  {
+   "id": "city-night-4",
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "ambition",
+    "night",
+    "view"
+   ],
+   "scene": "Car light trails through a dark city seen from a high bridge, a silhouette watching.",
+   "seed": 4208886363,
+   "seconds": 6.0
+  },
+  {
+   "id": "suit-1",
+   "cat": "suit",
+   "tags": [
+    "success",
+    "business",
+    "ambition",
+    "style"
+   ],
+   "scene": "A man in a dark suit walking away down a long dark corridor toward a lit doorway, silhouette.",
+   "seed": 2363182694,
+   "seconds": 6.0
+  },
+  {
+   "id": "suit-2",
+   "cat": "suit",
+   "tags": [
+    "success",
+    "business",
+    "ambition",
+    "style"
+   ],
+   "scene": "A man adjusting his tie in front of a mirror in a dark room, sharp focus.",
+   "seed": 3288786154,
+   "seconds": 6.0
+  },
+  {
+   "id": "suit-3",
+   "cat": "suit",
+   "tags": [
+    "success",
+    "business",
+    "ambition",
+    "style"
+   ],
+   "scene": "A man in a suit walking out of a glass skyscraper at dawn, briefcase in hand.",
+   "seed": 3550029508,
+   "seconds": 6.0
+  },
+  {
+   "id": "suit-4",
+   "cat": "suit",
+   "tags": [
+    "success",
+    "business",
+    "ambition",
+    "style"
+   ],
+   "scene": "A man in a suit standing on a rooftop at night, city lights behind, wind in his coat.",
+   "seed": 2743818482,
+   "seconds": 6.0
+  },
+  {
+   "id": "victory-1",
+   "cat": "victory",
+   "tags": [
+    "win",
+    "victory",
+    "result",
+    "reward"
+   ],
+   "scene": "A golden trophy and a stack of finished work on a dark desk, a hand resting on it.",
+   "seed": 2097309566,
+   "seconds": 6.0
+  },
+  {
+   "id": "victory-2",
+   "cat": "victory",
+   "tags": [
+    "win",
+    "victory",
+    "result",
+    "reward"
+   ],
+   "scene": "A runner crossing a finish line with arms raised, silhouette against the sunrise.",
+   "seed": 2881302082,
+   "seconds": 6.0
+  },
+  {
+   "id": "victory-3",
+   "cat": "victory",
+   "tags": [
+    "win",
+    "victory",
+    "result",
+    "reward"
+   ],
+   "scene": "A boxer raising his arms in an empty ring, spotlight from above.",
+   "seed": 1699061370,
+   "seconds": 6.0
+  },
+  {
+   "id": "victory-4",
+   "cat": "victory",
+   "tags": [
+    "win",
+    "victory",
+    "result",
+    "reward"
+   ],
+   "scene": "Close-up of a hand holding a gold medal, sweat and chalk on the fingers.",
+   "seed": 2467654457,
    "seconds": 6.0
   },
   {
@@ -476,6 +1438,370 @@
    "seconds": 6.0
   },
   {
+   "id": "hands-1",
+   "cat": "hands",
+   "tags": [
+    "hands",
+    "hard work",
+    "grip",
+    "scars"
+   ],
+   "scene": "A man's hands wrapped in boxing tape, close-up, sweat dripping.",
+   "seed": 1036926276,
+   "seconds": 6.0
+  },
+  {
+   "id": "hands-2",
+   "cat": "hands",
+   "tags": [
+    "hands",
+    "hard work",
+    "grip",
+    "scars"
+   ],
+   "scene": "Calloused hands gripping a heavy barbell, chalk, close-up.",
+   "seed": 2196424712,
+   "seconds": 6.0
+  },
+  {
+   "id": "hands-3",
+   "cat": "hands",
+   "tags": [
+    "hands",
+    "hard work",
+    "grip",
+    "scars"
+   ],
+   "scene": "Hands gripping a thick climbing rope, veins visible, dark gym.",
+   "seed": 1654045545,
+   "seconds": 6.0
+  },
+  {
+   "id": "hands-4",
+   "cat": "hands",
+   "tags": [
+    "hands",
+    "hard work",
+    "grip",
+    "scars"
+   ],
+   "scene": "Dirty, scarred working hands resting on a wooden table, dramatic side light.",
+   "seed": 2040028172,
+   "seconds": 6.0
+  },
+  {
+   "id": "eyes-1",
+   "cat": "eyes",
+   "tags": [
+    "focus",
+    "eyes",
+    "intensity",
+    "mindset"
+   ],
+   "scene": "Extreme close-up of a man's intense eyes, half of his face in shadow.",
+   "seed": 3709926282,
+   "seconds": 6.0
+  },
+  {
+   "id": "eyes-2",
+   "cat": "eyes",
+   "tags": [
+    "focus",
+    "eyes",
+    "intensity",
+    "mindset"
+   ],
+   "scene": "A man staring at his reflection in a dark mirror, determined.",
+   "seed": 636344657,
+   "seconds": 6.0
+  },
+  {
+   "id": "eyes-3",
+   "cat": "eyes",
+   "tags": [
+    "focus",
+    "eyes",
+    "intensity",
+    "mindset"
+   ],
+   "scene": "A man's face lit by a single orange light in total darkness, calm and focused.",
+   "seed": 2545587948,
+   "seconds": 6.0
+  },
+  {
+   "id": "eyes-4",
+   "cat": "eyes",
+   "tags": [
+    "focus",
+    "eyes",
+    "intensity",
+    "mindset"
+   ],
+   "scene": "Close-up of a man with his eyes closed, breathing slowly, preparing before a fight.",
+   "seed": 3903008333,
+   "seconds": 6.0
+  },
+  {
+   "id": "storm-1",
+   "cat": "storm",
+   "tags": [
+    "storm",
+    "chaos",
+    "resilience",
+    "sea"
+   ],
+   "scene": "A lighthouse standing in a violent storm, huge waves crashing against it.",
+   "seed": 841023857,
+   "seconds": 6.0
+  },
+  {
+   "id": "storm-2",
+   "cat": "storm",
+   "tags": [
+    "storm",
+    "chaos",
+    "resilience",
+    "sea"
+   ],
+   "scene": "Huge waves crashing against black rocks under a dark sky.",
+   "seed": 1682873427,
+   "seconds": 6.0
+  },
+  {
+   "id": "storm-3",
+   "cat": "storm",
+   "tags": [
+    "storm",
+    "chaos",
+    "resilience",
+    "sea"
+   ],
+   "scene": "A small boat in a dark stormy sea, a single light on board.",
+   "seed": 780308305,
+   "seconds": 6.0
+  },
+  {
+   "id": "storm-4",
+   "cat": "storm",
+   "tags": [
+    "storm",
+    "chaos",
+    "resilience",
+    "sea"
+   ],
+   "scene": "A man standing on a beach facing a huge storm coming from the sea, wind in his clothes.",
+   "seed": 1043925400,
+   "seconds": 6.0
+  },
+  {
+   "id": "forge-1",
+   "cat": "forge",
+   "tags": [
+    "fire",
+    "forge",
+    "pressure",
+    "strength"
+   ],
+   "scene": "A blacksmith hammering glowing steel on an anvil, sparks flying in the dark.",
+   "seed": 2174576149,
+   "seconds": 6.0
+  },
+  {
+   "id": "forge-2",
+   "cat": "forge",
+   "tags": [
+    "fire",
+    "forge",
+    "pressure",
+    "strength"
+   ],
+   "scene": "Molten metal being poured in a dark foundry, intense orange glow.",
+   "seed": 1005469916,
+   "seconds": 6.0
+  },
+  {
+   "id": "forge-3",
+   "cat": "forge",
+   "tags": [
+    "fire",
+    "forge",
+    "pressure",
+    "strength"
+   ],
+   "scene": "A glowing red-hot blade being quenched in water, steam rising.",
+   "seed": 1777012393,
+   "seconds": 6.0
+  },
+  {
+   "id": "forge-4",
+   "cat": "forge",
+   "tags": [
+    "fire",
+    "forge",
+    "pressure",
+    "strength"
+   ],
+   "scene": "Close-up of flames in a dark forge, embers flying.",
+   "seed": 839760612,
+   "seconds": 6.0
+  },
+  {
+   "id": "cold-1",
+   "cat": "cold",
+   "tags": [
+    "cold",
+    "discipline",
+    "ice",
+    "endurance"
+   ],
+   "scene": "A man under a cold shower in a dark bathroom, water hitting his shoulders, eyes closed.",
+   "seed": 3006859688,
+   "seconds": 6.0
+  },
+  {
+   "id": "cold-2",
+   "cat": "cold",
+   "tags": [
+    "cold",
+    "discipline",
+    "ice",
+    "endurance"
+   ],
+   "scene": "A man sitting in an ice bath outdoors in winter, steam and frost around him.",
+   "seed": 3426432122,
+   "seconds": 6.0
+  },
+  {
+   "id": "cold-3",
+   "cat": "cold",
+   "tags": [
+    "cold",
+    "discipline",
+    "ice",
+    "endurance"
+   ],
+   "scene": "A man walking into a frozen lake at dawn, mist on the water.",
+   "seed": 2729503735,
+   "seconds": 6.0
+  },
+  {
+   "id": "cold-4",
+   "cat": "cold",
+   "tags": [
+    "cold",
+    "discipline",
+    "ice",
+    "endurance"
+   ],
+   "scene": "Close-up of a man's breath freezing in the air, frost on his beard, winter night.",
+   "seed": 2541941249,
+   "seconds": 6.0
+  },
+  {
+   "id": "phone-down-1",
+   "cat": "phone-down",
+   "tags": [
+    "focus",
+    "distraction",
+    "phone",
+    "choice"
+   ],
+   "scene": "A smartphone lying face down on a dark wooden table, a notebook and pen beside it.",
+   "seed": 3139401499,
+   "seconds": 6.0
+  },
+  {
+   "id": "phone-down-2",
+   "cat": "phone-down",
+   "tags": [
+    "focus",
+    "distraction",
+    "phone",
+    "choice"
+   ],
+   "scene": "A man putting his phone into a drawer and closing it, dark room, lamp light.",
+   "seed": 2107933740,
+   "seconds": 6.0
+  },
+  {
+   "id": "phone-down-3",
+   "cat": "phone-down",
+   "tags": [
+    "focus",
+    "distraction",
+    "phone",
+    "choice"
+   ],
+   "scene": "A phone glowing on a gym bench while a man trains in the dark background, out of focus.",
+   "seed": 1113939614,
+   "seconds": 6.0
+  },
+  {
+   "id": "phone-down-4",
+   "cat": "phone-down",
+   "tags": [
+    "focus",
+    "distraction",
+    "phone",
+    "choice"
+   ],
+   "scene": "A man turning away from a glowing phone screen toward a dark window at dawn.",
+   "seed": 2739503151,
+   "seconds": 6.0
+  },
+  {
+   "id": "time-1",
+   "cat": "time",
+   "tags": [
+    "time",
+    "clock",
+    "urgency",
+    "life"
+   ],
+   "scene": "An hourglass with sand running on a dark table, a single beam of light.",
+   "seed": 1162302649,
+   "seconds": 6.0
+  },
+  {
+   "id": "time-2",
+   "cat": "time",
+   "tags": [
+    "time",
+    "clock",
+    "urgency",
+    "life"
+   ],
+   "scene": "An old pocket watch open on a dark wooden table, close-up.",
+   "seed": 2232849400,
+   "seconds": 6.0
+  },
+  {
+   "id": "time-3",
+   "cat": "time",
+   "tags": [
+    "time",
+    "clock",
+    "urgency",
+    "life"
+   ],
+   "scene": "Close-up of a wristwatch on a man's wrist gripping a barbell.",
+   "seed": 2988674128,
+   "seconds": 6.0
+  },
+  {
+   "id": "time-4",
+   "cat": "time",
+   "tags": [
+    "time",
+    "clock",
+    "urgency",
+    "life"
+   ],
+   "scene": "A large old clock face in a dark tower, a man's silhouette in front of it.",
+   "seed": 1972321211,
+   "seconds": 6.0
+  },
+  {
    "id": "alone-road-1",
    "cat": "alone-road",
    "tags": [
@@ -525,6 +1851,422 @@
    ],
    "scene": "A man walking alone on an empty highway at night, a long shadow under a street lamp.",
    "seed": 2420115746,
+   "seconds": 6.0
+  },
+  {
+   "id": "fall-rise-1",
+   "cat": "fall-rise",
+   "tags": [
+    "failure",
+    "comeback",
+    "struggle",
+    "rise"
+   ],
+   "scene": "A man on his knees in the rain on an empty street, head down, about to rise.",
+   "seed": 1837390456,
+   "seconds": 6.0
+  },
+  {
+   "id": "fall-rise-2",
+   "cat": "fall-rise",
+   "tags": [
+    "failure",
+    "comeback",
+    "struggle",
+    "rise"
+   ],
+   "scene": "A boxer knocked down in a ring, pushing himself up with one hand, spotlight.",
+   "seed": 950049520,
+   "seconds": 6.0
+  },
+  {
+   "id": "fall-rise-3",
+   "cat": "fall-rise",
+   "tags": [
+    "failure",
+    "comeback",
+    "struggle",
+    "rise"
+   ],
+   "scene": "A runner fallen on a wet track, pushing himself back up.",
+   "seed": 3621679758,
+   "seconds": 6.0
+  },
+  {
+   "id": "fall-rise-4",
+   "cat": "fall-rise",
+   "tags": [
+    "failure",
+    "comeback",
+    "struggle",
+    "rise"
+   ],
+   "scene": "A man sitting alone in a dark room with his head in his hands, light from a window.",
+   "seed": 2779227543,
+   "seconds": 6.0
+  },
+  {
+   "id": "routine-1",
+   "cat": "routine",
+   "tags": [
+    "routine",
+    "habits",
+    "order",
+    "discipline"
+   ],
+   "scene": "A perfectly made bed in a dark minimalist room at dawn, a single beam of light.",
+   "seed": 297498171,
+   "seconds": 6.0
+  },
+  {
+   "id": "routine-2",
+   "cat": "routine",
+   "tags": [
+    "routine",
+    "habits",
+    "order",
+    "discipline"
+   ],
+   "scene": "A man preparing healthy meals in a dark kitchen at night, knife and vegetables, focused.",
+   "seed": 1403252336,
+   "seconds": 6.0
+  },
+  {
+   "id": "routine-3",
+   "cat": "routine",
+   "tags": [
+    "routine",
+    "habits",
+    "order",
+    "discipline"
+   ],
+   "scene": "An open journal, a pen and a black coffee on a dark table at sunrise.",
+   "seed": 1139205484,
+   "seconds": 6.0
+  },
+  {
+   "id": "routine-4",
+   "cat": "routine",
+   "tags": [
+    "routine",
+    "habits",
+    "order",
+    "discipline"
+   ],
+   "scene": "A man meditating cross-legged on a rooftop at dawn, the city below in fog.",
+   "seed": 1005580581,
+   "seconds": 6.0
+  },
+  {
+   "id": "wealth-1",
+   "cat": "wealth",
+   "tags": [
+    "money",
+    "success",
+    "reward",
+    "lifestyle"
+   ],
+   "scene": "A black sports car parked in a dark underground garage, a single light above it.",
+   "seed": 3216917582,
+   "seconds": 6.0
+  },
+  {
+   "id": "wealth-2",
+   "cat": "wealth",
+   "tags": [
+    "money",
+    "success",
+    "reward",
+    "lifestyle"
+   ],
+   "scene": "A luxury watch on a dark marble surface, dramatic light.",
+   "seed": 3174079768,
+   "seconds": 6.0
+  },
+  {
+   "id": "wealth-3",
+   "cat": "wealth",
+   "tags": [
+    "money",
+    "success",
+    "reward",
+    "lifestyle"
+   ],
+   "scene": "A man in a suit sitting in the back of a car at night, city lights through the window.",
+   "seed": 695441407,
+   "seconds": 6.0
+  },
+  {
+   "id": "wealth-4",
+   "cat": "wealth",
+   "tags": [
+    "money",
+    "success",
+    "reward",
+    "lifestyle"
+   ],
+   "scene": "A modern glass house on a cliff at night, warm interior light.",
+   "seed": 3486595636,
+   "seconds": 6.0
+  },
+  {
+   "id": "legacy-1",
+   "cat": "legacy",
+   "tags": [
+    "family",
+    "legacy",
+    "father",
+    "purpose"
+   ],
+   "scene": "A father and his young son walking together on a road at sunset, silhouettes.",
+   "seed": 3733558017,
+   "seconds": 6.0
+  },
+  {
+   "id": "legacy-2",
+   "cat": "legacy",
+   "tags": [
+    "family",
+    "legacy",
+    "father",
+    "purpose"
+   ],
+   "scene": "An old man looking at the sunset from a porch, peaceful and proud.",
+   "seed": 4268054921,
+   "seconds": 6.0
+  },
+  {
+   "id": "legacy-3",
+   "cat": "legacy",
+   "tags": [
+    "family",
+    "legacy",
+    "father",
+    "purpose"
+   ],
+   "scene": "A man holding his child's small hand, close-up, warm light.",
+   "seed": 2413697024,
+   "seconds": 6.0
+  },
+  {
+   "id": "legacy-4",
+   "cat": "legacy",
+   "tags": [
+    "family",
+    "legacy",
+    "father",
+    "purpose"
+   ],
+   "scene": "A father teaching his son to box in a garage gym, warm lamp light.",
+   "seed": 2747371185,
+   "seconds": 6.0
+  },
+  {
+   "id": "sunrise-1",
+   "cat": "sunrise",
+   "tags": [
+    "new day",
+    "sunrise",
+    "hope",
+    "start"
+   ],
+   "scene": "The sun rising over a city skyline, first golden light through the fog.",
+   "seed": 2138296202,
+   "seconds": 6.0
+  },
+  {
+   "id": "sunrise-2",
+   "cat": "sunrise",
+   "tags": [
+    "new day",
+    "sunrise",
+    "hope",
+    "start"
+   ],
+   "scene": "The first light of sunrise over an empty field, a lone figure walking.",
+   "seed": 3551924953,
+   "seconds": 6.0
+  },
+  {
+   "id": "sunrise-3",
+   "cat": "sunrise",
+   "tags": [
+    "new day",
+    "sunrise",
+    "hope",
+    "start"
+   ],
+   "scene": "A man on a balcony watching the sunrise with a cup of coffee, silhouette.",
+   "seed": 1717725692,
+   "seconds": 6.0
+  },
+  {
+   "id": "sunrise-4",
+   "cat": "sunrise",
+   "tags": [
+    "new day",
+    "sunrise",
+    "hope",
+    "start"
+   ],
+   "scene": "The sun breaking through dark clouds over a mountain range.",
+   "seed": 3205415161,
+   "seconds": 6.0
+  },
+  {
+   "id": "warrior-1",
+   "cat": "warrior",
+   "tags": [
+    "warrior",
+    "honor",
+    "strength",
+    "history"
+   ],
+   "scene": "An ancient Spartan bronze helmet resting on a dark wooden table, dramatic light.",
+   "seed": 2293300280,
+   "seconds": 6.0
+  },
+  {
+   "id": "warrior-2",
+   "cat": "warrior",
+   "tags": [
+    "warrior",
+    "honor",
+    "strength",
+    "history"
+   ],
+   "scene": "A samurai sword on a stand in a dark room, a beam of light on the blade.",
+   "seed": 982154475,
+   "seconds": 6.0
+  },
+  {
+   "id": "warrior-3",
+   "cat": "warrior",
+   "tags": [
+    "warrior",
+    "honor",
+    "strength",
+    "history"
+   ],
+   "scene": "A knight's armor standing in a dark stone hall, torch light.",
+   "seed": 4020503333,
+   "seconds": 6.0
+  },
+  {
+   "id": "warrior-4",
+   "cat": "warrior",
+   "tags": [
+    "warrior",
+    "honor",
+    "strength",
+    "history"
+   ],
+   "scene": "A lone warrior in a dark cloak standing on a hill facing a storm, seen from behind.",
+   "seed": 23944764,
+   "seconds": 6.0
+  },
+  {
+   "id": "night-drive-1",
+   "cat": "night-drive",
+   "tags": [
+    "drive",
+    "night",
+    "focus",
+    "journey"
+   ],
+   "scene": "A man's hands gripping a steering wheel at night, dashboard glow, city lights blurred.",
+   "seed": 3759736795,
+   "seconds": 6.0
+  },
+  {
+   "id": "night-drive-2",
+   "cat": "night-drive",
+   "tags": [
+    "drive",
+    "night",
+    "focus",
+    "journey"
+   ],
+   "scene": "An empty highway at night seen from inside a car, the long road ahead.",
+   "seed": 1711826608,
+   "seconds": 6.0
+  },
+  {
+   "id": "night-drive-3",
+   "cat": "night-drive",
+   "tags": [
+    "drive",
+    "night",
+    "focus",
+    "journey"
+   ],
+   "scene": "A motorcycle rider on an empty road at night, the headlight cutting through fog.",
+   "seed": 3119358491,
+   "seconds": 6.0
+  },
+  {
+   "id": "night-drive-4",
+   "cat": "night-drive",
+   "tags": [
+    "drive",
+    "night",
+    "focus",
+    "journey"
+   ],
+   "scene": "A car driving alone on a mountain road at dawn, headlights on.",
+   "seed": 1892334955,
+   "seconds": 6.0
+  },
+  {
+   "id": "stairs-1",
+   "cat": "stairs",
+   "tags": [
+    "climb",
+    "progress",
+    "effort",
+    "steps"
+   ],
+   "scene": "A man running up an endless concrete staircase in a dark city, seen from below.",
+   "seed": 1439418299,
+   "seconds": 6.0
+  },
+  {
+   "id": "stairs-2",
+   "cat": "stairs",
+   "tags": [
+    "climb",
+    "progress",
+    "effort",
+    "steps"
+   ],
+   "scene": "A man climbing a steep stone staircase up a mountain at sunrise.",
+   "seed": 293860857,
+   "seconds": 6.0
+  },
+  {
+   "id": "stairs-3",
+   "cat": "stairs",
+   "tags": [
+    "climb",
+    "progress",
+    "effort",
+    "steps"
+   ],
+   "scene": "Looking up a spiral staircase with a man climbing toward the light at the top.",
+   "seed": 3644853056,
+   "seconds": 6.0
+  },
+  {
+   "id": "stairs-4",
+   "cat": "stairs",
+   "tags": [
+    "climb",
+    "progress",
+    "effort",
+    "steps"
+   ],
+   "scene": "A man carrying a heavy sandbag up stadium stairs at night.",
+   "seed": 2897463966,
    "seconds": 6.0
   },
   {

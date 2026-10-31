@@ -14,3 +14,4 @@ Déjà présentes :
 
 Le système fait tourner les musiques pour que deux vidéos d'affilée n'aient jamais la même,
 et démarre chaque musique après son intro calme.
+- sonican-epic-orchestral-music-dramatic-loop-467131.mp3 et the_mountain-epic-508009.mp3 (Pixabay, reprises de Hidden Bible Facts)

@@ -56,7 +56,8 @@ Tone and safety, always:
   as a reward, no get-rich-quick claims or money promises, no medical or diet claims, no politics, no religion attacks,
   no brand names, no real living people.
 - No invented quotes. Paraphrase well-known stoic ideas (Marcus Aurelius, Seneca, Epictetus) only when you are sure of them.
-- Every monologue is new: do not reuse lines or hooks from other content files.
+- Every monologue is new: do not reuse lines or hooks from other content files, and never copy the example hooks of
+  this prompt (they are already used). src/add_content.py refuses any repeated hook or 6+ word sentence.
 
 STEP 4 - Check facts.
 The monologues are mostly advice, but check with WebSearch every factual claim (numbers, history, who said what). Remove or
