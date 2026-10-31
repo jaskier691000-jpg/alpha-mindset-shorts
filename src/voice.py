@@ -48,8 +48,18 @@ def words_of(text):
     return re.findall(r"[a-z0-9]+", text)
 
 
+NUMBER_WORDS = set("zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen "
+                   "sixteen seventeen eighteen nineteen twenty thirty forty fifty sixty seventy eighty ninety "
+                   "hundred hundreds thousand thousands million millions billion billions twenties thirties "
+                   "forties fifties sixties seventies eighties nineties".split())
+
+
 def match(script, heard):
-    return difflib.SequenceMatcher(None, words_of(script), words_of(heard)).ratio()
+    """Share of the script's words whisper heard. Numbers are left out on both sides: whisper writes
+    "seven" as "7", which made "Fall seven times. Rise eight." look 60% wrong and could stop the video."""
+    def plain(text):
+        return [w for w in words_of(text) if w not in NUMBER_WORDS and not any(c.isdigit() for c in w)]
+    return difflib.SequenceMatcher(None, plain(script), plain(heard)).ratio()
 
 
 def say(text, seed, wav_path):
