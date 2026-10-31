@@ -1,0 +1,8 @@
+{
+  "_help": "moods: mood -> track files; categories: plan category -> mood (empty = every track fits every video, rotated so the same track never plays twice in a row). credits: track file -> line added to the post caption (CC BY tracks only; Pixabay Music tracks need none).",
+  "moods": {},
+  "categories": {},
+  "credits": {
+    "dark-moment-dark-epic-trailer-e-erkut.mp3": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+  }
+}

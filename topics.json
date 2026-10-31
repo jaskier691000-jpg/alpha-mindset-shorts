@@ -1,0 +1,259 @@
+[
+  {
+    "id": "nobody-is-coming-to-save-you",
+    "category": "Discipline",
+    "title": {
+      "en": "Nobody is coming to save you"
+    },
+    "lines": {
+      "en": [
+        {
+          "text": "Nobody is coming to save you.",
+          "card": "NOBODY IS COMING",
+          "scene": "rain-alone",
+          "gap": 0.7
+        },
+        {
+          "text": "Not your friends. Not your family. Not luck.",
+          "scene": "crowd-against",
+          "search": "man walking alone crowd",
+          "gap": 0.5
+        },
+        {
+          "text": "Every morning, you wake up with two choices.",
+          "scene": "morning-alarm",
+          "search": "man waking up morning"
+        },
+        {
+          "text": "Stay comfortable, and stay the same.",
+          "scene": "comfort-trap",
+          "search": "man lying sofa phone"
+        },
+        {
+          "text": "Scroll a little longer. Sleep a little later. Wait for a better day.",
+          "scene": "phone-down",
+          "search": "phone scrolling bed night",
+          "gap": 0.4
+        },
+        {
+          "text": "Or get up, and become the man you promised yourself you would be.",
+          "card": "GET UP",
+          "scene": "getting-ready",
+          "search": "man tying running shoes",
+          "gap": 0.6
+        },
+        {
+          "text": "Discipline is doing it when you don't feel like it.",
+          "card": "DISCIPLINE",
+          "scene": "gym-heavy",
+          "search": "man lifting weights gym"
+        },
+        {
+          "text": "When it's cold. When you're tired. When nobody is watching.",
+          "scene": "run-hard",
+          "search": "man running night snow"
+        },
+        {
+          "text": "That's where the real work happens. In silence.",
+          "card": "IN SILENCE",
+          "scene": "boxing",
+          "search": "boxer training punching bag",
+          "gap": 0.6
+        },
+        {
+          "text": "The world doesn't respect excuses. It respects results.",
+          "card": "RESULTS",
+          "scene": "victory",
+          "search": "winner trophy celebration",
+          "gap": 0.5
+        },
+        {
+          "text": "So stop waiting for the right moment. Stop asking for permission.",
+          "scene": "into-light",
+          "search": "man walking tunnel light"
+        },
+        {
+          "text": "Every rep. Every page. Every time you say no to the easy way.",
+          "scene": "reading",
+          "search": "man reading book night",
+          "gap": 0.3
+        },
+        {
+          "text": "Each one is a brick nobody can ever take from you.",
+          "scene": "build",
+          "search": "building brick wall",
+          "gap": 0.6
+        },
+        {
+          "text": "Nobody will clap for you at five in the morning. Do it anyway.",
+          "scene": "run-hard",
+          "search": "man running dawn city",
+          "gap": 0.6
+        },
+        {
+          "text": "Your excuses will always sound reasonable. That is exactly why they are dangerous.",
+          "scene": "eyes",
+          "search": "man staring mirror dark",
+          "gap": 0.6
+        },
+        {
+          "text": "Pain is temporary. Regret lasts forever.",
+          "card": "NO REGRET",
+          "scene": "hands",
+          "search": "boxing hands tape",
+          "gap": 0.6
+        },
+        {
+          "text": "Lead yourself first. Then lead your life.",
+          "card": "LEAD YOURSELF",
+          "scene": "summit",
+          "search": "man mountain summit sunrise",
+          "gap": 0.6
+        },
+        {
+          "text": "Now get up. And go to work.",
+          "card": "GO TO WORK",
+          "scene": "lion",
+          "search": "lion walking savanna",
+          "gap": 0.5
+        },
+        {
+          "text": "Follow for your daily dose of discipline.",
+          "card": "FOLLOW",
+          "scene": "suit",
+          "search": "man walking city night",
+          "gap": 0.3
+        }
+      ]
+    },
+    "caption": {
+      "en": "A reminder for every man waiting for someone else to change his life: discipline, silence and work."
+    },
+    "hashtags": {
+      "en": "#discipline #selfimprovement #motivation #mindset"
+    }
+  },
+  {
+    "id": "discipline-beats-motivation",
+    "category": "Discipline",
+    "title": {
+      "en": "Discipline beats motivation"
+    },
+    "lines": {
+      "en": [
+        {
+          "text": "Motivation will leave you on the hardest day.",
+          "card": "MOTIVATION LIES",
+          "scene": "eyes",
+          "gap": 0.6
+        },
+        {
+          "text": "It shows up when life is easy, and disappears when you need it most.",
+          "scene": "comfort-trap",
+          "search": "man tired couch night"
+        },
+        {
+          "text": "That's why winners don't wait to feel ready.",
+          "scene": "getting-ready",
+          "search": "athlete preparing training"
+        },
+        {
+          "text": "They decide once. Then they show up every single day.",
+          "card": "SHOW UP",
+          "scene": "morning-alarm",
+          "search": "man waking early morning",
+          "gap": 0.6
+        },
+        {
+          "text": "Rain or sun. Good mood or bad mood.",
+          "scene": "rain-alone",
+          "search": "man walking rain city"
+        },
+        {
+          "text": "Discipline doesn't care how you feel.",
+          "card": "DISCIPLINE",
+          "scene": "gym-effort",
+          "search": "man pull ups gym",
+          "gap": 0.6
+        },
+        {
+          "text": "It only cares what you do next.",
+          "scene": "work-late",
+          "search": "man working late night desk"
+        },
+        {
+          "text": "Not what you planned. Not what you posted. What you actually did today.",
+          "scene": "time",
+          "search": "clock ticking dark",
+          "gap": 0.5
+        },
+        {
+          "text": "The man who trains on the days he hates it builds a body nobody can fake.",
+          "scene": "gym-heavy",
+          "search": "weightlifting gym"
+        },
+        {
+          "text": "The man who writes when his head is empty builds a mind nobody can buy.",
+          "scene": "reading",
+          "search": "man writing journal desk",
+          "gap": 0.6
+        },
+        {
+          "text": "Motivation is a spark. Discipline is the fire you keep alive.",
+          "card": "KEEP THE FIRE",
+          "scene": "forge",
+          "search": "fire flames dark",
+          "gap": 0.6
+        },
+        {
+          "text": "So stop chasing the feeling.",
+          "scene": "alone-road",
+          "search": "man walking alone road"
+        },
+        {
+          "text": "Feelings change every hour. Your standards should not.",
+          "scene": "eyes",
+          "search": "man focused eyes close",
+          "gap": 0.5
+        },
+        {
+          "text": "Set the alarm. Lay out your clothes. Make the first move before your mind can argue.",
+          "scene": "routine",
+          "search": "man running sunrise city"
+        },
+        {
+          "text": "Do it tired. Do it bored. Do it alone.",
+          "card": "DO IT TIRED",
+          "scene": "run-hard",
+          "search": "man running night rain",
+          "gap": 0.6
+        },
+        {
+          "text": "The results will come quietly, long after the work is done.",
+          "scene": "build",
+          "search": "brick wall building sunset",
+          "gap": 0.5
+        },
+        {
+          "text": "One day you will look back and thank the man who refused to quit.",
+          "scene": "summit",
+          "search": "man mountain top sunrise",
+          "gap": 0.6
+        },
+        {
+          "text": "Follow if you're done waiting for motivation.",
+          "card": "FOLLOW",
+          "scene": "suit",
+          "search": "man walking city sunrise",
+          "gap": 0.3
+        }
+      ]
+    },
+    "caption": {
+      "en": "Discipline beats motivation every time: how to keep training, working and building on the days you feel nothing."
+    },
+    "hashtags": {
+      "en": "#discipline #motivation #gymmotivation #selfimprovement"
+    }
+  }
+]

@@ -1,0 +1,348 @@
+{
+ "style": "Cinematic dark film still, dramatic low-key lighting, high contrast, moody teal and orange color grade, realistic photography, sharp detail, vertical composition, no text, no logos.",
+ "categories": [
+  {
+   "cat": "rain-alone",
+   "tags": [
+    "rain",
+    "alone",
+    "night",
+    "struggle"
+   ]
+  },
+  {
+   "cat": "crowd-against",
+   "tags": [
+    "alone",
+    "different",
+    "crowd",
+    "path"
+   ]
+  },
+  {
+   "cat": "morning-alarm",
+   "tags": [
+    "morning",
+    "wake up",
+    "early",
+    "routine"
+   ]
+  },
+  {
+   "cat": "comfort-trap",
+   "tags": [
+    "lazy",
+    "comfort",
+    "phone",
+    "wasted time"
+   ]
+  },
+  {
+   "cat": "getting-ready",
+   "tags": [
+    "prepare",
+    "start",
+    "ready",
+    "discipline"
+   ]
+  },
+  {
+   "cat": "gym-heavy",
+   "tags": [
+    "gym",
+    "strength",
+    "lifting",
+    "training"
+   ]
+  },
+  {
+   "cat": "gym-effort",
+   "tags": [
+    "gym",
+    "pain",
+    "effort",
+    "sweat"
+   ]
+  },
+  {
+   "cat": "run-hard",
+   "tags": [
+    "running",
+    "cardio",
+    "night",
+    "weather"
+   ]
+  },
+  {
+   "cat": "boxing",
+   "tags": [
+    "fight",
+    "boxing",
+    "training",
+    "discipline"
+   ]
+  },
+  {
+   "cat": "work-late",
+   "tags": [
+    "work",
+    "silence",
+    "focus",
+    "night"
+   ]
+  },
+  {
+   "cat": "reading",
+   "tags": [
+    "learning",
+    "books",
+    "mind",
+    "growth"
+   ]
+  },
+  {
+   "cat": "into-light",
+   "tags": [
+    "hope",
+    "breakthrough",
+    "exit",
+    "future"
+   ]
+  },
+  {
+   "cat": "summit",
+   "tags": [
+    "goal",
+    "mountain",
+    "success",
+    "climb"
+   ]
+  },
+  {
+   "cat": "lion",
+   "tags": [
+    "lion",
+    "king",
+    "strength",
+    "leader"
+   ]
+  },
+  {
+   "cat": "wolf",
+   "tags": [
+    "wolf",
+    "alone",
+    "hunter",
+    "loyalty"
+   ]
+  },
+  {
+   "cat": "eagle",
+   "tags": [
+    "eagle",
+    "freedom",
+    "vision",
+    "rise"
+   ]
+  },
+  {
+   "cat": "chess",
+   "tags": [
+    "strategy",
+    "chess",
+    "king",
+    "mind"
+   ]
+  },
+  {
+   "cat": "city-night",
+   "tags": [
+    "city",
+    "ambition",
+    "night",
+    "view"
+   ]
+  },
+  {
+   "cat": "suit",
+   "tags": [
+    "success",
+    "business",
+    "ambition",
+    "style"
+   ]
+  },
+  {
+   "cat": "victory",
+   "tags": [
+    "win",
+    "victory",
+    "result",
+    "reward"
+   ]
+  },
+  {
+   "cat": "build",
+   "tags": [
+    "build",
+    "work",
+    "patience",
+    "foundation"
+   ]
+  },
+  {
+   "cat": "hands",
+   "tags": [
+    "hands",
+    "hard work",
+    "grip",
+    "scars"
+   ]
+  },
+  {
+   "cat": "eyes",
+   "tags": [
+    "focus",
+    "eyes",
+    "intensity",
+    "mindset"
+   ]
+  },
+  {
+   "cat": "storm",
+   "tags": [
+    "storm",
+    "chaos",
+    "resilience",
+    "sea"
+   ]
+  },
+  {
+   "cat": "forge",
+   "tags": [
+    "fire",
+    "forge",
+    "pressure",
+    "strength"
+   ]
+  },
+  {
+   "cat": "cold",
+   "tags": [
+    "cold",
+    "discipline",
+    "ice",
+    "endurance"
+   ]
+  },
+  {
+   "cat": "phone-down",
+   "tags": [
+    "focus",
+    "distraction",
+    "phone",
+    "choice"
+   ]
+  },
+  {
+   "cat": "time",
+   "tags": [
+    "time",
+    "clock",
+    "urgency",
+    "life"
+   ]
+  },
+  {
+   "cat": "alone-road",
+   "tags": [
+    "alone",
+    "journey",
+    "path",
+    "silence"
+   ]
+  },
+  {
+   "cat": "fall-rise",
+   "tags": [
+    "failure",
+    "comeback",
+    "struggle",
+    "rise"
+   ]
+  },
+  {
+   "cat": "routine",
+   "tags": [
+    "routine",
+    "habits",
+    "order",
+    "discipline"
+   ]
+  },
+  {
+   "cat": "wealth",
+   "tags": [
+    "money",
+    "success",
+    "reward",
+    "lifestyle"
+   ]
+  },
+  {
+   "cat": "legacy",
+   "tags": [
+    "family",
+    "legacy",
+    "father",
+    "purpose"
+   ]
+  },
+  {
+   "cat": "sunrise",
+   "tags": [
+    "new day",
+    "sunrise",
+    "hope",
+    "start"
+   ]
+  },
+  {
+   "cat": "warrior",
+   "tags": [
+    "warrior",
+    "honor",
+    "strength",
+    "history"
+   ]
+  },
+  {
+   "cat": "night-drive",
+   "tags": [
+    "drive",
+    "night",
+    "focus",
+    "journey"
+   ]
+  },
+  {
+   "cat": "stairs",
+   "tags": [
+    "climb",
+    "progress",
+    "effort",
+    "steps"
+   ]
+  },
+  {
+   "cat": "arena",
+   "tags": [
+    "stage",
+    "spotlight",
+    "pressure",
+    "moment"
+   ]
+  }
+ ],
+ "clips": []
+}

@@ -1,0 +1,8 @@
+# torch 2.6.0 + torchaudio 2.6.0 are installed first (CPU build on GitHub, see .github/workflows/daily.yml)
+# Chatterbox (Resemble AI, MIT): pinned to the commit tested on 31 Oct 2026, which has the Nano model
+chatterbox-tts @ git+https://github.com/resemble-ai/chatterbox.git@5de7a54
+# whisper, to hear every voice line back
+faster-whisper==1.2.1
+ctranslate2==4.8.4
+av==18.1.0   # av 19 dropped an option faster-whisper 1.2 still passes
+tzdata==2026.6

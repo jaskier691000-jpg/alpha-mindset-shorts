@@ -1,0 +1,57 @@
+# Every 30 minutes around the posting times: asks Zernio whether the scheduled videos went live
+# and sends a Telegram message (published with links, or the problem). Takes about 20 seconds.
+name: Check posts and send Telegram alerts (Alpha Mindset)
+
+on:
+  # OFF until the owner approves the tests (go-live): then uncomment these 3 lines.
+  # schedule:
+  #   # 05:00-08:30 and 17:00-20:30 UTC covers the morning and evening posts, winter and summer time
+  #   - cron: "*/30 5-8,17-20 * * *"
+  workflow_dispatch:     # "Run workflow" button; "test" sends a Telegram test message from GitHub
+    inputs:
+      mode:
+        description: "check = check the posts | test = send a Telegram test message | accounts = check the Zernio key and list the accounts"
+        default: check
+        type: choice
+        options: [check, test, accounts]
+
+permissions:
+  contents: write  # to save notified.json (posts already reported)
+
+concurrency:
+  group: post-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Check the posts and send alerts
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MODE: ${{ github.event.inputs.mode || 'check' }}
+        run: |
+          if [ "$MODE" = "test" ]; then
+            python3 src/notify.py test | grep -q '^sent' || { echo "Telegram test message NOT sent"; exit 1; }
+          elif [ "$MODE" = "accounts" ]; then
+            python3 src/publish.py accounts
+          else
+            python3 src/notify.py check
+          fi
+
+      - name: Remember which posts were reported
+        run: |
+          git config user.name "alpha-mindset-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add notified.json 2>/dev/null || exit 0
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Reported posts $(date -u +%F)"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q && exit 0; sleep 5; done
+          exit 1

@@ -1,0 +1,15 @@
+.env
+.venv/
+output/
+run-log.txt
+__pycache__/
+assets/clips/
+assets/search_cache.json
+assets/whoosh.wav
+telegram-alert-sent
+preview/
+assets/music/analysis.json
+.venv-analysis/
+reference/
+test-run*.log
+assets/library/test-*.mp4

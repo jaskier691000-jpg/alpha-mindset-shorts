@@ -1,0 +1,16 @@
+Musiques d'Alpha Mindset
+========================
+
+Mets ici les musiques téléchargées sur Pixabay Music (pixabay.com/music) :
+- ambiance épique, sombre, motivation, "trailer" ou "cinematic" ;
+- plus de 90 secondes ;
+- sans paroles ;
+- le fichier .mp3 tel quel, sans le renommer.
+
+Déjà présentes :
+- good_b_music-epic-hollywood-trailer-9489.mp3 (Pixabay, celle de la vidéo test automatique)
+- dark-moment-dark-epic-trailer-e-erkut.mp3 (celle de la démo cinéma ; licence CC BY : son crédit est ajouté
+  automatiquement dans la description des vidéos qui l'utilisent)
+
+Le système fait tourner les musiques pour que deux vidéos d'affilée n'aient jamais la même,
+et démarre chaque musique après son intro calme.

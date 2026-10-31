@@ -1,0 +1,118 @@
+# Runs every day on GitHub's computers: makes the videos and sends them to Zernio.
+# Your PC does not need to be on. Keys come from the repository's Secrets.
+# Heavier than the other channels (AI voice on CPU + HyperFrames render, ~20-30 min a video): the repository is
+# public, so GitHub's minutes are free and unlimited (secrets stay secret).
+name: Daily Alpha Mindset videos
+
+on:
+  # OFF until the owner approves the tests (go-live): then uncomment these 3 lines.
+  # schedule:
+  #   - cron: "40 4 * * *"   # 04:40 UTC = 05:40 Paris in winter (the other channels start at 04:00 and 04:20)
+  #   - cron: "10 6 * * *"   # backup in case GitHub skipped the first one; it skips slots already sent today
+  workflow_dispatch:       # "Run workflow" button for tests
+    inputs:
+      mode:
+        description: "run = make + send | no-publish = only make the videos | dry-run = make + show what would be sent"
+        default: no-publish
+        type: choice
+        options: [no-publish, dry-run, run]
+
+permissions:
+  contents: write  # to save state.json (which topics and clips were used)
+
+concurrency:
+  group: daily-videos
+  cancel-in-progress: false
+
+jobs:
+  videos:
+    runs-on: ubuntu-24.04  # fixed version: "latest" moves to new Ubuntu releases that could break the setup
+    timeout-minutes: 150
+    steps:
+      # always the latest main (not the commit from when the run was queued), so a backup run
+      # sees the state.json saved by the run before it
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"   # Chatterbox needs torch 2.6, which stops at Python 3.13
+          cache: pip
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "22"       # HyperFrames needs Node 22+
+
+      - name: Reuse the AI models, Chrome and stock clips from earlier runs
+        uses: actions/cache@v6
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/hyperframes
+            ~/.cache/puppeteer
+            ~/.npm
+            assets/clips
+          key: models-${{ github.run_id }}
+          restore-keys: models-
+
+      - name: Install FFmpeg and Python packages
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q ffmpeg
+          # CPU build of torch (GitHub has no graphics card; the CUDA build is 2 GB bigger)
+          pip install torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements.txt
+
+      - name: Make and send the videos
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DO_NOT_TRACK: "1"
+          MODE: ${{ github.event.inputs.mode || 'run' }}
+        run: |
+          case "$MODE" in
+            run) python src/run_daily.py ;;
+            dry-run) python src/run_daily.py --dry-run ;;
+            *) python src/run_daily.py --no-publish ;;
+          esac
+
+      # if the job broke before the script could send its own Telegram alert (e.g. install failure)
+      - name: Telegram alert if the job failed
+        if: failure() && hashFiles('telegram-alert-sent') == ''
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ] || exit 0
+          curl -s -o /dev/null "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode "chat_id=$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=[Alpha Mindset] ❌ Le job vidéo GitHub a échoué. Détails : $RUN_URL"
+
+      - name: Keep the videos for 3 days (Actions page > this run > Artifacts)
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: videos
+          path: |
+            output/*/video.mp4
+            output/*/info.json
+            run-log.txt
+          retention-days: 3
+          if-no-files-found: ignore
+
+      # runs even if the job failed halfway, so a video that was already sent is never sent again
+      - name: Save which topics and clips were used
+        if: always() && (github.event.inputs.mode || 'run') == 'run'
+        run: |
+          git config user.name "alpha-mindset-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json posts_log.jsonl 2>/dev/null || git add state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Used topics $(date -u +%F)"
+          # the weekly writing task may have pushed new topics meanwhile
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q && exit 0; sleep 5; done
+          exit 1
