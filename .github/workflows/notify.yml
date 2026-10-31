@@ -3,10 +3,9 @@
 name: Check posts and send Telegram alerts (Alpha Mindset)
 
 on:
-  # OFF until the owner approves the tests (go-live): then uncomment these 3 lines.
-  # schedule:
-  #   # 05:00-08:30 and 17:00-20:30 UTC covers the morning and evening posts, winter and summer time
-  #   - cron: "*/30 5-8,17-20 * * *"
+  schedule:   # turned on at go-live, 31 Oct 2026
+    # 05:00-08:30 and 17:00-20:30 UTC covers the morning and evening posts, winter and summer time
+    - cron: "*/30 5-8,17-20 * * *"
   workflow_dispatch:     # "Run workflow" button; "test" sends a Telegram test message from GitHub
     inputs:
       mode:

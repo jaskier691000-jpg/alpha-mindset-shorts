@@ -5,10 +5,9 @@
 name: Daily Alpha Mindset videos
 
 on:
-  # OFF until the owner approves the tests (go-live): then uncomment these 3 lines.
-  # schedule:
-  #   - cron: "40 4 * * *"   # 04:40 UTC = 05:40 Paris in winter (the other channels start at 04:00 and 04:20)
-  #   - cron: "10 6 * * *"   # backup in case GitHub skipped the first one; it skips slots already sent today
+  schedule:   # turned on at go-live, 31 Oct 2026 (first posts 1 Nov)
+    - cron: "40 4 * * *"   # 04:40 UTC = 05:40 Paris in winter (the other channels start at 04:00 and 04:20)
+    - cron: "10 6 * * *"   # backup in case GitHub skipped the first one; it skips slots already sent today
   workflow_dispatch:       # "Run workflow" button for tests
     inputs:
       mode:

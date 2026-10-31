@@ -1,7 +1,7 @@
 [
   {
     "n": 1,
-    "date": "2026-11-09",
+    "date": "2026-11-01",
     "time": "08:00",
     "id": "nobody-is-coming-to-save-you",
     "category": "Discipline",
@@ -9,7 +9,7 @@
   },
   {
     "n": 2,
-    "date": "2026-11-09",
+    "date": "2026-11-01",
     "time": "20:00",
     "id": "discipline-beats-motivation",
     "category": "Discipline",
@@ -17,7 +17,7 @@
   },
   {
     "n": 3,
-    "date": "2026-11-10",
+    "date": "2026-11-02",
     "time": "08:00",
     "id": "do-it-tired",
     "category": "Discipline",
@@ -25,7 +25,7 @@
   },
   {
     "n": 4,
-    "date": "2026-11-10",
+    "date": "2026-11-02",
     "time": "20:00",
     "id": "your-phone-is-a-slot-machine",
     "category": "Focus and distraction",
@@ -33,7 +33,7 @@
   },
   {
     "n": 5,
-    "date": "2026-11-11",
+    "date": "2026-11-03",
     "time": "08:00",
     "id": "walk-alone-if-you-must",
     "category": "The path alone",
@@ -41,7 +41,7 @@
   },
   {
     "n": 6,
-    "date": "2026-11-11",
+    "date": "2026-11-03",
     "time": "20:00",
     "id": "fall-seven-times-rise-eight",
     "category": "Failure and comeback",
@@ -49,7 +49,7 @@
   },
   {
     "n": 7,
-    "date": "2026-11-12",
+    "date": "2026-11-04",
     "time": "08:00",
     "id": "fear-is-a-liar",
     "category": "Fear and courage",
@@ -57,7 +57,7 @@
   },
   {
     "n": 8,
-    "date": "2026-11-12",
+    "date": "2026-11-04",
     "time": "20:00",
     "id": "time-is-the-only-currency",
     "category": "Time and urgency",
@@ -65,7 +65,7 @@
   },
   {
     "n": 9,
-    "date": "2026-11-13",
+    "date": "2026-11-05",
     "time": "08:00",
     "id": "work-in-silence",
     "category": "Ambition work and money",
@@ -73,7 +73,7 @@
   },
   {
     "n": 10,
-    "date": "2026-11-13",
+    "date": "2026-11-05",
     "time": "20:00",
     "id": "your-mind-is-a-battlefield",
     "category": "Mindset",
@@ -81,7 +81,7 @@
   },
   {
     "n": 11,
-    "date": "2026-11-14",
+    "date": "2026-11-06",
     "time": "08:00",
     "id": "control-your-emotions",
     "category": "Emotional control and stoicism",
@@ -89,7 +89,7 @@
   },
   {
     "n": 12,
-    "date": "2026-11-14",
+    "date": "2026-11-06",
     "time": "20:00",
     "id": "be-the-father-you-needed",
     "category": "Purpose legacy and family",
@@ -97,7 +97,7 @@
   },
   {
     "n": 13,
-    "date": "2026-11-15",
+    "date": "2026-11-07",
     "time": "08:00",
     "id": "set-boundaries",
     "category": "Respect and standards",
@@ -105,7 +105,7 @@
   },
   {
     "n": 14,
-    "date": "2026-11-15",
+    "date": "2026-11-07",
     "time": "20:00",
     "id": "win-the-morning-win-the-day",
     "category": "Mornings and routine",
@@ -113,7 +113,7 @@
   },
   {
     "n": 15,
-    "date": "2026-11-16",
+    "date": "2026-11-08",
     "time": "08:00",
     "id": "the-gym-is-a-mirror",
     "category": "Body and training",
@@ -121,7 +121,7 @@
   },
   {
     "n": 16,
-    "date": "2026-11-16",
+    "date": "2026-11-08",
     "time": "20:00",
     "id": "motivation-is-a-liar",
     "category": "Discipline",
@@ -129,7 +129,7 @@
   },
   {
     "n": 17,
-    "date": "2026-11-17",
+    "date": "2026-11-09",
     "time": "08:00",
     "id": "kill-the-notifications",
     "category": "Focus and distraction",
@@ -137,7 +137,7 @@
   },
   {
     "n": 18,
-    "date": "2026-11-17",
+    "date": "2026-11-09",
     "time": "20:00",
     "id": "your-circle-will-shrink",
     "category": "The path alone",
@@ -145,7 +145,7 @@
   },
   {
     "n": 19,
-    "date": "2026-11-18",
+    "date": "2026-11-10",
     "time": "08:00",
     "id": "your-rock-bottom-is-a-foundation",
     "category": "Failure and comeback",
@@ -153,7 +153,7 @@
   },
   {
     "n": 20,
-    "date": "2026-11-18",
+    "date": "2026-11-10",
     "time": "20:00",
     "id": "do-it-scared",
     "category": "Fear and courage",
@@ -161,7 +161,7 @@
   },
   {
     "n": 21,
-    "date": "2026-11-19",
+    "date": "2026-11-11",
     "time": "08:00",
     "id": "someday-is-not-a-day",
     "category": "Time and urgency",
@@ -169,7 +169,7 @@
   },
   {
     "n": 22,
-    "date": "2026-11-19",
+    "date": "2026-11-11",
     "time": "20:00",
     "id": "outwork-everyone",
     "category": "Ambition work and money",
@@ -177,7 +177,7 @@
   },
   {
     "n": 23,
-    "date": "2026-11-20",
+    "date": "2026-11-12",
     "time": "08:00",
     "id": "talk-to-yourself-like-a-champion",
     "category": "Mindset",
@@ -185,7 +185,7 @@
   },
   {
     "n": 24,
-    "date": "2026-11-20",
+    "date": "2026-11-12",
     "time": "20:00",
     "id": "silence-is-power",
     "category": "Emotional control and stoicism",
@@ -193,7 +193,7 @@
   },
   {
     "n": 25,
-    "date": "2026-11-21",
+    "date": "2026-11-13",
     "time": "08:00",
     "id": "find-your-why",
     "category": "Purpose legacy and family",
@@ -201,7 +201,7 @@
   },
   {
     "n": 26,
-    "date": "2026-11-21",
+    "date": "2026-11-13",
     "time": "20:00",
     "id": "know-your-worth",
     "category": "Respect and standards",
@@ -209,7 +209,7 @@
   },
   {
     "n": 27,
-    "date": "2026-11-22",
+    "date": "2026-11-14",
     "time": "08:00",
     "id": "wake-up-before-the-world",
     "category": "Mornings and routine",
@@ -217,7 +217,7 @@
   },
   {
     "n": 28,
-    "date": "2026-11-22",
+    "date": "2026-11-14",
     "time": "20:00",
     "id": "train-when-you-do-not-want-to",
     "category": "Body and training",
@@ -225,7 +225,7 @@
   },
   {
     "n": 29,
-    "date": "2026-11-23",
+    "date": "2026-11-15",
     "time": "08:00",
     "id": "keep-your-promises-to-yourself",
     "category": "Discipline",
@@ -233,7 +233,7 @@
   },
   {
     "n": 30,
-    "date": "2026-11-23",
+    "date": "2026-11-15",
     "time": "20:00",
     "id": "dopamine-detox",
     "category": "Focus and distraction",
@@ -241,7 +241,7 @@
   },
   {
     "n": 31,
-    "date": "2026-11-24",
+    "date": "2026-11-16",
     "time": "08:00",
     "id": "move-in-silence",
     "category": "The path alone",
@@ -249,7 +249,7 @@
   },
   {
     "n": 32,
-    "date": "2026-11-24",
+    "date": "2026-11-16",
     "time": "20:00",
     "id": "get-back-up",
     "category": "Failure and comeback",
@@ -257,7 +257,7 @@
   },
   {
     "n": 33,
-    "date": "2026-11-25",
+    "date": "2026-11-17",
     "time": "08:00",
     "id": "the-comfort-zone-is-a-cage",
     "category": "Fear and courage",
@@ -265,7 +265,7 @@
   },
   {
     "n": 34,
-    "date": "2026-11-25",
+    "date": "2026-11-17",
     "time": "20:00",
     "id": "you-are-running-out-of-time",
     "category": "Time and urgency",
@@ -273,7 +273,7 @@
   },
   {
     "n": 35,
-    "date": "2026-11-26",
+    "date": "2026-11-18",
     "time": "08:00",
     "id": "money-is-a-tool",
     "category": "Ambition work and money",
@@ -281,7 +281,7 @@
   },
   {
     "n": 36,
-    "date": "2026-11-26",
+    "date": "2026-11-18",
     "time": "20:00",
     "id": "the-wolf-you-feed",
     "category": "Mindset",
@@ -289,7 +289,7 @@
   },
   {
     "n": 37,
-    "date": "2026-11-27",
+    "date": "2026-11-19",
     "time": "08:00",
     "id": "the-obstacle-is-the-way",
     "category": "Emotional control and stoicism",
@@ -297,7 +297,7 @@
   },
   {
     "n": 38,
-    "date": "2026-11-27",
+    "date": "2026-11-19",
     "time": "20:00",
     "id": "your-kids-are-watching",
     "category": "Purpose legacy and family",
@@ -305,7 +305,7 @@
   },
   {
     "n": 39,
-    "date": "2026-11-28",
+    "date": "2026-11-20",
     "time": "08:00",
     "id": "stop-being-available",
     "category": "Respect and standards",
@@ -313,7 +313,7 @@
   },
   {
     "n": 40,
-    "date": "2026-11-28",
+    "date": "2026-11-20",
     "time": "20:00",
     "id": "the-snooze-button-lies",
     "category": "Mornings and routine",
@@ -321,7 +321,7 @@
   },
   {
     "n": 41,
-    "date": "2026-11-29",
+    "date": "2026-11-21",
     "time": "08:00",
     "id": "lift-heavy-things",
     "category": "Body and training",
@@ -329,7 +329,7 @@
   },
   {
     "n": 42,
-    "date": "2026-11-29",
+    "date": "2026-11-21",
     "time": "20:00",
     "id": "do-it-when-nobody-is-watching",
     "category": "Discipline",
@@ -337,7 +337,7 @@
   },
   {
     "n": 43,
-    "date": "2026-11-30",
+    "date": "2026-11-22",
     "time": "08:00",
     "id": "deep-work",
     "category": "Focus and distraction",
@@ -345,7 +345,7 @@
   },
   {
     "n": 44,
-    "date": "2026-11-30",
+    "date": "2026-11-22",
     "time": "20:00",
     "id": "nobody-understands-your-vision",
     "category": "The path alone",
@@ -353,7 +353,7 @@
   },
   {
     "n": 45,
-    "date": "2026-12-01",
+    "date": "2026-11-23",
     "time": "08:00",
     "id": "hard-times-create-strong-men",
     "category": "Failure and comeback",
@@ -361,7 +361,7 @@
   },
   {
     "n": 46,
-    "date": "2026-12-01",
+    "date": "2026-11-23",
     "time": "20:00",
     "id": "take-the-risk",
     "category": "Fear and courage",
@@ -369,7 +369,7 @@
   },
   {
     "n": 47,
-    "date": "2026-12-02",
+    "date": "2026-11-24",
     "time": "08:00",
     "id": "one-year-from-now",
     "category": "Time and urgency",
@@ -377,7 +377,7 @@
   },
   {
     "n": 48,
-    "date": "2026-12-02",
+    "date": "2026-11-24",
     "time": "20:00",
     "id": "build-while-they-sleep",
     "category": "Ambition work and money",
@@ -385,7 +385,7 @@
   },
   {
     "n": 49,
-    "date": "2026-12-03",
+    "date": "2026-11-25",
     "time": "08:00",
     "id": "victim-or-victor",
     "category": "Mindset",
@@ -393,7 +393,7 @@
   },
   {
     "n": 50,
-    "date": "2026-12-03",
+    "date": "2026-11-25",
     "time": "20:00",
     "id": "calm-is-a-superpower",
     "category": "Emotional control and stoicism",
@@ -401,7 +401,7 @@
   },
   {
     "n": 51,
-    "date": "2026-12-04",
+    "date": "2026-11-26",
     "time": "08:00",
     "id": "make-your-parents-proud",
     "category": "Purpose legacy and family",
@@ -409,7 +409,7 @@
   },
   {
     "n": 52,
-    "date": "2026-12-04",
+    "date": "2026-11-26",
     "time": "20:00",
     "id": "walk-away",
     "category": "Respect and standards",
@@ -417,7 +417,7 @@
   },
   {
     "n": 53,
-    "date": "2026-12-05",
+    "date": "2026-11-27",
     "time": "08:00",
     "id": "sleep-is-a-weapon",
     "category": "Mornings and routine",
@@ -425,7 +425,7 @@
   },
   {
     "n": 54,
-    "date": "2026-12-05",
+    "date": "2026-11-27",
     "time": "20:00",
     "id": "run-when-you-want-to-stop",
     "category": "Body and training",
@@ -433,7 +433,7 @@
   },
   {
     "n": 55,
-    "date": "2026-12-06",
+    "date": "2026-11-28",
     "time": "08:00",
     "id": "the-boring-work-wins",
     "category": "Discipline",
@@ -441,7 +441,7 @@
   },
   {
     "n": 56,
-    "date": "2026-12-06",
+    "date": "2026-11-28",
     "time": "20:00",
     "id": "attention-is-your-currency",
     "category": "Focus and distraction",
@@ -449,7 +449,7 @@
   },
   {
     "n": 57,
-    "date": "2026-12-07",
+    "date": "2026-11-29",
     "time": "08:00",
     "id": "isolation-builds-kings",
     "category": "The path alone",
@@ -457,7 +457,7 @@
   },
   {
     "n": 58,
-    "date": "2026-12-07",
+    "date": "2026-11-29",
     "time": "20:00",
     "id": "scars-are-proof",
     "category": "Failure and comeback",
@@ -465,7 +465,7 @@
   },
   {
     "n": 59,
-    "date": "2026-12-08",
+    "date": "2026-11-30",
     "time": "08:00",
     "id": "bet-on-yourself",
     "category": "Fear and courage",
@@ -473,7 +473,7 @@
   },
   {
     "n": 60,
-    "date": "2026-12-08",
+    "date": "2026-11-30",
     "time": "20:00",
     "id": "memento-mori",
     "category": "Time and urgency",
@@ -481,7 +481,7 @@
   },
   {
     "n": 61,
-    "date": "2026-12-09",
+    "date": "2026-12-01",
     "time": "08:00",
     "id": "show-up-every-single-day",
     "category": "Discipline",
@@ -489,7 +489,7 @@
   },
   {
     "n": 62,
-    "date": "2026-12-09",
+    "date": "2026-12-01",
     "time": "20:00",
     "id": "hard-work-beats-talent",
     "category": "Ambition work and money",
@@ -497,7 +497,7 @@
   },
   {
     "n": 63,
-    "date": "2026-12-10",
+    "date": "2026-12-02",
     "time": "08:00",
     "id": "your-body-keeps-the-score",
     "category": "Body and training",
@@ -505,7 +505,7 @@
   },
   {
     "n": 64,
-    "date": "2026-12-10",
+    "date": "2026-12-02",
     "time": "20:00",
     "id": "failure-is-a-teacher",
     "category": "Failure and comeback",
@@ -513,7 +513,7 @@
   },
   {
     "n": 65,
-    "date": "2026-12-11",
+    "date": "2026-12-03",
     "time": "08:00",
     "id": "silence-the-inner-critic",
     "category": "Mindset",
@@ -521,7 +521,7 @@
   },
   {
     "n": 66,
-    "date": "2026-12-11",
+    "date": "2026-12-03",
     "time": "20:00",
     "id": "do-not-react",
     "category": "Emotional control and stoicism",
@@ -529,7 +529,7 @@
   },
   {
     "n": 67,
-    "date": "2026-12-12",
+    "date": "2026-12-04",
     "time": "08:00",
     "id": "the-five-am-club",
     "category": "Mornings and routine",
@@ -537,7 +537,7 @@
   },
   {
     "n": 68,
-    "date": "2026-12-12",
+    "date": "2026-12-04",
     "time": "20:00",
     "id": "courage-is-not-the-absence-of-fear",
     "category": "Fear and courage",
@@ -545,7 +545,7 @@
   },
   {
     "n": 69,
-    "date": "2026-12-13",
+    "date": "2026-12-05",
     "time": "08:00",
     "id": "one-thing-at-a-time",
     "category": "Focus and distraction",
@@ -553,7 +553,7 @@
   },
   {
     "n": 70,
-    "date": "2026-12-13",
+    "date": "2026-12-05",
     "time": "20:00",
     "id": "your-standards-are-your-life",
     "category": "Respect and standards",
@@ -561,7 +561,7 @@
   },
   {
     "n": 71,
-    "date": "2026-12-14",
+    "date": "2026-12-06",
     "time": "08:00",
     "id": "the-lonely-season",
     "category": "The path alone",
@@ -569,7 +569,7 @@
   },
   {
     "n": 72,
-    "date": "2026-12-14",
+    "date": "2026-12-06",
     "time": "20:00",
     "id": "live-with-purpose",
     "category": "Purpose legacy and family",
@@ -577,7 +577,7 @@
   },
   {
     "n": 73,
-    "date": "2026-12-15",
+    "date": "2026-12-07",
     "time": "08:00",
     "id": "the-clock-is-ticking",
     "category": "Time and urgency",
@@ -585,7 +585,7 @@
   },
   {
     "n": 74,
-    "date": "2026-12-15",
+    "date": "2026-12-07",
     "time": "20:00",
     "id": "small-wins-every-day",
     "category": "Discipline",
@@ -593,7 +593,7 @@
   },
   {
     "n": 75,
-    "date": "2026-12-16",
+    "date": "2026-12-08",
     "time": "08:00",
     "id": "build-your-empire",
     "category": "Ambition work and money",
@@ -601,7 +601,7 @@
   },
   {
     "n": 76,
-    "date": "2026-12-16",
+    "date": "2026-12-08",
     "time": "20:00",
     "id": "sweat-is-weakness-leaving",
     "category": "Body and training",
@@ -609,7 +609,7 @@
   },
   {
     "n": 77,
-    "date": "2026-12-17",
+    "date": "2026-12-09",
     "time": "08:00",
     "id": "the-comeback-is-stronger",
     "category": "Failure and comeback",
@@ -617,7 +617,7 @@
   },
   {
     "n": 78,
-    "date": "2026-12-17",
+    "date": "2026-12-09",
     "time": "20:00",
     "id": "you-become-what-you-repeat",
     "category": "Mindset",
@@ -625,7 +625,7 @@
   },
   {
     "n": 79,
-    "date": "2026-12-18",
+    "date": "2026-12-10",
     "time": "08:00",
     "id": "respond-do-not-react",
     "category": "Emotional control and stoicism",
@@ -633,7 +633,7 @@
   },
   {
     "n": 80,
-    "date": "2026-12-18",
+    "date": "2026-12-10",
     "time": "20:00",
     "id": "your-alarm-is-a-test",
     "category": "Mornings and routine",
@@ -641,7 +641,7 @@
   },
   {
     "n": 81,
-    "date": "2026-12-19",
+    "date": "2026-12-11",
     "time": "08:00",
     "id": "face-your-fears",
     "category": "Fear and courage",
@@ -649,7 +649,7 @@
   },
   {
     "n": 82,
-    "date": "2026-12-19",
+    "date": "2026-12-11",
     "time": "20:00",
     "id": "stop-scrolling-start-building",
     "category": "Focus and distraction",
@@ -657,7 +657,7 @@
   },
   {
     "n": 83,
-    "date": "2026-12-20",
+    "date": "2026-12-12",
     "time": "08:00",
     "id": "value-your-time",
     "category": "Respect and standards",
@@ -665,7 +665,7 @@
   },
   {
     "n": 84,
-    "date": "2026-12-20",
+    "date": "2026-12-12",
     "time": "20:00",
     "id": "lone-wolf-season",
     "category": "The path alone",
@@ -673,7 +673,7 @@
   },
   {
     "n": 85,
-    "date": "2026-12-21",
+    "date": "2026-12-13",
     "time": "08:00",
     "id": "consistency-is-a-superpower",
     "category": "Discipline",
@@ -681,7 +681,7 @@
   },
   {
     "n": 86,
-    "date": "2026-12-21",
+    "date": "2026-12-13",
     "time": "20:00",
     "id": "your-legacy-starts-today",
     "category": "Purpose legacy and family",
@@ -689,7 +689,7 @@
   },
   {
     "n": 87,
-    "date": "2026-12-22",
+    "date": "2026-12-14",
     "time": "08:00",
     "id": "ten-years-from-now",
     "category": "Time and urgency",
@@ -697,7 +697,7 @@
   },
   {
     "n": 88,
-    "date": "2026-12-22",
+    "date": "2026-12-14",
     "time": "20:00",
     "id": "become-rich-in-skills",
     "category": "Ambition work and money",
@@ -705,7 +705,7 @@
   },
   {
     "n": 89,
-    "date": "2026-12-23",
+    "date": "2026-12-15",
     "time": "08:00",
     "id": "leg-day-character",
     "category": "Body and training",
@@ -713,7 +713,7 @@
   },
   {
     "n": 90,
-    "date": "2026-12-23",
+    "date": "2026-12-15",
     "time": "20:00",
     "id": "lose-with-honor",
     "category": "Failure and comeback",
@@ -721,7 +721,7 @@
   },
   {
     "n": 91,
-    "date": "2026-12-24",
+    "date": "2026-12-16",
     "time": "08:00",
     "id": "identity-before-results",
     "category": "Mindset",
@@ -729,7 +729,7 @@
   },
   {
     "n": 92,
-    "date": "2026-12-24",
+    "date": "2026-12-16",
     "time": "20:00",
     "id": "discipline-is-self-respect",
     "category": "Discipline",
@@ -737,7 +737,7 @@
   },
   {
     "n": 93,
-    "date": "2026-12-25",
+    "date": "2026-12-17",
     "time": "08:00",
     "id": "anger-is-a-weak-leader",
     "category": "Emotional control and stoicism",
@@ -745,7 +745,7 @@
   },
   {
     "n": 94,
-    "date": "2026-12-25",
+    "date": "2026-12-17",
     "time": "20:00",
     "id": "cold-water-first",
     "category": "Mornings and routine",
@@ -753,7 +753,7 @@
   },
   {
     "n": 95,
-    "date": "2026-12-26",
+    "date": "2026-12-18",
     "time": "08:00",
     "id": "the-fear-of-judgment",
     "category": "Fear and courage",
@@ -761,7 +761,7 @@
   },
   {
     "n": 96,
-    "date": "2026-12-26",
+    "date": "2026-12-18",
     "time": "20:00",
     "id": "the-algorithm-owns-you",
     "category": "Focus and distraction",
@@ -769,7 +769,7 @@
   },
   {
     "n": 97,
-    "date": "2026-12-27",
+    "date": "2026-12-19",
     "time": "08:00",
     "id": "self-respect-first",
     "category": "Respect and standards",
@@ -777,7 +777,7 @@
   },
   {
     "n": 98,
-    "date": "2026-12-27",
+    "date": "2026-12-19",
     "time": "20:00",
     "id": "outgrow-people",
     "category": "The path alone",
@@ -785,7 +785,7 @@
   },
   {
     "n": 99,
-    "date": "2026-12-28",
+    "date": "2026-12-20",
     "time": "08:00",
     "id": "be-the-example",
     "category": "Purpose legacy and family",
@@ -793,7 +793,7 @@
   },
   {
     "n": 100,
-    "date": "2026-12-28",
+    "date": "2026-12-20",
     "time": "20:00",
     "id": "stop-buying-things-to-impress",
     "category": "Ambition work and money",
@@ -801,7 +801,7 @@
   },
   {
     "n": 101,
-    "date": "2026-12-29",
+    "date": "2026-12-21",
     "time": "08:00",
     "id": "the-last-set-matters",
     "category": "Body and training",
@@ -809,7 +809,7 @@
   },
   {
     "n": 102,
-    "date": "2026-12-29",
+    "date": "2026-12-21",
     "time": "20:00",
     "id": "the-hard-thing-first",
     "category": "Discipline",
@@ -817,7 +817,7 @@
   },
   {
     "n": 103,
-    "date": "2026-12-30",
+    "date": "2026-12-22",
     "time": "08:00",
     "id": "rejection-is-redirection",
     "category": "Failure and comeback",
@@ -825,7 +825,7 @@
   },
   {
     "n": 104,
-    "date": "2026-12-30",
+    "date": "2026-12-22",
     "time": "20:00",
     "id": "act-like-the-man-you-want-to-be",
     "category": "Mindset",
@@ -833,6 +833,134 @@
   },
   {
     "n": 105,
+    "date": "2026-12-23",
+    "time": "08:00",
+    "id": "your-eighty-year-old-self",
+    "category": "Time and urgency",
+    "title": "Your eighty year old self"
+  },
+  {
+    "n": 106,
+    "date": "2026-12-23",
+    "time": "20:00",
+    "id": "stoic-strength",
+    "category": "Emotional control and stoicism",
+    "title": "Stoic strength"
+  },
+  {
+    "n": 107,
+    "date": "2026-12-24",
+    "time": "08:00",
+    "id": "the-first-ten-minutes",
+    "category": "Mornings and routine",
+    "title": "The first ten minutes"
+  },
+  {
+    "n": 108,
+    "date": "2026-12-24",
+    "time": "20:00",
+    "id": "what-would-you-do-without-fear",
+    "category": "Fear and courage",
+    "title": "What would you do without fear"
+  },
+  {
+    "n": 109,
+    "date": "2026-12-25",
+    "time": "08:00",
+    "id": "delete-the-apps",
+    "category": "Focus and distraction",
+    "title": "Delete the apps"
+  },
+  {
+    "n": 110,
+    "date": "2026-12-25",
+    "time": "20:00",
+    "id": "do-not-chase",
+    "category": "Respect and standards",
+    "title": "Do not chase"
+  },
+  {
+    "n": 111,
+    "date": "2026-12-26",
+    "time": "08:00",
+    "id": "no-zero-days",
+    "category": "Discipline",
+    "title": "No zero days"
+  },
+  {
+    "n": 112,
+    "date": "2026-12-26",
+    "time": "20:00",
+    "id": "silence-your-plans",
+    "category": "The path alone",
+    "title": "Silence your plans"
+  },
+  {
+    "n": 113,
+    "date": "2026-12-27",
+    "time": "08:00",
+    "id": "save-first-spend-later",
+    "category": "Ambition work and money",
+    "title": "Save first spend later"
+  },
+  {
+    "n": 114,
+    "date": "2026-12-27",
+    "time": "20:00",
+    "id": "progressive-overload-in-life",
+    "category": "Body and training",
+    "title": "Progressive overload in life"
+  },
+  {
+    "n": 115,
+    "date": "2026-12-28",
+    "time": "08:00",
+    "id": "fired-and-reborn",
+    "category": "Failure and comeback",
+    "title": "Fired and reborn"
+  },
+  {
+    "n": 116,
+    "date": "2026-12-28",
+    "time": "20:00",
+    "id": "believe-before-you-see",
+    "category": "Mindset",
+    "title": "Believe before you see"
+  },
+  {
+    "n": 117,
+    "date": "2026-12-29",
+    "time": "08:00",
+    "id": "protect-your-family",
+    "category": "Purpose legacy and family",
+    "title": "Protect your family"
+  },
+  {
+    "n": 118,
+    "date": "2026-12-29",
+    "time": "20:00",
+    "id": "the-marcus-aurelius-mindset",
+    "category": "Emotional control and stoicism",
+    "title": "The Marcus Aurelius mindset"
+  },
+  {
+    "n": 119,
+    "date": "2026-12-30",
+    "time": "08:00",
+    "id": "no-phone-in-the-morning",
+    "category": "Mornings and routine",
+    "title": "No phone in the morning"
+  },
+  {
+    "n": 120,
+    "date": "2026-12-30",
+    "time": "20:00",
+    "id": "life-is-short",
+    "category": "Time and urgency",
+    "title": "Life is short"
+  },
+  {
+    "n": 121,
     "date": "2026-12-31",
     "time": "08:00",
     "id": "the-last-day-of-the-year",
@@ -840,15 +968,15 @@
     "title": "The last day of the year"
   },
   {
-    "n": 106,
+    "n": 122,
     "date": "2026-12-31",
     "time": "20:00",
-    "id": "your-eighty-year-old-self",
-    "category": "Time and urgency",
-    "title": "Your eighty year old self"
+    "id": "step-into-the-unknown",
+    "category": "Fear and courage",
+    "title": "Step into the unknown"
   },
   {
-    "n": 107,
+    "n": 123,
     "date": "2027-01-01",
     "time": "08:00",
     "id": "a-new-year-starts-now",
@@ -856,136 +984,8 @@
     "title": "A new year starts now"
   },
   {
-    "n": 108,
-    "date": "2027-01-01",
-    "time": "20:00",
-    "id": "stoic-strength",
-    "category": "Emotional control and stoicism",
-    "title": "Stoic strength"
-  },
-  {
-    "n": 109,
-    "date": "2027-01-02",
-    "time": "08:00",
-    "id": "the-first-ten-minutes",
-    "category": "Mornings and routine",
-    "title": "The first ten minutes"
-  },
-  {
-    "n": 110,
-    "date": "2027-01-02",
-    "time": "20:00",
-    "id": "what-would-you-do-without-fear",
-    "category": "Fear and courage",
-    "title": "What would you do without fear"
-  },
-  {
-    "n": 111,
-    "date": "2027-01-03",
-    "time": "08:00",
-    "id": "delete-the-apps",
-    "category": "Focus and distraction",
-    "title": "Delete the apps"
-  },
-  {
-    "n": 112,
-    "date": "2027-01-03",
-    "time": "20:00",
-    "id": "do-not-chase",
-    "category": "Respect and standards",
-    "title": "Do not chase"
-  },
-  {
-    "n": 113,
-    "date": "2027-01-04",
-    "time": "08:00",
-    "id": "no-zero-days",
-    "category": "Discipline",
-    "title": "No zero days"
-  },
-  {
-    "n": 114,
-    "date": "2027-01-04",
-    "time": "20:00",
-    "id": "silence-your-plans",
-    "category": "The path alone",
-    "title": "Silence your plans"
-  },
-  {
-    "n": 115,
-    "date": "2027-01-05",
-    "time": "08:00",
-    "id": "save-first-spend-later",
-    "category": "Ambition work and money",
-    "title": "Save first spend later"
-  },
-  {
-    "n": 116,
-    "date": "2027-01-05",
-    "time": "20:00",
-    "id": "progressive-overload-in-life",
-    "category": "Body and training",
-    "title": "Progressive overload in life"
-  },
-  {
-    "n": 117,
-    "date": "2027-01-06",
-    "time": "08:00",
-    "id": "fired-and-reborn",
-    "category": "Failure and comeback",
-    "title": "Fired and reborn"
-  },
-  {
-    "n": 118,
-    "date": "2027-01-06",
-    "time": "20:00",
-    "id": "believe-before-you-see",
-    "category": "Mindset",
-    "title": "Believe before you see"
-  },
-  {
-    "n": 119,
-    "date": "2027-01-07",
-    "time": "08:00",
-    "id": "protect-your-family",
-    "category": "Purpose legacy and family",
-    "title": "Protect your family"
-  },
-  {
-    "n": 120,
-    "date": "2027-01-07",
-    "time": "20:00",
-    "id": "the-marcus-aurelius-mindset",
-    "category": "Emotional control and stoicism",
-    "title": "The Marcus Aurelius mindset"
-  },
-  {
-    "n": 121,
-    "date": "2027-01-08",
-    "time": "08:00",
-    "id": "no-phone-in-the-morning",
-    "category": "Mornings and routine",
-    "title": "No phone in the morning"
-  },
-  {
-    "n": 122,
-    "date": "2027-01-08",
-    "time": "20:00",
-    "id": "life-is-short",
-    "category": "Time and urgency",
-    "title": "Life is short"
-  },
-  {
-    "n": 123,
-    "date": "2027-01-09",
-    "time": "08:00",
-    "id": "step-into-the-unknown",
-    "category": "Fear and courage",
-    "title": "Step into the unknown"
-  },
-  {
     "n": 124,
-    "date": "2027-01-09",
+    "date": "2027-01-01",
     "time": "20:00",
     "id": "boredom-is-a-gift",
     "category": "Focus and distraction",
@@ -993,7 +993,7 @@
   },
   {
     "n": 125,
-    "date": "2027-01-10",
+    "date": "2027-01-02",
     "time": "08:00",
     "id": "do-it-even-when-you-hate-it",
     "category": "Discipline",
@@ -1001,7 +1001,7 @@
   },
   {
     "n": 126,
-    "date": "2027-01-10",
+    "date": "2027-01-02",
     "time": "20:00",
     "id": "attract-do-not-chase",
     "category": "Respect and standards",
@@ -1009,7 +1009,7 @@
   },
   {
     "n": 127,
-    "date": "2027-01-11",
+    "date": "2027-01-03",
     "time": "08:00",
     "id": "invest-in-yourself",
     "category": "Ambition work and money",
@@ -1017,7 +1017,7 @@
   },
   {
     "n": 128,
-    "date": "2027-01-11",
+    "date": "2027-01-03",
     "time": "20:00",
     "id": "cardio-for-the-mind",
     "category": "Body and training",
@@ -1025,7 +1025,7 @@
   },
   {
     "n": 129,
-    "date": "2027-01-12",
+    "date": "2027-01-04",
     "time": "08:00",
     "id": "broke-but-building",
     "category": "Failure and comeback",
@@ -1033,7 +1033,7 @@
   },
   {
     "n": 130,
-    "date": "2027-01-12",
+    "date": "2027-01-04",
     "time": "20:00",
     "id": "confidence-comes-from-evidence",
     "category": "Mindset",
@@ -1041,7 +1041,7 @@
   },
   {
     "n": 131,
-    "date": "2027-01-13",
+    "date": "2027-01-05",
     "time": "08:00",
     "id": "let-results-talk",
     "category": "The path alone",
@@ -1049,7 +1049,7 @@
   },
   {
     "n": 132,
-    "date": "2027-01-13",
+    "date": "2027-01-05",
     "time": "20:00",
     "id": "feelings-are-not-instructions",
     "category": "Discipline",
@@ -1057,7 +1057,7 @@
   },
   {
     "n": 133,
-    "date": "2027-01-14",
+    "date": "2027-01-06",
     "time": "08:00",
     "id": "seneca-on-time",
     "category": "Emotional control and stoicism",
@@ -1065,7 +1065,7 @@
   },
   {
     "n": 134,
-    "date": "2027-01-14",
+    "date": "2027-01-06",
     "time": "20:00",
     "id": "morning-walk-morning-mind",
     "category": "Mornings and routine",
@@ -1073,7 +1073,7 @@
   },
   {
     "n": 135,
-    "date": "2027-01-15",
+    "date": "2027-01-07",
     "time": "08:00",
     "id": "provide-and-protect",
     "category": "Purpose legacy and family",
@@ -1081,7 +1081,7 @@
   },
   {
     "n": 136,
-    "date": "2027-01-15",
+    "date": "2027-01-07",
     "time": "20:00",
     "id": "the-cost-of-playing-safe",
     "category": "Fear and courage",
@@ -1089,7 +1089,7 @@
   },
   {
     "n": 137,
-    "date": "2027-01-16",
+    "date": "2027-01-08",
     "time": "08:00",
     "id": "silence-is-focus",
     "category": "Focus and distraction",
@@ -1097,7 +1097,7 @@
   },
   {
     "n": 138,
-    "date": "2027-01-16",
+    "date": "2027-01-08",
     "time": "20:00",
     "id": "stop-wasting-days",
     "category": "Time and urgency",
@@ -1105,7 +1105,7 @@
   },
   {
     "n": 139,
-    "date": "2027-01-17",
+    "date": "2027-01-09",
     "time": "08:00",
     "id": "the-best-investment",
     "category": "Ambition work and money",
@@ -1113,7 +1113,7 @@
   },
   {
     "n": 140,
-    "date": "2027-01-17",
+    "date": "2027-01-09",
     "time": "20:00",
     "id": "the-fat-you-keep-is-the-excuse-you-keep",
     "category": "Body and training",
@@ -1121,7 +1121,7 @@
   },
   {
     "n": 141,
-    "date": "2027-01-18",
+    "date": "2027-01-10",
     "time": "08:00",
     "id": "earn-your-rest",
     "category": "Discipline",
@@ -1129,7 +1129,7 @@
   },
   {
     "n": 142,
-    "date": "2027-01-18",
+    "date": "2027-01-10",
     "time": "20:00",
     "id": "starting-from-zero",
     "category": "Failure and comeback",
@@ -1137,7 +1137,7 @@
   },
   {
     "n": 143,
-    "date": "2027-01-19",
+    "date": "2027-01-11",
     "time": "08:00",
     "id": "self-belief",
     "category": "Mindset",
@@ -1145,7 +1145,7 @@
   },
   {
     "n": 144,
-    "date": "2027-01-19",
+    "date": "2027-01-11",
     "time": "20:00",
     "id": "respect-is-earned",
     "category": "Respect and standards",
@@ -1153,7 +1153,7 @@
   },
   {
     "n": 145,
-    "date": "2027-01-20",
+    "date": "2027-01-12",
     "time": "08:00",
     "id": "not-everyone-is-coming-with-you",
     "category": "The path alone",
@@ -1161,7 +1161,7 @@
   },
   {
     "n": 146,
-    "date": "2027-01-20",
+    "date": "2027-01-12",
     "time": "20:00",
     "id": "epictetus-and-control",
     "category": "Emotional control and stoicism",
@@ -1169,7 +1169,7 @@
   },
   {
     "n": 147,
-    "date": "2027-01-21",
+    "date": "2027-01-13",
     "time": "08:00",
     "id": "plan-the-day-the-night-before",
     "category": "Mornings and routine",
@@ -1177,7 +1177,7 @@
   },
   {
     "n": 148,
-    "date": "2027-01-21",
+    "date": "2027-01-13",
     "time": "20:00",
     "id": "speak-up",
     "category": "Fear and courage",
@@ -1185,7 +1185,7 @@
   },
   {
     "n": 149,
-    "date": "2027-01-22",
+    "date": "2027-01-14",
     "time": "08:00",
     "id": "protect-your-attention",
     "category": "Focus and distraction",
@@ -1193,7 +1193,7 @@
   },
   {
     "n": 150,
-    "date": "2027-01-22",
+    "date": "2027-01-14",
     "time": "20:00",
     "id": "never-miss-twice",
     "category": "Discipline",
@@ -1201,7 +1201,7 @@
   },
   {
     "n": 151,
-    "date": "2027-01-23",
+    "date": "2027-01-15",
     "time": "08:00",
     "id": "learn-a-high-value-skill",
     "category": "Ambition work and money",
@@ -1209,7 +1209,7 @@
   },
   {
     "n": 152,
-    "date": "2027-01-23",
+    "date": "2027-01-15",
     "time": "20:00",
     "id": "abs-are-made-in-silence",
     "category": "Body and training",
@@ -1217,7 +1217,7 @@
   },
   {
     "n": 153,
-    "date": "2027-01-24",
+    "date": "2027-01-16",
     "time": "08:00",
     "id": "lead-your-home",
     "category": "Purpose legacy and family",
@@ -1225,7 +1225,7 @@
   },
   {
     "n": 154,
-    "date": "2027-01-24",
+    "date": "2027-01-16",
     "time": "20:00",
     "id": "start-again",
     "category": "Failure and comeback",
@@ -1233,7 +1233,7 @@
   },
   {
     "n": 155,
-    "date": "2027-01-25",
+    "date": "2027-01-17",
     "time": "08:00",
     "id": "the-mindset-of-a-lion",
     "category": "Mindset",
@@ -1241,7 +1241,7 @@
   },
   {
     "n": 156,
-    "date": "2027-01-25",
+    "date": "2027-01-17",
     "time": "20:00",
     "id": "four-thousand-weeks",
     "category": "Time and urgency",
@@ -1249,7 +1249,7 @@
   },
   {
     "n": 157,
-    "date": "2027-01-26",
+    "date": "2027-01-18",
     "time": "08:00",
     "id": "earn-respect-quietly",
     "category": "Respect and standards",
@@ -1257,7 +1257,7 @@
   },
   {
     "n": 158,
-    "date": "2027-01-26",
+    "date": "2027-01-18",
     "time": "20:00",
     "id": "alone-but-not-lonely",
     "category": "The path alone",
@@ -1265,7 +1265,7 @@
   },
   {
     "n": 159,
-    "date": "2027-01-27",
+    "date": "2027-01-19",
     "time": "08:00",
     "id": "win-the-first-hour",
     "category": "Discipline",
@@ -1273,7 +1273,7 @@
   },
   {
     "n": 160,
-    "date": "2027-01-27",
+    "date": "2027-01-19",
     "time": "20:00",
     "id": "amor-fati",
     "category": "Emotional control and stoicism",
@@ -1281,7 +1281,7 @@
   },
   {
     "n": 161,
-    "date": "2027-01-28",
+    "date": "2027-01-20",
     "time": "08:00",
     "id": "the-power-of-a-written-plan",
     "category": "Mornings and routine",
@@ -1289,7 +1289,7 @@
   },
   {
     "n": 162,
-    "date": "2027-01-28",
+    "date": "2027-01-20",
     "time": "20:00",
     "id": "ask-the-question",
     "category": "Fear and courage",
@@ -1297,7 +1297,7 @@
   },
   {
     "n": 163,
-    "date": "2027-01-29",
+    "date": "2027-01-21",
     "time": "08:00",
     "id": "multitasking-is-a-lie",
     "category": "Focus and distraction",
@@ -1305,7 +1305,7 @@
   },
   {
     "n": 164,
-    "date": "2027-01-29",
+    "date": "2027-01-21",
     "time": "20:00",
     "id": "learn-to-sell",
     "category": "Ambition work and money",
@@ -1313,7 +1313,7 @@
   },
   {
     "n": 165,
-    "date": "2027-01-30",
+    "date": "2027-01-22",
     "time": "08:00",
     "id": "strength-is-a-skill",
     "category": "Body and training",
@@ -1321,7 +1321,7 @@
   },
   {
     "n": 166,
-    "date": "2027-01-30",
+    "date": "2027-01-22",
     "time": "20:00",
     "id": "second-chances",
     "category": "Failure and comeback",
@@ -1329,7 +1329,7 @@
   },
   {
     "n": 167,
-    "date": "2027-01-31",
+    "date": "2027-01-23",
     "time": "08:00",
     "id": "think-like-a-king",
     "category": "Mindset",
@@ -1337,7 +1337,7 @@
   },
   {
     "n": 168,
-    "date": "2027-01-31",
+    "date": "2027-01-23",
     "time": "20:00",
     "id": "break-the-cycle",
     "category": "Purpose legacy and family",
@@ -1345,7 +1345,7 @@
   },
   {
     "n": 169,
-    "date": "2027-02-01",
+    "date": "2027-01-24",
     "time": "08:00",
     "id": "discipline-is-freedom",
     "category": "Discipline",
@@ -1353,7 +1353,7 @@
   },
   {
     "n": 170,
-    "date": "2027-02-01",
+    "date": "2027-01-24",
     "time": "20:00",
     "id": "people-treat-you-how-you-allow",
     "category": "Respect and standards",
@@ -1361,7 +1361,7 @@
   },
   {
     "n": 171,
-    "date": "2027-02-02",
+    "date": "2027-01-25",
     "time": "08:00",
     "id": "pain-is-certain-suffering-is-optional",
     "category": "Emotional control and stoicism",
@@ -1369,7 +1369,7 @@
   },
   {
     "n": 172,
-    "date": "2027-02-02",
+    "date": "2027-01-25",
     "time": "20:00",
     "id": "journal-like-a-warrior",
     "category": "Mornings and routine",
@@ -1377,7 +1377,7 @@
   },
   {
     "n": 173,
-    "date": "2027-02-03",
+    "date": "2027-01-26",
     "time": "08:00",
     "id": "enjoy-your-own-company",
     "category": "The path alone",
@@ -1385,7 +1385,7 @@
   },
   {
     "n": 174,
-    "date": "2027-02-03",
+    "date": "2027-01-26",
     "time": "20:00",
     "id": "every-hour-counts",
     "category": "Time and urgency",
@@ -1393,7 +1393,7 @@
   },
   {
     "n": 175,
-    "date": "2027-02-04",
+    "date": "2027-01-27",
     "time": "08:00",
     "id": "your-nine-to-five",
     "category": "Ambition work and money",
@@ -1401,7 +1401,7 @@
   },
   {
     "n": 176,
-    "date": "2027-02-04",
+    "date": "2027-01-27",
     "time": "20:00",
     "id": "train-like-a-warrior",
     "category": "Body and training",
@@ -1409,7 +1409,7 @@
   },
   {
     "n": 177,
-    "date": "2027-02-05",
+    "date": "2027-01-28",
     "time": "08:00",
     "id": "make-the-call",
     "category": "Fear and courage",
@@ -1417,7 +1417,7 @@
   },
   {
     "n": 178,
-    "date": "2027-02-05",
+    "date": "2027-01-28",
     "time": "20:00",
     "id": "single-tasking",
     "category": "Focus and distraction",
@@ -1425,7 +1425,7 @@
   },
   {
     "n": 179,
-    "date": "2027-02-06",
+    "date": "2027-01-29",
     "time": "08:00",
     "id": "bad-days-build-good-men",
     "category": "Failure and comeback",
@@ -1433,7 +1433,7 @@
   },
   {
     "n": 180,
-    "date": "2027-02-06",
+    "date": "2027-01-29",
     "time": "20:00",
     "id": "control-the-controllables",
     "category": "Mindset",
@@ -1441,7 +1441,7 @@
   },
   {
     "n": 181,
-    "date": "2027-02-07",
+    "date": "2027-01-30",
     "time": "08:00",
     "id": "delayed-gratification",
     "category": "Discipline",
@@ -1449,7 +1449,7 @@
   },
   {
     "n": 182,
-    "date": "2027-02-07",
+    "date": "2027-01-30",
     "time": "20:00",
     "id": "generational-change",
     "category": "Purpose legacy and family",
@@ -1457,7 +1457,7 @@
   },
   {
     "n": 183,
-    "date": "2027-02-08",
+    "date": "2027-01-31",
     "time": "08:00",
     "id": "say-no-more-often",
     "category": "Respect and standards",
@@ -1465,7 +1465,7 @@
   },
   {
     "n": 184,
-    "date": "2027-02-08",
+    "date": "2027-01-31",
     "time": "20:00",
     "id": "detach-from-outcomes",
     "category": "Emotional control and stoicism",
@@ -1473,7 +1473,7 @@
   },
   {
     "n": 185,
-    "date": "2027-02-09",
+    "date": "2027-02-01",
     "time": "08:00",
     "id": "make-your-bed-like-a-soldier",
     "category": "Mornings and routine",
@@ -1481,7 +1481,7 @@
   },
   {
     "n": 186,
-    "date": "2027-02-09",
+    "date": "2027-02-01",
     "time": "20:00",
     "id": "side-hustle-nights",
     "category": "Ambition work and money",
@@ -1489,7 +1489,7 @@
   },
   {
     "n": 187,
-    "date": "2027-02-10",
+    "date": "2027-02-02",
     "time": "08:00",
     "id": "fight-training",
     "category": "Body and training",
@@ -1497,7 +1497,7 @@
   },
   {
     "n": 188,
-    "date": "2027-02-10",
+    "date": "2027-02-02",
     "time": "20:00",
     "id": "do-the-reps",
     "category": "Discipline",
@@ -1505,7 +1505,7 @@
   },
   {
     "n": 189,
-    "date": "2027-02-11",
+    "date": "2027-02-03",
     "time": "08:00",
     "id": "the-quiet-years",
     "category": "The path alone",
@@ -1513,7 +1513,7 @@
   },
   {
     "n": 190,
-    "date": "2027-02-11",
+    "date": "2027-02-03",
     "time": "20:00",
     "id": "courage-in-small-moments",
     "category": "Fear and courage",
@@ -1521,7 +1521,7 @@
   },
   {
     "n": 191,
-    "date": "2027-02-12",
+    "date": "2027-02-04",
     "time": "08:00",
     "id": "the-first-hour-of-work",
     "category": "Focus and distraction",
@@ -1529,7 +1529,7 @@
   },
   {
     "n": 192,
-    "date": "2027-02-12",
+    "date": "2027-02-04",
     "time": "20:00",
     "id": "the-day-you-wanted-to-quit",
     "category": "Failure and comeback",
@@ -1537,7 +1537,7 @@
   },
   {
     "n": 193,
-    "date": "2027-02-13",
+    "date": "2027-02-05",
     "time": "08:00",
     "id": "stop-complaining",
     "category": "Mindset",
@@ -1545,7 +1545,7 @@
   },
   {
     "n": 194,
-    "date": "2027-02-13",
+    "date": "2027-02-05",
     "time": "20:00",
     "id": "tomorrow-is-not-promised",
     "category": "Time and urgency",
@@ -1553,7 +1553,7 @@
   },
   {
     "n": 195,
-    "date": "2027-02-14",
+    "date": "2027-02-06",
     "time": "08:00",
     "id": "one-more-rep",
     "category": "Discipline",
@@ -1561,7 +1561,7 @@
   },
   {
     "n": 196,
-    "date": "2027-02-14",
+    "date": "2027-02-06",
     "time": "20:00",
     "id": "the-grind-is-lonely",
     "category": "Ambition work and money",
@@ -1569,7 +1569,7 @@
   },
   {
     "n": 197,
-    "date": "2027-02-15",
+    "date": "2027-02-07",
     "time": "08:00",
     "id": "boxing-teaches-humility",
     "category": "Body and training",
@@ -1577,7 +1577,7 @@
   },
   {
     "n": 198,
-    "date": "2027-02-15",
+    "date": "2027-02-07",
     "time": "20:00",
     "id": "let-it-go",
     "category": "Emotional control and stoicism",
@@ -1585,7 +1585,7 @@
   },
   {
     "n": 199,
-    "date": "2027-02-16",
+    "date": "2027-02-08",
     "time": "08:00",
     "id": "sunlight-before-screens",
     "category": "Mornings and routine",
@@ -1593,7 +1593,7 @@
   },
   {
     "n": 200,
-    "date": "2027-02-16",
+    "date": "2027-02-08",
     "time": "20:00",
     "id": "cut-toxic-people",
     "category": "Respect and standards",
@@ -1601,7 +1601,7 @@
   },
   {
     "n": 201,
-    "date": "2027-02-17",
+    "date": "2027-02-09",
     "time": "08:00",
     "id": "what-will-they-say-at-your-funeral",
     "category": "Purpose legacy and family",
@@ -1609,7 +1609,7 @@
   },
   {
     "n": 202,
-    "date": "2027-02-17",
+    "date": "2027-02-09",
     "time": "20:00",
     "id": "getting-knocked-down",
     "category": "Failure and comeback",
@@ -1617,7 +1617,7 @@
   },
   {
     "n": 203,
-    "date": "2027-02-18",
+    "date": "2027-02-10",
     "time": "08:00",
     "id": "gratitude-is-strength",
     "category": "Mindset",
@@ -1625,7 +1625,7 @@
   },
   {
     "n": 204,
-    "date": "2027-02-18",
+    "date": "2027-02-10",
     "time": "20:00",
     "id": "fear-of-failure",
     "category": "Fear and courage",
@@ -1633,7 +1633,7 @@
   },
   {
     "n": 205,
-    "date": "2027-02-19",
+    "date": "2027-02-11",
     "time": "08:00",
     "id": "turn-off-the-noise",
     "category": "Focus and distraction",
@@ -1641,7 +1641,7 @@
   },
   {
     "n": 206,
-    "date": "2027-02-19",
+    "date": "2027-02-11",
     "time": "20:00",
     "id": "friends-who-pull-you-down",
     "category": "The path alone",
@@ -1649,7 +1649,7 @@
   },
   {
     "n": 207,
-    "date": "2027-02-20",
+    "date": "2027-02-12",
     "time": "08:00",
     "id": "raise-your-standards",
     "category": "Discipline",
@@ -1657,7 +1657,7 @@
   },
   {
     "n": 208,
-    "date": "2027-02-20",
+    "date": "2027-02-12",
     "time": "20:00",
     "id": "do-it-now",
     "category": "Time and urgency",
@@ -1665,7 +1665,7 @@
   },
   {
     "n": 209,
-    "date": "2027-02-21",
+    "date": "2027-02-13",
     "time": "08:00",
     "id": "hustle-with-purpose",
     "category": "Ambition work and money",
@@ -1673,7 +1673,7 @@
   },
   {
     "n": 210,
-    "date": "2027-02-21",
+    "date": "2027-02-13",
     "time": "20:00",
     "id": "get-hit-and-stay-standing",
     "category": "Body and training",
@@ -1681,7 +1681,7 @@
   },
   {
     "n": 211,
-    "date": "2027-02-22",
+    "date": "2027-02-14",
     "time": "08:00",
     "id": "forgive-and-move",
     "category": "Emotional control and stoicism",
@@ -1689,7 +1689,7 @@
   },
   {
     "n": 212,
-    "date": "2027-02-22",
+    "date": "2027-02-14",
     "time": "20:00",
     "id": "silence-before-noise",
     "category": "Mornings and routine",
@@ -1697,7 +1697,7 @@
   },
   {
     "n": 213,
-    "date": "2027-02-23",
+    "date": "2027-02-15",
     "time": "08:00",
     "id": "mistakes-are-tuition",
     "category": "Failure and comeback",
@@ -1705,7 +1705,7 @@
   },
   {
     "n": 214,
-    "date": "2027-02-23",
+    "date": "2027-02-15",
     "time": "20:00",
     "id": "abundance-mindset",
     "category": "Mindset",
@@ -1713,7 +1713,7 @@
   },
   {
     "n": 215,
-    "date": "2027-02-24",
+    "date": "2027-02-16",
     "time": "08:00",
     "id": "stop-explaining-yourself",
     "category": "Respect and standards",
@@ -1721,7 +1721,7 @@
   },
   {
     "n": 216,
-    "date": "2027-02-24",
+    "date": "2027-02-16",
     "time": "20:00",
     "id": "the-minimum-you-will-accept",
     "category": "Discipline",
@@ -1729,7 +1729,7 @@
   },
   {
     "n": 217,
-    "date": "2027-02-25",
+    "date": "2027-02-17",
     "time": "08:00",
     "id": "fear-of-success",
     "category": "Fear and courage",
@@ -1737,7 +1737,7 @@
   },
   {
     "n": 218,
-    "date": "2027-02-25",
+    "date": "2027-02-17",
     "time": "20:00",
     "id": "focus-like-a-sniper",
     "category": "Focus and distraction",
@@ -1745,7 +1745,7 @@
   },
   {
     "n": 219,
-    "date": "2027-02-26",
+    "date": "2027-02-18",
     "time": "08:00",
     "id": "build-something-that-lasts",
     "category": "Purpose legacy and family",
@@ -1753,7 +1753,7 @@
   },
   {
     "n": 220,
-    "date": "2027-02-26",
+    "date": "2027-02-18",
     "time": "20:00",
     "id": "choose-your-circle",
     "category": "The path alone",
@@ -1761,7 +1761,7 @@
   },
   {
     "n": 221,
-    "date": "2027-02-27",
+    "date": "2027-02-19",
     "time": "08:00",
     "id": "ambition-is-not-greed",
     "category": "Ambition work and money",
@@ -1769,7 +1769,7 @@
   },
   {
     "n": 222,
-    "date": "2027-02-27",
+    "date": "2027-02-19",
     "time": "20:00",
     "id": "pain-is-information",
     "category": "Body and training",
@@ -1777,7 +1777,7 @@
   },
   {
     "n": 223,
-    "date": "2027-02-28",
+    "date": "2027-02-20",
     "time": "08:00",
     "id": "stop-negotiating-with-yourself",
     "category": "Discipline",
@@ -1785,7 +1785,7 @@
   },
   {
     "n": 224,
-    "date": "2027-02-28",
+    "date": "2027-02-20",
     "time": "20:00",
     "id": "procrastination-is-a-thief",
     "category": "Time and urgency",
@@ -1793,7 +1793,7 @@
   },
   {
     "n": 225,
-    "date": "2027-03-01",
+    "date": "2027-02-21",
     "time": "08:00",
     "id": "revenge-is-wasted-energy",
     "category": "Emotional control and stoicism",
@@ -1801,7 +1801,7 @@
   },
   {
     "n": 226,
-    "date": "2027-03-01",
+    "date": "2027-02-21",
     "time": "20:00",
     "id": "read-before-you-scroll",
     "category": "Mornings and routine",
@@ -1809,7 +1809,7 @@
   },
   {
     "n": 227,
-    "date": "2027-03-02",
+    "date": "2027-02-22",
     "time": "08:00",
     "id": "own-your-failures",
     "category": "Failure and comeback",
@@ -1817,7 +1817,7 @@
   },
   {
     "n": 228,
-    "date": "2027-03-02",
+    "date": "2027-02-22",
     "time": "20:00",
     "id": "scarcity-thinking",
     "category": "Mindset",
@@ -1825,7 +1825,7 @@
   },
   {
     "n": 229,
-    "date": "2027-03-03",
+    "date": "2027-02-23",
     "time": "08:00",
     "id": "the-imposter-feeling",
     "category": "Fear and courage",
@@ -1833,7 +1833,7 @@
   },
   {
     "n": 230,
-    "date": "2027-03-03",
+    "date": "2027-02-23",
     "time": "20:00",
     "id": "tunnel-vision",
     "category": "Focus and distraction",
@@ -1841,7 +1841,7 @@
   },
   {
     "n": 231,
-    "date": "2027-03-04",
+    "date": "2027-02-24",
     "time": "08:00",
     "id": "do-not-beg-for-attention",
     "category": "Respect and standards",
@@ -1849,7 +1849,7 @@
   },
   {
     "n": 232,
-    "date": "2027-03-04",
+    "date": "2027-02-24",
     "time": "20:00",
     "id": "the-five-people-around-you",
     "category": "The path alone",
@@ -1857,7 +1857,7 @@
   },
   {
     "n": 233,
-    "date": "2027-03-05",
+    "date": "2027-02-25",
     "time": "08:00",
     "id": "serve-something-bigger",
     "category": "Purpose legacy and family",
@@ -1865,7 +1865,7 @@
   },
   {
     "n": 234,
-    "date": "2027-03-05",
+    "date": "2027-02-25",
     "time": "20:00",
     "id": "the-two-minute-start",
     "category": "Discipline",
@@ -1873,7 +1873,7 @@
   },
   {
     "n": 235,
-    "date": "2027-03-06",
+    "date": "2027-02-26",
     "time": "08:00",
     "id": "dream-big-work-bigger",
     "category": "Ambition work and money",
@@ -1881,7 +1881,7 @@
   },
   {
     "n": 236,
-    "date": "2027-03-06",
+    "date": "2027-02-26",
     "time": "20:00",
     "id": "soreness-is-a-receipt",
     "category": "Body and training",
@@ -1889,7 +1889,7 @@
   },
   {
     "n": 237,
-    "date": "2027-03-07",
+    "date": "2027-02-27",
     "time": "08:00",
     "id": "stop-blaming-others",
     "category": "Failure and comeback",
@@ -1897,7 +1897,7 @@
   },
   {
     "n": 238,
-    "date": "2027-03-07",
+    "date": "2027-02-27",
     "time": "20:00",
     "id": "growth-mindset",
     "category": "Mindset",
@@ -1905,7 +1905,7 @@
   },
   {
     "n": 239,
-    "date": "2027-03-08",
+    "date": "2027-02-28",
     "time": "08:00",
     "id": "do-not-take-it-personally",
     "category": "Emotional control and stoicism",
@@ -1913,7 +1913,7 @@
   },
   {
     "n": 240,
-    "date": "2027-03-08",
+    "date": "2027-02-28",
     "time": "20:00",
     "id": "move-before-you-think",
     "category": "Mornings and routine",
@@ -1921,7 +1921,7 @@
   },
   {
     "n": 241,
-    "date": "2027-03-09",
+    "date": "2027-03-01",
     "time": "08:00",
     "id": "waiting-for-the-right-moment",
     "category": "Time and urgency",
@@ -1929,7 +1929,7 @@
   },
   {
     "n": 242,
-    "date": "2027-03-09",
+    "date": "2027-03-01",
     "time": "20:00",
     "id": "overthinking-kills",
     "category": "Fear and courage",
@@ -1937,7 +1937,7 @@
   },
   {
     "n": 243,
-    "date": "2027-03-10",
+    "date": "2027-03-02",
     "time": "08:00",
     "id": "ignore-the-crowd",
     "category": "Focus and distraction",
@@ -1945,7 +1945,7 @@
   },
   {
     "n": 244,
-    "date": "2027-03-10",
+    "date": "2027-03-02",
     "time": "20:00",
     "id": "habits-build-the-man",
     "category": "Discipline",
@@ -1953,7 +1953,7 @@
   },
   {
     "n": 245,
-    "date": "2027-03-11",
+    "date": "2027-03-03",
     "time": "08:00",
     "id": "stop-people-pleasing",
     "category": "Respect and standards",
@@ -1961,7 +1961,7 @@
   },
   {
     "n": 246,
-    "date": "2027-03-11",
+    "date": "2027-03-03",
     "time": "20:00",
     "id": "goals-on-paper",
     "category": "Ambition work and money",
@@ -1969,7 +1969,7 @@
   },
   {
     "n": 247,
-    "date": "2027-03-12",
+    "date": "2027-03-04",
     "time": "08:00",
     "id": "rest-days-are-part-of-the-work",
     "category": "Body and training",
@@ -1977,7 +1977,7 @@
   },
   {
     "n": 248,
-    "date": "2027-03-12",
+    "date": "2027-03-04",
     "time": "20:00",
     "id": "leave-the-group-chat",
     "category": "The path alone",
@@ -1985,7 +1985,7 @@
   },
   {
     "n": 249,
-    "date": "2027-03-13",
+    "date": "2027-03-05",
     "time": "08:00",
     "id": "purpose-over-pleasure",
     "category": "Purpose legacy and family",
@@ -1993,7 +1993,7 @@
   },
   {
     "n": 250,
-    "date": "2027-03-13",
+    "date": "2027-03-05",
     "time": "20:00",
     "id": "responsibility-is-power",
     "category": "Failure and comeback",
@@ -2001,7 +2001,7 @@
   },
   {
     "n": 251,
-    "date": "2027-03-14",
+    "date": "2027-03-06",
     "time": "08:00",
     "id": "fixed-mindset-traps",
     "category": "Mindset",
@@ -2009,7 +2009,7 @@
   },
   {
     "n": 252,
-    "date": "2027-03-14",
+    "date": "2027-03-06",
     "time": "20:00",
     "id": "insults-are-noise",
     "category": "Emotional control and stoicism",
@@ -2017,7 +2017,7 @@
   },
   {
     "n": 253,
-    "date": "2027-03-15",
+    "date": "2027-03-07",
     "time": "08:00",
     "id": "the-evening-routine",
     "category": "Mornings and routine",
@@ -2025,7 +2025,7 @@
   },
   {
     "n": 254,
-    "date": "2027-03-15",
+    "date": "2027-03-07",
     "time": "20:00",
     "id": "break-the-streak-of-excuses",
     "category": "Discipline",
@@ -2033,7 +2033,7 @@
   },
   {
     "n": 255,
-    "date": "2027-03-16",
+    "date": "2027-03-08",
     "time": "08:00",
     "id": "act-before-you-are-ready",
     "category": "Fear and courage",
@@ -2041,7 +2041,7 @@
   },
   {
     "n": 256,
-    "date": "2027-03-16",
+    "date": "2027-03-08",
     "time": "20:00",
     "id": "the-power-of-saying-no",
     "category": "Focus and distraction",
@@ -2049,7 +2049,7 @@
   },
   {
     "n": 257,
-    "date": "2027-03-17",
+    "date": "2027-03-09",
     "time": "08:00",
     "id": "the-nice-guy-trap",
     "category": "Respect and standards",
@@ -2057,7 +2057,7 @@
   },
   {
     "n": 258,
-    "date": "2027-03-17",
+    "date": "2027-03-09",
     "time": "20:00",
     "id": "plans-without-action",
     "category": "Ambition work and money",
@@ -2065,7 +2065,7 @@
   },
   {
     "n": 259,
-    "date": "2027-03-18",
+    "date": "2027-03-10",
     "time": "08:00",
     "id": "your-body-is-your-first-home",
     "category": "Body and training",
@@ -2073,7 +2073,7 @@
   },
   {
     "n": 260,
-    "date": "2027-03-18",
+    "date": "2027-03-10",
     "time": "20:00",
     "id": "the-best-time-was-yesterday",
     "category": "Time and urgency",
@@ -2081,7 +2081,7 @@
   },
   {
     "n": 261,
-    "date": "2027-03-19",
+    "date": "2027-03-11",
     "time": "08:00",
     "id": "discipline-when-it-rains",
     "category": "Discipline",
@@ -2089,7 +2089,7 @@
   },
   {
     "n": 262,
-    "date": "2027-03-19",
+    "date": "2027-03-11",
     "time": "20:00",
     "id": "regret-or-results",
     "category": "Failure and comeback",
@@ -2097,7 +2097,7 @@
   },
   {
     "n": 263,
-    "date": "2027-03-20",
+    "date": "2027-03-12",
     "time": "08:00",
     "id": "your-limits-are-lies",
     "category": "Mindset",
@@ -2105,7 +2105,7 @@
   },
   {
     "n": 264,
-    "date": "2027-03-20",
+    "date": "2027-03-12",
     "time": "20:00",
     "id": "stop-seeking-approval",
     "category": "The path alone",
@@ -2113,7 +2113,7 @@
   },
   {
     "n": 265,
-    "date": "2027-03-21",
+    "date": "2027-03-13",
     "time": "08:00",
     "id": "ego-is-the-enemy",
     "category": "Emotional control and stoicism",
@@ -2121,7 +2121,7 @@
   },
   {
     "n": 266,
-    "date": "2027-03-21",
+    "date": "2027-03-13",
     "time": "20:00",
     "id": "shut-down-the-day-properly",
     "category": "Mornings and routine",
@@ -2129,7 +2129,7 @@
   },
   {
     "n": 267,
-    "date": "2027-03-22",
+    "date": "2027-03-14",
     "time": "08:00",
     "id": "meaning-over-money",
     "category": "Purpose legacy and family",
@@ -2137,7 +2137,7 @@
   },
   {
     "n": 268,
-    "date": "2027-03-22",
+    "date": "2027-03-14",
     "time": "20:00",
     "id": "jump",
     "category": "Fear and courage",
@@ -2145,7 +2145,7 @@
   },
   {
     "n": 269,
-    "date": "2027-03-23",
+    "date": "2027-03-15",
     "time": "08:00",
     "id": "busy-is-not-productive",
     "category": "Focus and distraction",
@@ -2153,7 +2153,7 @@
   },
   {
     "n": 270,
-    "date": "2027-03-23",
+    "date": "2027-03-15",
     "time": "20:00",
     "id": "execution-is-everything",
     "category": "Ambition work and money",
@@ -2161,7 +2161,7 @@
   },
   {
     "n": 271,
-    "date": "2027-03-24",
+    "date": "2027-03-16",
     "time": "08:00",
     "id": "eat-for-strength",
     "category": "Body and training",
@@ -2169,7 +2169,7 @@
   },
   {
     "n": 272,
-    "date": "2027-03-24",
+    "date": "2027-03-16",
     "time": "20:00",
     "id": "the-obsessed-have-no-weekends",
     "category": "Discipline",
@@ -2177,7 +2177,7 @@
   },
   {
     "n": 273,
-    "date": "2027-03-25",
+    "date": "2027-03-17",
     "time": "08:00",
     "id": "kindness-is-not-weakness",
     "category": "Respect and standards",
@@ -2185,7 +2185,7 @@
   },
   {
     "n": 274,
-    "date": "2027-03-25",
+    "date": "2027-03-17",
     "time": "20:00",
     "id": "the-pain-of-losing",
     "category": "Failure and comeback",
@@ -2193,7 +2193,7 @@
   },
   {
     "n": 275,
-    "date": "2027-03-26",
+    "date": "2027-03-18",
     "time": "08:00",
     "id": "the-impossible-is-temporary",
     "category": "Mindset",
@@ -2201,7 +2201,7 @@
   },
   {
     "n": 276,
-    "date": "2027-03-26",
+    "date": "2027-03-18",
     "time": "20:00",
     "id": "now-is-the-moment",
     "category": "Time and urgency",
@@ -2209,7 +2209,7 @@
   },
   {
     "n": 277,
-    "date": "2027-03-27",
+    "date": "2027-03-19",
     "time": "08:00",
     "id": "you-do-not-need-applause",
     "category": "The path alone",
@@ -2217,7 +2217,7 @@
   },
   {
     "n": 278,
-    "date": "2027-03-27",
+    "date": "2027-03-19",
     "time": "20:00",
     "id": "humility-is-strength",
     "category": "Emotional control and stoicism",
@@ -2225,7 +2225,7 @@
   },
   {
     "n": 279,
-    "date": "2027-03-28",
+    "date": "2027-03-20",
     "time": "08:00",
     "id": "bedtime-discipline",
     "category": "Mornings and routine",
@@ -2233,7 +2233,7 @@
   },
   {
     "n": 280,
-    "date": "2027-03-28",
+    "date": "2027-03-20",
     "time": "20:00",
     "id": "the-price-of-discipline",
     "category": "Discipline",
@@ -2241,7 +2241,7 @@
   },
   {
     "n": 281,
-    "date": "2027-03-29",
+    "date": "2027-03-21",
     "time": "08:00",
     "id": "live-for-something",
     "category": "Purpose legacy and family",
@@ -2249,7 +2249,7 @@
   },
   {
     "n": 282,
-    "date": "2027-03-29",
+    "date": "2027-03-21",
     "time": "20:00",
     "id": "leap-of-faith",
     "category": "Fear and courage",
@@ -2257,7 +2257,7 @@
   },
   {
     "n": 283,
-    "date": "2027-03-30",
+    "date": "2027-03-22",
     "time": "08:00",
     "id": "distraction-is-the-enemy",
     "category": "Focus and distraction",
@@ -2265,7 +2265,7 @@
   },
   {
     "n": 284,
-    "date": "2027-03-30",
+    "date": "2027-03-22",
     "time": "20:00",
     "id": "done-is-better-than-perfect",
     "category": "Ambition work and money",
@@ -2273,7 +2273,7 @@
   },
   {
     "n": 285,
-    "date": "2027-03-31",
+    "date": "2027-03-23",
     "time": "08:00",
     "id": "sugar-is-a-thief",
     "category": "Body and training",
@@ -2281,7 +2281,7 @@
   },
   {
     "n": 286,
-    "date": "2027-03-31",
+    "date": "2027-03-23",
     "time": "20:00",
     "id": "learn-from-losses",
     "category": "Failure and comeback",
@@ -2289,7 +2289,7 @@
   },
   {
     "n": 287,
-    "date": "2027-04-01",
+    "date": "2027-03-24",
     "time": "08:00",
     "id": "expect-hardship",
     "category": "Mindset",
@@ -2297,7 +2297,7 @@
   },
   {
     "n": 288,
-    "date": "2027-04-01",
+    "date": "2027-03-24",
     "time": "20:00",
     "id": "firm-and-fair",
     "category": "Respect and standards",
@@ -2305,7 +2305,7 @@
   },
   {
     "n": 289,
-    "date": "2027-04-02",
+    "date": "2027-03-25",
     "time": "08:00",
     "id": "the-price-of-regret",
     "category": "Discipline",
@@ -2313,7 +2313,7 @@
   },
   {
     "n": 290,
-    "date": "2027-04-02",
+    "date": "2027-03-25",
     "time": "20:00",
     "id": "patience-is-power",
     "category": "Emotional control and stoicism",
@@ -2321,7 +2321,7 @@
   },
   {
     "n": 291,
-    "date": "2027-04-03",
+    "date": "2027-03-26",
     "time": "08:00",
     "id": "the-sunday-reset",
     "category": "Mornings and routine",
@@ -2329,7 +2329,7 @@
   },
   {
     "n": 292,
-    "date": "2027-04-03",
+    "date": "2027-03-26",
     "time": "20:00",
     "id": "be-misunderstood",
     "category": "The path alone",
@@ -2337,7 +2337,7 @@
   },
   {
     "n": 293,
-    "date": "2027-04-04",
+    "date": "2027-03-27",
     "time": "08:00",
     "id": "seasons-of-life",
     "category": "Time and urgency",
@@ -2345,7 +2345,7 @@
   },
   {
     "n": 294,
-    "date": "2027-04-04",
+    "date": "2027-03-27",
     "time": "20:00",
     "id": "start-the-business",
     "category": "Ambition work and money",
@@ -2353,7 +2353,7 @@
   },
   {
     "n": 295,
-    "date": "2027-04-05",
+    "date": "2027-03-28",
     "time": "08:00",
     "id": "alcohol-steals-your-edge",
     "category": "Body and training",
@@ -2361,7 +2361,7 @@
   },
   {
     "n": 296,
-    "date": "2027-04-05",
+    "date": "2027-03-28",
     "time": "20:00",
     "id": "the-brave-choice",
     "category": "Fear and courage",
@@ -2369,7 +2369,7 @@
   },
   {
     "n": 297,
-    "date": "2027-04-06",
+    "date": "2027-03-29",
     "time": "08:00",
     "id": "screen-time-is-life-time",
     "category": "Focus and distraction",
@@ -2377,7 +2377,7 @@
   },
   {
     "n": 298,
-    "date": "2027-04-06",
+    "date": "2027-03-29",
     "time": "20:00",
     "id": "who-are-you-doing-it-for",
     "category": "Purpose legacy and family",
@@ -2385,7 +2385,7 @@
   },
   {
     "n": 299,
-    "date": "2027-04-07",
+    "date": "2027-03-30",
     "time": "08:00",
     "id": "commit-before-you-feel-ready",
     "category": "Discipline",
@@ -2393,7 +2393,7 @@
   },
   {
     "n": 300,
-    "date": "2027-04-07",
+    "date": "2027-03-30",
     "time": "20:00",
     "id": "heartbreak-and-the-gym",
     "category": "Failure and comeback",
@@ -2401,7 +2401,7 @@
   },
   {
     "n": 301,
-    "date": "2027-04-08",
+    "date": "2027-03-31",
     "time": "08:00",
     "id": "embrace-the-suck",
     "category": "Mindset",
@@ -2409,7 +2409,7 @@
   },
   {
     "n": 302,
-    "date": "2027-04-08",
+    "date": "2027-03-31",
     "time": "20:00",
     "id": "keep-your-word",
     "category": "Respect and standards",
@@ -2417,7 +2417,7 @@
   },
   {
     "n": 303,
-    "date": "2027-04-09",
+    "date": "2027-04-01",
     "time": "08:00",
     "id": "stay-calm-in-chaos",
     "category": "Emotional control and stoicism",
@@ -2425,7 +2425,7 @@
   },
   {
     "n": 304,
-    "date": "2027-04-09",
+    "date": "2027-04-01",
     "time": "20:00",
     "id": "monday-is-a-gift",
     "category": "Mornings and routine",
@@ -2433,7 +2433,7 @@
   },
   {
     "n": 305,
-    "date": "2027-04-10",
+    "date": "2027-04-02",
     "time": "08:00",
     "id": "own-something",
     "category": "Ambition work and money",
@@ -2441,7 +2441,7 @@
   },
   {
     "n": 306,
-    "date": "2027-04-10",
+    "date": "2027-04-02",
     "time": "20:00",
     "id": "posture-of-a-leader",
     "category": "Body and training",
@@ -2449,7 +2449,7 @@
   },
   {
     "n": 307,
-    "date": "2027-04-11",
+    "date": "2027-04-03",
     "time": "08:00",
     "id": "the-price-of-being-different",
     "category": "The path alone",
@@ -2457,7 +2457,7 @@
   },
   {
     "n": 308,
-    "date": "2027-04-11",
+    "date": "2027-04-03",
     "time": "20:00",
     "id": "hard-choices-easy-life",
     "category": "Discipline",
@@ -2465,7 +2465,7 @@
   },
   {
     "n": 309,
-    "date": "2027-04-12",
+    "date": "2027-04-04",
     "time": "08:00",
     "id": "stand-up-for-yourself",
     "category": "Fear and courage",
@@ -2473,7 +2473,7 @@
   },
   {
     "n": 310,
-    "date": "2027-04-12",
+    "date": "2027-04-04",
     "time": "20:00",
     "id": "your-feed-shapes-your-mind",
     "category": "Focus and distraction",
@@ -2481,7 +2481,7 @@
   },
   {
     "n": 311,
-    "date": "2027-04-13",
+    "date": "2027-04-05",
     "time": "08:00",
     "id": "your-twenties",
     "category": "Time and urgency",
@@ -2489,7 +2489,7 @@
   },
   {
     "n": 312,
-    "date": "2027-04-13",
+    "date": "2027-04-05",
     "time": "20:00",
     "id": "after-the-breakup",
     "category": "Failure and comeback",
@@ -2497,7 +2497,7 @@
   },
   {
     "n": 313,
-    "date": "2027-04-14",
+    "date": "2027-04-06",
     "time": "08:00",
     "id": "mental-toughness",
     "category": "Mindset",
@@ -2505,7 +2505,7 @@
   },
   {
     "n": 314,
-    "date": "2027-04-14",
+    "date": "2027-04-06",
     "time": "20:00",
     "id": "the-people-who-believed-in-you",
     "category": "Purpose legacy and family",
@@ -2513,7 +2513,7 @@
   },
   {
     "n": 315,
-    "date": "2027-04-15",
+    "date": "2027-04-07",
     "time": "08:00",
     "id": "do-not-gossip",
     "category": "Respect and standards",
@@ -2521,7 +2521,7 @@
   },
   {
     "n": 316,
-    "date": "2027-04-15",
+    "date": "2027-04-07",
     "time": "20:00",
     "id": "easy-choices-hard-life",
     "category": "Discipline",
@@ -2529,7 +2529,7 @@
   },
   {
     "n": 317,
-    "date": "2027-04-16",
+    "date": "2027-04-08",
     "time": "08:00",
     "id": "the-storm-inside",
     "category": "Emotional control and stoicism",
@@ -2537,7 +2537,7 @@
   },
   {
     "n": 318,
-    "date": "2027-04-16",
+    "date": "2027-04-08",
     "time": "20:00",
     "id": "the-weekly-review",
     "category": "Mornings and routine",
@@ -2545,7 +2545,7 @@
   },
   {
     "n": 319,
-    "date": "2027-04-17",
+    "date": "2027-04-09",
     "time": "08:00",
     "id": "be-an-owner-not-a-worker",
     "category": "Ambition work and money",
@@ -2553,7 +2553,7 @@
   },
   {
     "n": 320,
-    "date": "2027-04-17",
+    "date": "2027-04-09",
     "time": "20:00",
     "id": "walk-like-you-mean-it",
     "category": "Body and training",
@@ -2561,7 +2561,7 @@
   },
   {
     "n": 321,
-    "date": "2027-04-18",
+    "date": "2027-04-10",
     "time": "08:00",
     "id": "the-crowd-goes-the-wrong-way",
     "category": "The path alone",
@@ -2569,7 +2569,7 @@
   },
   {
     "n": 322,
-    "date": "2027-04-18",
+    "date": "2027-04-10",
     "time": "20:00",
     "id": "say-no-without-guilt",
     "category": "Fear and courage",
@@ -2577,7 +2577,7 @@
   },
   {
     "n": 323,
-    "date": "2027-04-19",
+    "date": "2027-04-11",
     "time": "08:00",
     "id": "unfollow-the-noise",
     "category": "Focus and distraction",
@@ -2585,7 +2585,7 @@
   },
   {
     "n": 324,
-    "date": "2027-04-19",
+    "date": "2027-04-11",
     "time": "20:00",
     "id": "when-life-hits-hard",
     "category": "Failure and comeback",
@@ -2593,7 +2593,7 @@
   },
   {
     "n": 325,
-    "date": "2027-04-20",
+    "date": "2027-04-12",
     "time": "08:00",
     "id": "train-your-mind-daily",
     "category": "Mindset",
@@ -2601,7 +2601,7 @@
   },
   {
     "n": 326,
-    "date": "2027-04-20",
+    "date": "2027-04-12",
     "time": "20:00",
     "id": "your-calendar-never-lies",
     "category": "Discipline",
@@ -2609,7 +2609,7 @@
   },
   {
     "n": 327,
-    "date": "2027-04-21",
+    "date": "2027-04-13",
     "time": "08:00",
     "id": "your-thirties",
     "category": "Time and urgency",
@@ -2617,7 +2617,7 @@
   },
   {
     "n": 328,
-    "date": "2027-04-21",
+    "date": "2027-04-13",
     "time": "20:00",
     "id": "the-boss-mindset",
     "category": "Ambition work and money",
@@ -2625,7 +2625,7 @@
   },
   {
     "n": 329,
-    "date": "2027-04-22",
+    "date": "2027-04-14",
     "time": "08:00",
     "id": "stand-tall",
     "category": "Body and training",
@@ -2633,7 +2633,7 @@
   },
   {
     "n": 330,
-    "date": "2027-04-22",
+    "date": "2027-04-14",
     "time": "20:00",
     "id": "master-your-mood",
     "category": "Emotional control and stoicism",
@@ -2641,7 +2641,7 @@
   },
   {
     "n": 331,
-    "date": "2027-04-23",
+    "date": "2027-04-15",
     "time": "08:00",
     "id": "routines-beat-moods",
     "category": "Mornings and routine",
@@ -2649,7 +2649,7 @@
   },
   {
     "n": 332,
-    "date": "2027-04-23",
+    "date": "2027-04-15",
     "time": "20:00",
     "id": "speak-with-intention",
     "category": "Respect and standards",
@@ -2657,7 +2657,7 @@
   },
   {
     "n": 333,
-    "date": "2027-04-24",
+    "date": "2027-04-16",
     "time": "08:00",
     "id": "honor-your-mother",
     "category": "Purpose legacy and family",
@@ -2665,7 +2665,7 @@
   },
   {
     "n": 334,
-    "date": "2027-04-24",
+    "date": "2027-04-16",
     "time": "20:00",
     "id": "the-storm-will-pass",
     "category": "Failure and comeback",
@@ -2673,7 +2673,7 @@
   },
   {
     "n": 335,
-    "date": "2027-04-25",
+    "date": "2027-04-17",
     "time": "08:00",
     "id": "visualize-winning",
     "category": "Mindset",
@@ -2681,7 +2681,7 @@
   },
   {
     "n": 336,
-    "date": "2027-04-25",
+    "date": "2027-04-17",
     "time": "20:00",
     "id": "discipline-in-the-small-things",
     "category": "Discipline",
@@ -2689,7 +2689,7 @@
   },
   {
     "n": 337,
-    "date": "2027-04-26",
+    "date": "2027-04-18",
     "time": "08:00",
     "id": "walk-into-the-room",
     "category": "Fear and courage",
@@ -2697,7 +2697,7 @@
   },
   {
     "n": 338,
-    "date": "2027-04-26",
+    "date": "2027-04-18",
     "time": "20:00",
     "id": "read-more-watch-less",
     "category": "Focus and distraction",
@@ -2705,7 +2705,7 @@
   },
   {
     "n": 339,
-    "date": "2027-04-27",
+    "date": "2027-04-19",
     "time": "08:00",
     "id": "lead-from-the-front",
     "category": "The path alone",
@@ -2713,7 +2713,7 @@
   },
   {
     "n": 340,
-    "date": "2027-04-27",
+    "date": "2027-04-19",
     "time": "20:00",
     "id": "negotiate-your-worth",
     "category": "Ambition work and money",
@@ -2721,7 +2721,7 @@
   },
   {
     "n": 341,
-    "date": "2027-04-28",
+    "date": "2027-04-20",
     "time": "08:00",
     "id": "hydration-is-discipline",
     "category": "Body and training",
@@ -2729,7 +2729,7 @@
   },
   {
     "n": 342,
-    "date": "2027-04-28",
+    "date": "2027-04-20",
     "time": "20:00",
     "id": "jealousy-is-a-waste",
     "category": "Emotional control and stoicism",
@@ -2737,7 +2737,7 @@
   },
   {
     "n": 343,
-    "date": "2027-04-29",
+    "date": "2027-04-21",
     "time": "08:00",
     "id": "the-power-of-rituals",
     "category": "Mornings and routine",
@@ -2745,7 +2745,7 @@
   },
   {
     "n": 344,
-    "date": "2027-04-29",
+    "date": "2027-04-21",
     "time": "20:00",
     "id": "it-is-never-too-late",
     "category": "Time and urgency",
@@ -2753,7 +2753,7 @@
   },
   {
     "n": 345,
-    "date": "2027-04-30",
+    "date": "2027-04-22",
     "time": "08:00",
     "id": "clean-room-clear-mind",
     "category": "Discipline",
@@ -2761,7 +2761,7 @@
   },
   {
     "n": 346,
-    "date": "2027-04-30",
+    "date": "2027-04-22",
     "time": "20:00",
     "id": "eye-contact",
     "category": "Respect and standards",
@@ -2769,7 +2769,7 @@
   },
   {
     "n": 347,
-    "date": "2027-05-01",
+    "date": "2027-04-23",
     "time": "08:00",
     "id": "honor-your-father",
     "category": "Purpose legacy and family",
@@ -2777,7 +2777,7 @@
   },
   {
     "n": 348,
-    "date": "2027-05-01",
+    "date": "2027-04-23",
     "time": "20:00",
     "id": "through-the-fire",
     "category": "Failure and comeback",
@@ -2785,7 +2785,7 @@
   },
   {
     "n": 349,
-    "date": "2027-05-02",
+    "date": "2027-04-24",
     "time": "08:00",
     "id": "speak-your-future",
     "category": "Mindset",
@@ -2793,7 +2793,7 @@
   },
   {
     "n": 350,
-    "date": "2027-05-02",
+    "date": "2027-04-24",
     "time": "20:00",
     "id": "confidence-is-built",
     "category": "Fear and courage",
@@ -2801,7 +2801,7 @@
   },
   {
     "n": 351,
-    "date": "2027-05-03",
+    "date": "2027-04-25",
     "time": "08:00",
     "id": "learn-in-silence",
     "category": "Focus and distraction",
@@ -2809,7 +2809,7 @@
   },
   {
     "n": 352,
-    "date": "2027-05-03",
+    "date": "2027-04-25",
     "time": "20:00",
     "id": "walk-your-own-path",
     "category": "The path alone",
@@ -2817,7 +2817,7 @@
   },
   {
     "n": 353,
-    "date": "2027-05-04",
+    "date": "2027-04-26",
     "time": "08:00",
     "id": "ask-for-more",
     "category": "Ambition work and money",
@@ -2825,7 +2825,7 @@
   },
   {
     "n": 354,
-    "date": "2027-05-04",
+    "date": "2027-04-26",
     "time": "20:00",
     "id": "ten-thousand-steps",
     "category": "Body and training",
@@ -2833,7 +2833,7 @@
   },
   {
     "n": 355,
-    "date": "2027-05-05",
+    "date": "2027-04-27",
     "time": "08:00",
     "id": "eat-like-you-respect-yourself",
     "category": "Discipline",
@@ -2841,7 +2841,7 @@
   },
   {
     "n": 356,
-    "date": "2027-05-05",
+    "date": "2027-04-27",
     "time": "20:00",
     "id": "envy-and-comparison",
     "category": "Emotional control and stoicism",
@@ -2849,7 +2849,7 @@
   },
   {
     "n": 357,
-    "date": "2027-05-06",
+    "date": "2027-04-28",
     "time": "08:00",
     "id": "same-time-every-day",
     "category": "Mornings and routine",
@@ -2857,7 +2857,7 @@
   },
   {
     "n": 358,
-    "date": "2027-05-06",
+    "date": "2027-04-28",
     "time": "20:00",
     "id": "pressure-makes-diamonds",
     "category": "Failure and comeback",
@@ -2865,7 +2865,7 @@
   },
   {
     "n": 359,
-    "date": "2027-05-07",
+    "date": "2027-04-29",
     "time": "08:00",
     "id": "rewrite-your-story",
     "category": "Mindset",
@@ -2873,7 +2873,7 @@
   },
   {
     "n": 360,
-    "date": "2027-05-07",
+    "date": "2027-04-29",
     "time": "20:00",
     "id": "presence-and-a-firm-handshake",
     "category": "Respect and standards",
@@ -2881,7 +2881,7 @@
   },
   {
     "n": 361,
-    "date": "2027-05-08",
+    "date": "2027-04-30",
     "time": "08:00",
     "id": "too-old-to-start",
     "category": "Time and urgency",
@@ -2889,7 +2889,7 @@
   },
   {
     "n": 362,
-    "date": "2027-05-08",
+    "date": "2027-04-30",
     "time": "20:00",
     "id": "fake-it-or-build-it",
     "category": "Fear and courage",
@@ -2897,7 +2897,7 @@
   },
   {
     "n": 363,
-    "date": "2027-05-09",
+    "date": "2027-05-01",
     "time": "08:00",
     "id": "focus-on-the-process",
     "category": "Focus and distraction",
@@ -2905,7 +2905,7 @@
   },
   {
     "n": 364,
-    "date": "2027-05-09",
+    "date": "2027-05-01",
     "time": "20:00",
     "id": "brotherhood",
     "category": "Purpose legacy and family",
@@ -2913,7 +2913,7 @@
   },
   {
     "n": 365,
-    "date": "2027-05-10",
+    "date": "2027-05-02",
     "time": "08:00",
     "id": "train-your-willpower",
     "category": "Discipline",
@@ -2921,7 +2921,7 @@
   },
   {
     "n": 366,
-    "date": "2027-05-10",
+    "date": "2027-05-02",
     "time": "20:00",
     "id": "respect-your-time",
     "category": "Ambition work and money",
@@ -2929,7 +2929,7 @@
   },
   {
     "n": 367,
-    "date": "2027-05-11",
+    "date": "2027-05-03",
     "time": "08:00",
     "id": "push-ups-every-morning",
     "category": "Body and training",
@@ -2937,7 +2937,7 @@
   },
   {
     "n": 368,
-    "date": "2027-05-11",
+    "date": "2027-05-03",
     "time": "20:00",
     "id": "your-path-is-not-for-everyone",
     "category": "The path alone",
@@ -2945,7 +2945,7 @@
   },
   {
     "n": 369,
-    "date": "2027-05-12",
+    "date": "2027-05-04",
     "time": "08:00",
     "id": "peace-over-drama",
     "category": "Emotional control and stoicism",
@@ -2953,7 +2953,7 @@
   },
   {
     "n": 370,
-    "date": "2027-05-12",
+    "date": "2027-05-04",
     "time": "20:00",
     "id": "lay-out-your-clothes",
     "category": "Mornings and routine",
@@ -2961,7 +2961,7 @@
   },
   {
     "n": 371,
-    "date": "2027-05-13",
+    "date": "2027-05-05",
     "time": "08:00",
     "id": "wounds-into-wisdom",
     "category": "Failure and comeback",
@@ -2969,7 +2969,7 @@
   },
   {
     "n": 372,
-    "date": "2027-05-13",
+    "date": "2027-05-05",
     "time": "20:00",
     "id": "your-past-is-not-your-prison",
     "category": "Mindset",
@@ -2977,7 +2977,7 @@
   },
   {
     "n": 373,
-    "date": "2027-05-14",
+    "date": "2027-05-06",
     "time": "08:00",
     "id": "willpower-is-a-muscle",
     "category": "Discipline",
@@ -2985,7 +2985,7 @@
   },
   {
     "n": 374,
-    "date": "2027-05-14",
+    "date": "2027-05-06",
     "time": "20:00",
     "id": "dress-with-respect",
     "category": "Respect and standards",
@@ -2993,7 +2993,7 @@
   },
   {
     "n": 375,
-    "date": "2027-05-15",
+    "date": "2027-05-07",
     "time": "08:00",
     "id": "fear-of-rejection",
     "category": "Fear and courage",
@@ -3001,7 +3001,7 @@
   },
   {
     "n": 376,
-    "date": "2027-05-15",
+    "date": "2027-05-07",
     "time": "20:00",
     "id": "eyes-on-your-own-lane",
     "category": "Focus and distraction",
@@ -3009,7 +3009,7 @@
   },
   {
     "n": 377,
-    "date": "2027-05-16",
+    "date": "2027-05-08",
     "time": "08:00",
     "id": "overnight-success-takes-years",
     "category": "Ambition work and money",
@@ -3017,7 +3017,7 @@
   },
   {
     "n": 378,
-    "date": "2027-05-16",
+    "date": "2027-05-08",
     "time": "20:00",
     "id": "pull-ups-and-pride",
     "category": "Body and training",
@@ -3025,7 +3025,7 @@
   },
   {
     "n": 379,
-    "date": "2027-05-17",
+    "date": "2027-05-09",
     "time": "08:00",
     "id": "time-with-your-parents",
     "category": "Time and urgency",
@@ -3033,7 +3033,7 @@
   },
   {
     "n": 380,
-    "date": "2027-05-17",
+    "date": "2027-05-09",
     "time": "20:00",
     "id": "loyalty",
     "category": "Purpose legacy and family",
@@ -3041,7 +3041,7 @@
   },
   {
     "n": 381,
-    "date": "2027-05-18",
+    "date": "2027-05-10",
     "time": "08:00",
     "id": "solitude-is-strength",
     "category": "The path alone",
@@ -3049,7 +3049,7 @@
   },
   {
     "n": 382,
-    "date": "2027-05-18",
+    "date": "2027-05-10",
     "time": "20:00",
     "id": "remove-the-temptation",
     "category": "Discipline",
@@ -3057,7 +3057,7 @@
   },
   {
     "n": 383,
-    "date": "2027-05-19",
+    "date": "2027-05-11",
     "time": "08:00",
     "id": "walk-away-from-drama",
     "category": "Emotional control and stoicism",
@@ -3065,7 +3065,7 @@
   },
   {
     "n": 384,
-    "date": "2027-05-19",
+    "date": "2027-05-11",
     "time": "20:00",
     "id": "pack-your-gym-bag-tonight",
     "category": "Mornings and routine",
@@ -3073,7 +3073,7 @@
   },
   {
     "n": 385,
-    "date": "2027-05-20",
+    "date": "2027-05-12",
     "time": "08:00",
     "id": "turn-pain-into-power",
     "category": "Failure and comeback",
@@ -3081,7 +3081,7 @@
   },
   {
     "n": 386,
-    "date": "2027-05-20",
+    "date": "2027-05-12",
     "time": "20:00",
     "id": "leave-the-victim-story",
     "category": "Mindset",
@@ -3089,7 +3089,7 @@
   },
   {
     "n": 387,
-    "date": "2027-05-21",
+    "date": "2027-05-13",
     "time": "08:00",
     "id": "grooming-is-discipline",
     "category": "Respect and standards",
@@ -3097,7 +3097,7 @@
   },
   {
     "n": 388,
-    "date": "2027-05-21",
+    "date": "2027-05-13",
     "time": "20:00",
     "id": "approach-with-confidence",
     "category": "Fear and courage",
@@ -3105,7 +3105,7 @@
   },
   {
     "n": 389,
-    "date": "2027-05-22",
+    "date": "2027-05-14",
     "time": "08:00",
     "id": "stop-checking-stop-chasing",
     "category": "Focus and distraction",
@@ -3113,7 +3113,7 @@
   },
   {
     "n": 390,
-    "date": "2027-05-22",
+    "date": "2027-05-14",
     "time": "20:00",
     "id": "the-long-game",
     "category": "Ambition work and money",
@@ -3121,7 +3121,7 @@
   },
   {
     "n": 391,
-    "date": "2027-05-23",
+    "date": "2027-05-15",
     "time": "08:00",
     "id": "the-squat-and-the-soul",
     "category": "Body and training",
@@ -3129,7 +3129,7 @@
   },
   {
     "n": 392,
-    "date": "2027-05-23",
+    "date": "2027-05-15",
     "time": "20:00",
     "id": "design-your-environment",
     "category": "Discipline",
@@ -3137,7 +3137,7 @@
   },
   {
     "n": 393,
-    "date": "2027-05-24",
+    "date": "2027-05-16",
     "time": "08:00",
     "id": "silence-wins-arguments",
     "category": "Emotional control and stoicism",
@@ -3145,7 +3145,7 @@
   },
   {
     "n": 394,
-    "date": "2027-05-24",
+    "date": "2027-05-16",
     "time": "20:00",
     "id": "the-setback-is-a-setup",
     "category": "Failure and comeback",
@@ -3153,7 +3153,7 @@
   },
   {
     "n": 395,
-    "date": "2027-05-25",
+    "date": "2027-05-17",
     "time": "08:00",
     "id": "from-overthinking-to-action",
     "category": "Mindset",
@@ -3161,7 +3161,7 @@
   },
   {
     "n": 396,
-    "date": "2027-05-25",
+    "date": "2027-05-17",
     "time": "20:00",
     "id": "water-before-coffee",
     "category": "Mornings and routine",
@@ -3169,7 +3169,7 @@
   },
   {
     "n": 397,
-    "date": "2027-05-26",
+    "date": "2027-05-18",
     "time": "08:00",
     "id": "be-a-good-man",
     "category": "Purpose legacy and family",
@@ -3177,7 +3177,7 @@
   },
   {
     "n": 398,
-    "date": "2027-05-26",
+    "date": "2027-05-18",
     "time": "20:00",
     "id": "time-alone-with-your-thoughts",
     "category": "The path alone",
@@ -3185,7 +3185,7 @@
   },
   {
     "n": 399,
-    "date": "2027-05-27",
+    "date": "2027-05-19",
     "time": "08:00",
     "id": "time-with-your-kids",
     "category": "Time and urgency",
@@ -3193,7 +3193,7 @@
   },
   {
     "n": 400,
-    "date": "2027-05-27",
+    "date": "2027-05-19",
     "time": "20:00",
     "id": "discipline-over-talent",
     "category": "Discipline",
@@ -3201,7 +3201,7 @@
   },
   {
     "n": 401,
-    "date": "2027-05-28",
+    "date": "2027-05-20",
     "time": "08:00",
     "id": "patience-in-business",
     "category": "Ambition work and money",
@@ -3209,7 +3209,7 @@
   },
   {
     "n": 402,
-    "date": "2027-05-28",
+    "date": "2027-05-20",
     "time": "20:00",
     "id": "deadlift-your-doubts",
     "category": "Body and training",
@@ -3217,7 +3217,7 @@
   },
   {
     "n": 403,
-    "date": "2027-05-29",
+    "date": "2027-05-21",
     "time": "08:00",
     "id": "speak-in-public",
     "category": "Fear and courage",
@@ -3225,7 +3225,7 @@
   },
   {
     "n": 404,
-    "date": "2027-05-29",
+    "date": "2027-05-21",
     "time": "20:00",
     "id": "do-the-work-not-the-talk",
     "category": "Focus and distraction",
@@ -3233,7 +3233,7 @@
   },
   {
     "n": 405,
-    "date": "2027-05-30",
+    "date": "2027-05-22",
     "time": "08:00",
     "id": "presence-over-noise",
     "category": "Respect and standards",
@@ -3241,7 +3241,7 @@
   },
   {
     "n": 406,
-    "date": "2027-05-30",
+    "date": "2027-05-22",
     "time": "20:00",
     "id": "never-give-up",
     "category": "Failure and comeback",
@@ -3249,7 +3249,7 @@
   },
   {
     "n": 407,
-    "date": "2027-05-31",
+    "date": "2027-05-23",
     "time": "08:00",
     "id": "decide-who-you-are",
     "category": "Mindset",
@@ -3257,7 +3257,7 @@
   },
   {
     "n": 408,
-    "date": "2027-05-31",
+    "date": "2027-05-23",
     "time": "20:00",
     "id": "lose-the-need-to-be-right",
     "category": "Emotional control and stoicism",
@@ -3265,7 +3265,7 @@
   },
   {
     "n": 409,
-    "date": "2027-06-01",
+    "date": "2027-05-24",
     "time": "08:00",
     "id": "stretch-your-body-wake-your-mind",
     "category": "Mornings and routine",
@@ -3273,7 +3273,7 @@
   },
   {
     "n": 410,
-    "date": "2027-06-01",
+    "date": "2027-05-24",
     "time": "20:00",
     "id": "talent-is-not-enough",
     "category": "Discipline",
@@ -3281,7 +3281,7 @@
   },
   {
     "n": 411,
-    "date": "2027-06-02",
+    "date": "2027-05-25",
     "time": "08:00",
     "id": "disappear-and-improve",
     "category": "The path alone",
@@ -3289,7 +3289,7 @@
   },
   {
     "n": 412,
-    "date": "2027-06-02",
+    "date": "2027-05-25",
     "time": "20:00",
     "id": "strong-and-kind",
     "category": "Purpose legacy and family",
@@ -3297,7 +3297,7 @@
   },
   {
     "n": 413,
-    "date": "2027-06-03",
+    "date": "2027-05-26",
     "time": "08:00",
     "id": "how-you-spend-your-evenings",
     "category": "Time and urgency",
@@ -3305,7 +3305,7 @@
   },
   {
     "n": 414,
-    "date": "2027-06-03",
+    "date": "2027-05-26",
     "time": "20:00",
     "id": "lessons-from-the-poor-years",
     "category": "Ambition work and money",
@@ -3313,7 +3313,7 @@
   },
   {
     "n": 415,
-    "date": "2027-06-04",
+    "date": "2027-05-27",
     "time": "08:00",
     "id": "train-in-the-rain",
     "category": "Body and training",
@@ -3321,7 +3321,7 @@
   },
   {
     "n": 416,
-    "date": "2027-06-04",
+    "date": "2027-05-27",
     "time": "20:00",
     "id": "courage-is-a-habit",
     "category": "Fear and courage",
@@ -3329,7 +3329,7 @@
   },
   {
     "n": 417,
-    "date": "2027-06-05",
+    "date": "2027-05-28",
     "time": "08:00",
     "id": "clarity-before-action",
     "category": "Focus and distraction",
@@ -3337,7 +3337,7 @@
   },
   {
     "n": 418,
-    "date": "2027-06-05",
+    "date": "2027-05-28",
     "time": "20:00",
     "id": "calm-confidence",
     "category": "Respect and standards",
@@ -3345,7 +3345,7 @@
   },
   {
     "n": 419,
-    "date": "2027-06-06",
+    "date": "2027-05-29",
     "time": "08:00",
     "id": "the-grind-nobody-claps-for",
     "category": "Discipline",
@@ -3353,7 +3353,7 @@
   },
   {
     "n": 420,
-    "date": "2027-06-06",
+    "date": "2027-05-29",
     "time": "20:00",
     "id": "give-up-and-stay-average",
     "category": "Failure and comeback",
@@ -3361,7 +3361,7 @@
   },
   {
     "n": 421,
-    "date": "2027-06-07",
+    "date": "2027-05-30",
     "time": "08:00",
     "id": "raise-your-self-image",
     "category": "Mindset",
@@ -3369,7 +3369,7 @@
   },
   {
     "n": 422,
-    "date": "2027-06-07",
+    "date": "2027-05-30",
     "time": "20:00",
     "id": "accept-what-you-cannot-change",
     "category": "Emotional control and stoicism",
@@ -3377,7 +3377,7 @@
   },
   {
     "n": 423,
-    "date": "2027-06-08",
+    "date": "2027-05-31",
     "time": "08:00",
     "id": "breathe-before-battle",
     "category": "Mornings and routine",
@@ -3385,7 +3385,7 @@
   },
   {
     "n": 424,
-    "date": "2027-06-08",
+    "date": "2027-05-31",
     "time": "20:00",
     "id": "the-comeback-season-in-silence",
     "category": "The path alone",
@@ -3393,7 +3393,7 @@
   },
   {
     "n": 425,
-    "date": "2027-06-09",
+    "date": "2027-06-01",
     "time": "08:00",
     "id": "rich-habits",
     "category": "Ambition work and money",
@@ -3401,7 +3401,7 @@
   },
   {
     "n": 426,
-    "date": "2027-06-09",
+    "date": "2027-06-01",
     "time": "20:00",
     "id": "the-empty-gym",
     "category": "Body and training",
@@ -3409,7 +3409,7 @@
   },
   {
     "n": 427,
-    "date": "2027-06-10",
+    "date": "2027-06-02",
     "time": "08:00",
     "id": "results-take-time",
     "category": "Discipline",
@@ -3417,7 +3417,7 @@
   },
   {
     "n": 428,
-    "date": "2027-06-10",
+    "date": "2027-06-02",
     "time": "20:00",
     "id": "gentle-strength",
     "category": "Purpose legacy and family",
@@ -3425,7 +3425,7 @@
   },
   {
     "n": 429,
-    "date": "2027-06-11",
+    "date": "2027-06-03",
     "time": "08:00",
     "id": "be-the-first",
     "category": "Fear and courage",
@@ -3433,7 +3433,7 @@
   },
   {
     "n": 430,
-    "date": "2027-06-11",
+    "date": "2027-06-03",
     "time": "20:00",
     "id": "write-your-priorities",
     "category": "Focus and distraction",
@@ -3441,7 +3441,7 @@
   },
   {
     "n": 431,
-    "date": "2027-06-12",
+    "date": "2027-06-04",
     "time": "08:00",
     "id": "the-last-day-of-your-life",
     "category": "Time and urgency",
@@ -3449,7 +3449,7 @@
   },
   {
     "n": 432,
-    "date": "2027-06-12",
+    "date": "2027-06-04",
     "time": "20:00",
     "id": "the-power-of-the-pause",
     "category": "Respect and standards",
@@ -3457,7 +3457,7 @@
   },
   {
     "n": 433,
-    "date": "2027-06-13",
+    "date": "2027-06-05",
     "time": "08:00",
     "id": "one-more-try",
     "category": "Failure and comeback",
@@ -3465,7 +3465,7 @@
   },
   {
     "n": 434,
-    "date": "2027-06-13",
+    "date": "2027-06-05",
     "time": "20:00",
     "id": "self-respect",
     "category": "Mindset",
@@ -3473,7 +3473,7 @@
   },
   {
     "n": 435,
-    "date": "2027-06-14",
+    "date": "2027-06-06",
     "time": "08:00",
     "id": "change-what-you-can",
     "category": "Emotional control and stoicism",
@@ -3481,7 +3481,7 @@
   },
   {
     "n": 436,
-    "date": "2027-06-14",
+    "date": "2027-06-06",
     "time": "20:00",
     "id": "see-your-day-before-it-starts",
     "category": "Mornings and routine",
@@ -3489,7 +3489,7 @@
   },
   {
     "n": 437,
-    "date": "2027-06-15",
+    "date": "2027-06-07",
     "time": "08:00",
     "id": "poor-habits",
     "category": "Ambition work and money",
@@ -3497,7 +3497,7 @@
   },
   {
     "n": 438,
-    "date": "2027-06-15",
+    "date": "2027-06-07",
     "time": "20:00",
     "id": "gym-at-night",
     "category": "Body and training",
@@ -3505,7 +3505,7 @@
   },
   {
     "n": 439,
-    "date": "2027-06-16",
+    "date": "2027-06-08",
     "time": "08:00",
     "id": "the-compound-effect",
     "category": "Discipline",
@@ -3513,7 +3513,7 @@
   },
   {
     "n": 440,
-    "date": "2027-06-16",
+    "date": "2027-06-08",
     "time": "20:00",
     "id": "dark-days-alone",
     "category": "The path alone",
@@ -3521,7 +3521,7 @@
   },
   {
     "n": 441,
-    "date": "2027-06-17",
+    "date": "2027-06-09",
     "time": "08:00",
     "id": "lead-when-scared",
     "category": "Fear and courage",
@@ -3529,7 +3529,7 @@
   },
   {
     "n": 442,
-    "date": "2027-06-17",
+    "date": "2027-06-09",
     "time": "20:00",
     "id": "make-one-decision",
     "category": "Focus and distraction",
@@ -3537,7 +3537,7 @@
   },
   {
     "n": 443,
-    "date": "2027-06-18",
+    "date": "2027-06-10",
     "time": "08:00",
     "id": "failure-is-not-final",
     "category": "Failure and comeback",
@@ -3545,7 +3545,7 @@
   },
   {
     "n": 444,
-    "date": "2027-06-18",
+    "date": "2027-06-10",
     "time": "20:00",
     "id": "self-worth",
     "category": "Mindset",
@@ -3553,7 +3553,7 @@
   },
   {
     "n": 445,
-    "date": "2027-06-19",
+    "date": "2027-06-11",
     "time": "08:00",
     "id": "respect-is-earned-and-given",
     "category": "Purpose legacy and family",
@@ -3561,7 +3561,7 @@
   },
   {
     "n": 446,
-    "date": "2027-06-19",
+    "date": "2027-06-11",
     "time": "20:00",
     "id": "do-not-overshare",
     "category": "Respect and standards",
@@ -3569,6 +3569,134 @@
   },
   {
     "n": 447,
+    "date": "2027-06-12",
+    "time": "08:00",
+    "id": "ninety-days-of-silence",
+    "category": "Discipline",
+    "title": "Ninety days of silence"
+  },
+  {
+    "n": 448,
+    "date": "2027-06-12",
+    "time": "20:00",
+    "id": "urgency-without-panic",
+    "category": "Time and urgency",
+    "title": "Urgency without panic"
+  },
+  {
+    "n": 449,
+    "date": "2027-06-13",
+    "time": "08:00",
+    "id": "emotions-are-waves",
+    "category": "Emotional control and stoicism",
+    "title": "Emotions are waves"
+  },
+  {
+    "n": 450,
+    "date": "2027-06-13",
+    "time": "20:00",
+    "id": "say-your-goals-out-loud",
+    "category": "Mornings and routine",
+    "title": "Say your goals out loud"
+  },
+  {
+    "n": 451,
+    "date": "2027-06-14",
+    "time": "08:00",
+    "id": "debt-is-a-chain",
+    "category": "Ambition work and money",
+    "title": "Debt is a chain"
+  },
+  {
+    "n": 452,
+    "date": "2027-06-14",
+    "time": "20:00",
+    "id": "gym-at-dawn",
+    "category": "Body and training",
+    "title": "Gym at dawn"
+  },
+  {
+    "n": 453,
+    "date": "2027-06-15",
+    "time": "08:00",
+    "id": "nobody-sees-the-process",
+    "category": "The path alone",
+    "title": "Nobody sees the process"
+  },
+  {
+    "n": 454,
+    "date": "2027-06-15",
+    "time": "20:00",
+    "id": "fear-of-being-alone",
+    "category": "Fear and courage",
+    "title": "Fear of being alone"
+  },
+  {
+    "n": 455,
+    "date": "2027-06-16",
+    "time": "08:00",
+    "id": "too-many-goals",
+    "category": "Focus and distraction",
+    "title": "Too many goals"
+  },
+  {
+    "n": 456,
+    "date": "2027-06-16",
+    "time": "20:00",
+    "id": "stop-starting-over",
+    "category": "Discipline",
+    "title": "Stop starting over"
+  },
+  {
+    "n": 457,
+    "date": "2027-06-17",
+    "time": "08:00",
+    "id": "embarrassed-and-still-going",
+    "category": "Failure and comeback",
+    "title": "Embarrassed and still going"
+  },
+  {
+    "n": 458,
+    "date": "2027-06-17",
+    "time": "20:00",
+    "id": "speak-less-mean-more",
+    "category": "Mindset",
+    "title": "Speak less mean more"
+  },
+  {
+    "n": 459,
+    "date": "2027-06-18",
+    "time": "08:00",
+    "id": "a-man-of-his-word",
+    "category": "Purpose legacy and family",
+    "title": "A man of his word"
+  },
+  {
+    "n": 460,
+    "date": "2027-06-18",
+    "time": "20:00",
+    "id": "privacy-is-power",
+    "category": "Respect and standards",
+    "title": "Privacy is power"
+  },
+  {
+    "n": 461,
+    "date": "2027-06-19",
+    "time": "08:00",
+    "id": "cry-and-keep-going",
+    "category": "Emotional control and stoicism",
+    "title": "Cry and keep going"
+  },
+  {
+    "n": 462,
+    "date": "2027-06-19",
+    "time": "20:00",
+    "id": "gratitude-for-warriors",
+    "category": "Mornings and routine",
+    "title": "Gratitude for warriors"
+  },
+  {
+    "n": 463,
     "date": "2027-06-20",
     "time": "08:00",
     "id": "a-letter-to-fathers",
@@ -3576,136 +3704,8 @@
     "title": "A letter to fathers"
   },
   {
-    "n": 448,
-    "date": "2027-06-20",
-    "time": "20:00",
-    "id": "ninety-days-of-silence",
-    "category": "Discipline",
-    "title": "Ninety days of silence"
-  },
-  {
-    "n": 449,
-    "date": "2027-06-21",
-    "time": "08:00",
-    "id": "urgency-without-panic",
-    "category": "Time and urgency",
-    "title": "Urgency without panic"
-  },
-  {
-    "n": 450,
-    "date": "2027-06-21",
-    "time": "20:00",
-    "id": "emotions-are-waves",
-    "category": "Emotional control and stoicism",
-    "title": "Emotions are waves"
-  },
-  {
-    "n": 451,
-    "date": "2027-06-22",
-    "time": "08:00",
-    "id": "say-your-goals-out-loud",
-    "category": "Mornings and routine",
-    "title": "Say your goals out loud"
-  },
-  {
-    "n": 452,
-    "date": "2027-06-22",
-    "time": "20:00",
-    "id": "debt-is-a-chain",
-    "category": "Ambition work and money",
-    "title": "Debt is a chain"
-  },
-  {
-    "n": 453,
-    "date": "2027-06-23",
-    "time": "08:00",
-    "id": "gym-at-dawn",
-    "category": "Body and training",
-    "title": "Gym at dawn"
-  },
-  {
-    "n": 454,
-    "date": "2027-06-23",
-    "time": "20:00",
-    "id": "nobody-sees-the-process",
-    "category": "The path alone",
-    "title": "Nobody sees the process"
-  },
-  {
-    "n": 455,
-    "date": "2027-06-24",
-    "time": "08:00",
-    "id": "fear-of-being-alone",
-    "category": "Fear and courage",
-    "title": "Fear of being alone"
-  },
-  {
-    "n": 456,
-    "date": "2027-06-24",
-    "time": "20:00",
-    "id": "too-many-goals",
-    "category": "Focus and distraction",
-    "title": "Too many goals"
-  },
-  {
-    "n": 457,
-    "date": "2027-06-25",
-    "time": "08:00",
-    "id": "stop-starting-over",
-    "category": "Discipline",
-    "title": "Stop starting over"
-  },
-  {
-    "n": 458,
-    "date": "2027-06-25",
-    "time": "20:00",
-    "id": "embarrassed-and-still-going",
-    "category": "Failure and comeback",
-    "title": "Embarrassed and still going"
-  },
-  {
-    "n": 459,
-    "date": "2027-06-26",
-    "time": "08:00",
-    "id": "speak-less-mean-more",
-    "category": "Mindset",
-    "title": "Speak less mean more"
-  },
-  {
-    "n": 460,
-    "date": "2027-06-26",
-    "time": "20:00",
-    "id": "a-man-of-his-word",
-    "category": "Purpose legacy and family",
-    "title": "A man of his word"
-  },
-  {
-    "n": 461,
-    "date": "2027-06-27",
-    "time": "08:00",
-    "id": "privacy-is-power",
-    "category": "Respect and standards",
-    "title": "Privacy is power"
-  },
-  {
-    "n": 462,
-    "date": "2027-06-27",
-    "time": "20:00",
-    "id": "cry-and-keep-going",
-    "category": "Emotional control and stoicism",
-    "title": "Cry and keep going"
-  },
-  {
-    "n": 463,
-    "date": "2027-06-28",
-    "time": "08:00",
-    "id": "gratitude-for-warriors",
-    "category": "Mornings and routine",
-    "title": "Gratitude for warriors"
-  },
-  {
     "n": 464,
-    "date": "2027-06-28",
+    "date": "2027-06-20",
     "time": "20:00",
     "id": "live-below-your-means",
     "category": "Ambition work and money",
@@ -3713,7 +3713,7 @@
   },
   {
     "n": 465,
-    "date": "2027-06-29",
+    "date": "2027-06-21",
     "time": "08:00",
     "id": "comparison-in-the-gym",
     "category": "Body and training",
@@ -3721,7 +3721,7 @@
   },
   {
     "n": 466,
-    "date": "2027-06-29",
+    "date": "2027-06-21",
     "time": "20:00",
     "id": "patience-and-urgency",
     "category": "Time and urgency",
@@ -3729,7 +3729,7 @@
   },
   {
     "n": 467,
-    "date": "2027-06-30",
+    "date": "2027-06-22",
     "time": "08:00",
     "id": "finish-what-you-start",
     "category": "Discipline",
@@ -3737,7 +3737,7 @@
   },
   {
     "n": 468,
-    "date": "2027-06-30",
+    "date": "2027-06-22",
     "time": "20:00",
     "id": "laughed-at-and-still-building",
     "category": "Failure and comeback",
@@ -3745,7 +3745,7 @@
   },
   {
     "n": 469,
-    "date": "2027-07-01",
+    "date": "2027-06-23",
     "time": "08:00",
     "id": "think-in-decades",
     "category": "Mindset",
@@ -3753,7 +3753,7 @@
   },
   {
     "n": 470,
-    "date": "2027-07-01",
+    "date": "2027-06-23",
     "time": "20:00",
     "id": "uncomfortable-conversations",
     "category": "Fear and courage",
@@ -3761,7 +3761,7 @@
   },
   {
     "n": 471,
-    "date": "2027-07-02",
+    "date": "2027-06-24",
     "time": "08:00",
     "id": "focus-is-a-muscle",
     "category": "Focus and distraction",
@@ -3769,7 +3769,7 @@
   },
   {
     "n": 472,
-    "date": "2027-07-02",
+    "date": "2027-06-24",
     "time": "20:00",
     "id": "unseen-work",
     "category": "The path alone",
@@ -3777,7 +3777,7 @@
   },
   {
     "n": 473,
-    "date": "2027-07-03",
+    "date": "2027-06-25",
     "time": "08:00",
     "id": "luxury-can-wait",
     "category": "Ambition work and money",
@@ -3785,7 +3785,7 @@
   },
   {
     "n": 474,
-    "date": "2027-07-03",
+    "date": "2027-06-25",
     "time": "20:00",
     "id": "your-only-competition",
     "category": "Body and training",
@@ -3793,7 +3793,7 @@
   },
   {
     "n": 475,
-    "date": "2027-07-04",
+    "date": "2027-06-26",
     "time": "08:00",
     "id": "men-and-feelings",
     "category": "Emotional control and stoicism",
@@ -3801,7 +3801,7 @@
   },
   {
     "n": 476,
-    "date": "2027-07-04",
+    "date": "2027-06-26",
     "time": "20:00",
     "id": "one-page-a-day",
     "category": "Mornings and routine",
@@ -3809,7 +3809,7 @@
   },
   {
     "n": 477,
-    "date": "2027-07-05",
+    "date": "2027-06-27",
     "time": "08:00",
     "id": "do-not-break-the-chain",
     "category": "Discipline",
@@ -3817,7 +3817,7 @@
   },
   {
     "n": 478,
-    "date": "2027-07-05",
+    "date": "2027-06-27",
     "time": "20:00",
     "id": "be-hard-to-manipulate",
     "category": "Respect and standards",
@@ -3825,7 +3825,7 @@
   },
   {
     "n": 479,
-    "date": "2027-07-06",
+    "date": "2027-06-28",
     "time": "08:00",
     "id": "character-is-destiny",
     "category": "Purpose legacy and family",
@@ -3833,7 +3833,7 @@
   },
   {
     "n": 480,
-    "date": "2027-07-06",
+    "date": "2027-06-28",
     "time": "20:00",
     "id": "they-doubted-you",
     "category": "Failure and comeback",
@@ -3841,7 +3841,7 @@
   },
   {
     "n": 481,
-    "date": "2027-07-07",
+    "date": "2027-06-29",
     "time": "08:00",
     "id": "calm-under-pressure",
     "category": "Mindset",
@@ -3849,7 +3849,7 @@
   },
   {
     "n": 482,
-    "date": "2027-07-07",
+    "date": "2027-06-29",
     "time": "20:00",
     "id": "short-term-pain-long-term-gain",
     "category": "Time and urgency",
@@ -3857,7 +3857,7 @@
   },
   {
     "n": 483,
-    "date": "2027-07-08",
+    "date": "2027-06-30",
     "time": "08:00",
     "id": "courage-at-work",
     "category": "Fear and courage",
@@ -3865,7 +3865,7 @@
   },
   {
     "n": 484,
-    "date": "2027-07-08",
+    "date": "2027-06-30",
     "time": "20:00",
     "id": "hours-of-focus",
     "category": "Focus and distraction",
@@ -3873,7 +3873,7 @@
   },
   {
     "n": 485,
-    "date": "2027-07-09",
+    "date": "2027-07-01",
     "time": "08:00",
     "id": "systems-beat-goals",
     "category": "Discipline",
@@ -3881,7 +3881,7 @@
   },
   {
     "n": 486,
-    "date": "2027-07-09",
+    "date": "2027-07-01",
     "time": "20:00",
     "id": "isolation-is-not-punishment",
     "category": "The path alone",
@@ -3889,7 +3889,7 @@
   },
   {
     "n": 487,
-    "date": "2027-07-10",
+    "date": "2027-07-02",
     "time": "08:00",
     "id": "earn-it-before-you-show-it",
     "category": "Ambition work and money",
@@ -3897,7 +3897,7 @@
   },
   {
     "n": 488,
-    "date": "2027-07-10",
+    "date": "2027-07-02",
     "time": "20:00",
     "id": "ego-lifting",
     "category": "Body and training",
@@ -3905,7 +3905,7 @@
   },
   {
     "n": 489,
-    "date": "2027-07-11",
+    "date": "2027-07-03",
     "time": "08:00",
     "id": "strong-men-talk",
     "category": "Emotional control and stoicism",
@@ -3913,7 +3913,7 @@
   },
   {
     "n": 490,
-    "date": "2027-07-11",
+    "date": "2027-07-03",
     "time": "20:00",
     "id": "the-night-owl-excuse",
     "category": "Mornings and routine",
@@ -3921,7 +3921,7 @@
   },
   {
     "n": 491,
-    "date": "2027-07-12",
+    "date": "2027-07-04",
     "time": "08:00",
     "id": "spot-the-users",
     "category": "Respect and standards",
@@ -3929,7 +3929,7 @@
   },
   {
     "n": 492,
-    "date": "2027-07-12",
+    "date": "2027-07-04",
     "time": "20:00",
     "id": "prove-them-wrong",
     "category": "Failure and comeback",
@@ -3937,7 +3937,7 @@
   },
   {
     "n": 493,
-    "date": "2027-07-13",
+    "date": "2027-07-05",
     "time": "08:00",
     "id": "mind-over-mood",
     "category": "Mindset",
@@ -3945,7 +3945,7 @@
   },
   {
     "n": 494,
-    "date": "2027-07-13",
+    "date": "2027-07-05",
     "time": "20:00",
     "id": "discipline-in-your-speech",
     "category": "Discipline",
@@ -3953,7 +3953,7 @@
   },
   {
     "n": 495,
-    "date": "2027-07-14",
+    "date": "2027-07-06",
     "time": "08:00",
     "id": "integrity",
     "category": "Purpose legacy and family",
@@ -3961,7 +3961,7 @@
   },
   {
     "n": 496,
-    "date": "2027-07-14",
+    "date": "2027-07-06",
     "time": "20:00",
     "id": "scared-to-launch",
     "category": "Fear and courage",
@@ -3969,7 +3969,7 @@
   },
   {
     "n": 497,
-    "date": "2027-07-15",
+    "date": "2027-07-07",
     "time": "08:00",
     "id": "your-desk-is-your-battlefield",
     "category": "Focus and distraction",
@@ -3977,7 +3977,7 @@
   },
   {
     "n": 498,
-    "date": "2027-07-15",
+    "date": "2027-07-07",
     "time": "20:00",
     "id": "quiet-money",
     "category": "Ambition work and money",
@@ -3985,7 +3985,7 @@
   },
   {
     "n": 499,
-    "date": "2027-07-16",
+    "date": "2027-07-08",
     "time": "08:00",
     "id": "form-before-weight",
     "category": "Body and training",
@@ -3993,7 +3993,7 @@
   },
   {
     "n": 500,
-    "date": "2027-07-16",
+    "date": "2027-07-08",
     "time": "20:00",
     "id": "plant-trees-today",
     "category": "Time and urgency",
@@ -4001,7 +4001,7 @@
   },
   {
     "n": 501,
-    "date": "2027-07-17",
+    "date": "2027-07-09",
     "time": "08:00",
     "id": "build-in-the-dark",
     "category": "The path alone",
@@ -4009,7 +4009,7 @@
   },
   {
     "n": 502,
-    "date": "2027-07-17",
+    "date": "2027-07-09",
     "time": "20:00",
     "id": "ask-for-help",
     "category": "Emotional control and stoicism",
@@ -4017,7 +4017,7 @@
   },
   {
     "n": 503,
-    "date": "2027-07-18",
+    "date": "2027-07-10",
     "time": "08:00",
     "id": "early-is-a-mindset",
     "category": "Mornings and routine",
@@ -4025,7 +4025,7 @@
   },
   {
     "n": 504,
-    "date": "2027-07-18",
+    "date": "2027-07-10",
     "time": "20:00",
     "id": "discipline-with-money",
     "category": "Discipline",
@@ -4033,7 +4033,7 @@
   },
   {
     "n": 505,
-    "date": "2027-07-19",
+    "date": "2027-07-11",
     "time": "08:00",
     "id": "loyalty-tests",
     "category": "Respect and standards",
@@ -4041,7 +4041,7 @@
   },
   {
     "n": 506,
-    "date": "2027-07-19",
+    "date": "2027-07-11",
     "time": "20:00",
     "id": "prove-yourself-right",
     "category": "Failure and comeback",
@@ -4049,7 +4049,7 @@
   },
   {
     "n": 507,
-    "date": "2027-07-20",
+    "date": "2027-07-12",
     "time": "08:00",
     "id": "excuses-are-stories",
     "category": "Mindset",
@@ -4057,7 +4057,7 @@
   },
   {
     "n": 508,
-    "date": "2027-07-20",
+    "date": "2027-07-12",
     "time": "20:00",
     "id": "flex-nothing",
     "category": "Ambition work and money",
@@ -4065,7 +4065,7 @@
   },
   {
     "n": 509,
-    "date": "2027-07-21",
+    "date": "2027-07-13",
     "time": "08:00",
     "id": "consistency-over-intensity",
     "category": "Body and training",
@@ -4073,7 +4073,7 @@
   },
   {
     "n": 510,
-    "date": "2027-07-21",
+    "date": "2027-07-13",
     "time": "20:00",
     "id": "quit-the-wrong-job",
     "category": "Fear and courage",
@@ -4081,7 +4081,7 @@
   },
   {
     "n": 511,
-    "date": "2027-07-22",
+    "date": "2027-07-14",
     "time": "08:00",
     "id": "turn-work-into-a-ritual",
     "category": "Focus and distraction",
@@ -4089,7 +4089,7 @@
   },
   {
     "n": 512,
-    "date": "2027-07-22",
+    "date": "2027-07-14",
     "time": "20:00",
     "id": "be-a-role-model",
     "category": "Purpose legacy and family",
@@ -4097,7 +4097,7 @@
   },
   {
     "n": 513,
-    "date": "2027-07-23",
+    "date": "2027-07-15",
     "time": "08:00",
     "id": "discipline-with-your-phone",
     "category": "Discipline",
@@ -4105,7 +4105,7 @@
   },
   {
     "n": 514,
-    "date": "2027-07-23",
+    "date": "2027-07-15",
     "time": "20:00",
     "id": "getting-help-is-strength",
     "category": "Emotional control and stoicism",
@@ -4113,7 +4113,7 @@
   },
   {
     "n": 515,
-    "date": "2027-07-24",
+    "date": "2027-07-16",
     "time": "08:00",
     "id": "protect-your-mornings",
     "category": "Mornings and routine",
@@ -4121,7 +4121,7 @@
   },
   {
     "n": 516,
-    "date": "2027-07-24",
+    "date": "2027-07-16",
     "time": "20:00",
     "id": "the-night-shift-of-success",
     "category": "The path alone",
@@ -4129,7 +4129,7 @@
   },
   {
     "n": 517,
-    "date": "2027-07-25",
+    "date": "2027-07-17",
     "time": "08:00",
     "id": "the-time-will-pass-anyway",
     "category": "Time and urgency",
@@ -4137,7 +4137,7 @@
   },
   {
     "n": 518,
-    "date": "2027-07-25",
+    "date": "2027-07-17",
     "time": "20:00",
     "id": "comeback-mentality",
     "category": "Failure and comeback",
@@ -4145,7 +4145,7 @@
   },
   {
     "n": 519,
-    "date": "2027-07-26",
+    "date": "2027-07-18",
     "time": "08:00",
     "id": "stop-waiting-to-feel-ready",
     "category": "Mindset",
@@ -4153,7 +4153,7 @@
   },
   {
     "n": 520,
-    "date": "2027-07-26",
+    "date": "2027-07-18",
     "time": "20:00",
     "id": "fake-friends",
     "category": "Respect and standards",
@@ -4161,7 +4161,7 @@
   },
   {
     "n": 521,
-    "date": "2027-07-27",
+    "date": "2027-07-19",
     "time": "08:00",
     "id": "work-ethic-is-respect",
     "category": "Ambition work and money",
@@ -4169,7 +4169,7 @@
   },
   {
     "n": 522,
-    "date": "2027-07-27",
+    "date": "2027-07-19",
     "time": "20:00",
     "id": "one-hour-a-day",
     "category": "Body and training",
@@ -4177,7 +4177,7 @@
   },
   {
     "n": 523,
-    "date": "2027-07-28",
+    "date": "2027-07-20",
     "time": "08:00",
     "id": "discipline-at-night",
     "category": "Discipline",
@@ -4185,7 +4185,7 @@
   },
   {
     "n": 524,
-    "date": "2027-07-28",
+    "date": "2027-07-20",
     "time": "20:00",
     "id": "move-to-a-new-city",
     "category": "Fear and courage",
@@ -4193,7 +4193,7 @@
   },
   {
     "n": 525,
-    "date": "2027-07-29",
+    "date": "2027-07-21",
     "time": "08:00",
     "id": "the-flow-state",
     "category": "Focus and distraction",
@@ -4201,7 +4201,7 @@
   },
   {
     "n": 526,
-    "date": "2027-07-29",
+    "date": "2027-07-21",
     "time": "20:00",
     "id": "mentor-someone",
     "category": "Purpose legacy and family",
@@ -4209,7 +4209,7 @@
   },
   {
     "n": 527,
-    "date": "2027-07-30",
+    "date": "2027-07-22",
     "time": "08:00",
     "id": "sadness-and-strength",
     "category": "Emotional control and stoicism",
@@ -4217,7 +4217,7 @@
   },
   {
     "n": 528,
-    "date": "2027-07-30",
+    "date": "2027-07-22",
     "time": "20:00",
     "id": "your-first-decision-of-the-day",
     "category": "Mornings and routine",
@@ -4225,7 +4225,7 @@
   },
   {
     "n": 529,
-    "date": "2027-07-31",
+    "date": "2027-07-23",
     "time": "08:00",
     "id": "rise-from-the-ashes",
     "category": "Failure and comeback",
@@ -4233,7 +4233,7 @@
   },
   {
     "n": 530,
-    "date": "2027-07-31",
+    "date": "2027-07-23",
     "time": "20:00",
     "id": "hunger-over-comfort",
     "category": "Mindset",
@@ -4241,7 +4241,7 @@
   },
   {
     "n": 531,
-    "date": "2027-08-01",
+    "date": "2027-07-24",
     "time": "08:00",
     "id": "doubted-by-everyone",
     "category": "The path alone",
@@ -4249,7 +4249,7 @@
   },
   {
     "n": 532,
-    "date": "2027-08-01",
+    "date": "2027-07-24",
     "time": "20:00",
     "id": "the-last-hour-of-your-day",
     "category": "Discipline",
@@ -4257,7 +4257,7 @@
   },
   {
     "n": 533,
-    "date": "2027-08-02",
+    "date": "2027-07-25",
     "time": "08:00",
     "id": "a-wasted-sunday",
     "category": "Time and urgency",
@@ -4265,7 +4265,7 @@
   },
   {
     "n": 534,
-    "date": "2027-08-02",
+    "date": "2027-07-25",
     "time": "20:00",
     "id": "become-valuable",
     "category": "Ambition work and money",
@@ -4273,7 +4273,7 @@
   },
   {
     "n": 535,
-    "date": "2027-08-03",
+    "date": "2027-07-26",
     "time": "08:00",
     "id": "old-man-strength",
     "category": "Body and training",
@@ -4281,7 +4281,7 @@
   },
   {
     "n": 536,
-    "date": "2027-08-03",
+    "date": "2027-07-26",
     "time": "20:00",
     "id": "real-ones",
     "category": "Respect and standards",
@@ -4289,7 +4289,7 @@
   },
   {
     "n": 537,
-    "date": "2027-08-04",
+    "date": "2027-07-27",
     "time": "08:00",
     "id": "fear-and-the-warrior",
     "category": "Fear and courage",
@@ -4297,7 +4297,7 @@
   },
   {
     "n": 538,
-    "date": "2027-08-04",
+    "date": "2027-07-27",
     "time": "20:00",
     "id": "distraction-is-a-choice",
     "category": "Focus and distraction",
@@ -4305,7 +4305,7 @@
   },
   {
     "n": 539,
-    "date": "2027-08-05",
+    "date": "2027-07-28",
     "time": "08:00",
     "id": "the-discipline-of-rest",
     "category": "Discipline",
@@ -4313,7 +4313,7 @@
   },
   {
     "n": 540,
-    "date": "2027-08-05",
+    "date": "2027-07-28",
     "time": "20:00",
     "id": "heartbreak-lessons",
     "category": "Emotional control and stoicism",
@@ -4321,7 +4321,7 @@
   },
   {
     "n": 541,
-    "date": "2027-08-06",
+    "date": "2027-07-29",
     "time": "08:00",
     "id": "the-quiet-hours",
     "category": "Mornings and routine",
@@ -4329,7 +4329,7 @@
   },
   {
     "n": 542,
-    "date": "2027-08-06",
+    "date": "2027-07-29",
     "time": "20:00",
     "id": "the-phoenix",
     "category": "Failure and comeback",
@@ -4337,7 +4337,7 @@
   },
   {
     "n": 543,
-    "date": "2027-08-07",
+    "date": "2027-07-30",
     "time": "08:00",
     "id": "the-mental-reps",
     "category": "Mindset",
@@ -4345,7 +4345,7 @@
   },
   {
     "n": 544,
-    "date": "2027-08-07",
+    "date": "2027-07-30",
     "time": "20:00",
     "id": "give-back",
     "category": "Purpose legacy and family",
@@ -4353,7 +4353,7 @@
   },
   {
     "n": 545,
-    "date": "2027-08-08",
+    "date": "2027-07-31",
     "time": "08:00",
     "id": "be-your-own-coach",
     "category": "The path alone",
@@ -4361,7 +4361,7 @@
   },
   {
     "n": 546,
-    "date": "2027-08-08",
+    "date": "2027-07-31",
     "time": "20:00",
     "id": "skills-pay-the-bills",
     "category": "Ambition work and money",
@@ -4369,7 +4369,7 @@
   },
   {
     "n": 547,
-    "date": "2027-08-09",
+    "date": "2027-08-01",
     "time": "08:00",
     "id": "strong-body-strong-mind",
     "category": "Body and training",
@@ -4377,7 +4377,7 @@
   },
   {
     "n": 548,
-    "date": "2027-08-09",
+    "date": "2027-08-01",
     "time": "20:00",
     "id": "your-reputation",
     "category": "Respect and standards",
@@ -4385,7 +4385,7 @@
   },
   {
     "n": 549,
-    "date": "2027-08-10",
+    "date": "2027-08-02",
     "time": "08:00",
     "id": "discipline-when-you-are-winning",
     "category": "Discipline",
@@ -4393,7 +4393,7 @@
   },
   {
     "n": 550,
-    "date": "2027-08-10",
+    "date": "2027-08-02",
     "time": "20:00",
     "id": "the-spartan-mindset",
     "category": "Fear and courage",
@@ -4401,7 +4401,7 @@
   },
   {
     "n": 551,
-    "date": "2027-08-11",
+    "date": "2027-08-03",
     "time": "08:00",
     "id": "put-the-phone-in-another-room",
     "category": "Focus and distraction",
@@ -4409,7 +4409,7 @@
   },
   {
     "n": 552,
-    "date": "2027-08-11",
+    "date": "2027-08-03",
     "time": "20:00",
     "id": "sleep-or-scroll",
     "category": "Time and urgency",
@@ -4417,7 +4417,7 @@
   },
   {
     "n": 553,
-    "date": "2027-08-12",
+    "date": "2027-08-04",
     "time": "08:00",
     "id": "loneliness-at-night",
     "category": "Emotional control and stoicism",
@@ -4425,7 +4425,7 @@
   },
   {
     "n": 554,
-    "date": "2027-08-12",
+    "date": "2027-08-04",
     "time": "20:00",
     "id": "before-sunrise",
     "category": "Mornings and routine",
@@ -4433,7 +4433,7 @@
   },
   {
     "n": 555,
-    "date": "2027-08-13",
+    "date": "2027-08-05",
     "time": "08:00",
     "id": "rebuild-yourself",
     "category": "Failure and comeback",
@@ -4441,7 +4441,7 @@
   },
   {
     "n": 556,
-    "date": "2027-08-13",
+    "date": "2027-08-05",
     "time": "20:00",
     "id": "mindset-is-a-muscle",
     "category": "Mindset",
@@ -4449,7 +4449,7 @@
   },
   {
     "n": 557,
-    "date": "2027-08-14",
+    "date": "2027-08-06",
     "time": "08:00",
     "id": "learn-every-day",
     "category": "Ambition work and money",
@@ -4457,7 +4457,7 @@
   },
   {
     "n": 558,
-    "date": "2027-08-14",
+    "date": "2027-08-06",
     "time": "20:00",
     "id": "fitness-is-self-respect",
     "category": "Body and training",
@@ -4465,7 +4465,7 @@
   },
   {
     "n": 559,
-    "date": "2027-08-15",
+    "date": "2027-08-07",
     "time": "08:00",
     "id": "discipline-when-you-are-losing",
     "category": "Discipline",
@@ -4473,7 +4473,7 @@
   },
   {
     "n": 560,
-    "date": "2027-08-15",
+    "date": "2027-08-07",
     "time": "20:00",
     "id": "gratitude-for-what-you-have",
     "category": "Purpose legacy and family",
@@ -4481,7 +4481,7 @@
   },
   {
     "n": 561,
-    "date": "2027-08-16",
+    "date": "2027-08-08",
     "time": "08:00",
     "id": "trust-yourself",
     "category": "The path alone",
@@ -4489,7 +4489,7 @@
   },
   {
     "n": 562,
-    "date": "2027-08-16",
+    "date": "2027-08-08",
     "time": "20:00",
     "id": "samurai-courage",
     "category": "Fear and courage",
@@ -4497,7 +4497,7 @@
   },
   {
     "n": 563,
-    "date": "2027-08-17",
+    "date": "2027-08-09",
     "time": "08:00",
     "id": "the-cost-of-a-notification",
     "category": "Focus and distraction",
@@ -4505,7 +4505,7 @@
   },
   {
     "n": 564,
-    "date": "2027-08-17",
+    "date": "2027-08-09",
     "time": "20:00",
     "id": "principles-over-popularity",
     "category": "Respect and standards",
@@ -4513,7 +4513,7 @@
   },
   {
     "n": 565,
-    "date": "2027-08-18",
+    "date": "2027-08-10",
     "time": "08:00",
     "id": "the-new-version-of-you",
     "category": "Failure and comeback",
@@ -4521,7 +4521,7 @@
   },
   {
     "n": 566,
-    "date": "2027-08-18",
+    "date": "2027-08-10",
     "time": "20:00",
     "id": "positive-is-not-soft",
     "category": "Mindset",
@@ -4529,7 +4529,7 @@
   },
   {
     "n": 567,
-    "date": "2027-08-19",
+    "date": "2027-08-11",
     "time": "08:00",
     "id": "anxiety-and-action",
     "category": "Emotional control and stoicism",
@@ -4537,7 +4537,7 @@
   },
   {
     "n": 568,
-    "date": "2027-08-19",
+    "date": "2027-08-11",
     "time": "20:00",
     "id": "routine-builds-confidence",
     "category": "Mornings and routine",
@@ -4545,7 +4545,7 @@
   },
   {
     "n": 569,
-    "date": "2027-08-20",
+    "date": "2027-08-12",
     "time": "08:00",
     "id": "your-days-become-your-life",
     "category": "Time and urgency",
@@ -4553,7 +4553,7 @@
   },
   {
     "n": 570,
-    "date": "2027-08-20",
+    "date": "2027-08-12",
     "time": "20:00",
     "id": "stay-hungry",
     "category": "Discipline",
@@ -4561,7 +4561,7 @@
   },
   {
     "n": 571,
-    "date": "2027-08-21",
+    "date": "2027-08-13",
     "time": "08:00",
     "id": "read-like-a-ceo",
     "category": "Ambition work and money",
@@ -4569,7 +4569,7 @@
   },
   {
     "n": 572,
-    "date": "2027-08-21",
+    "date": "2027-08-13",
     "time": "20:00",
     "id": "look-like-you-train",
     "category": "Body and training",
@@ -4577,7 +4577,7 @@
   },
   {
     "n": 573,
-    "date": "2027-08-22",
+    "date": "2027-08-14",
     "time": "08:00",
     "id": "stand-alone",
     "category": "The path alone",
@@ -4585,7 +4585,7 @@
   },
   {
     "n": 574,
-    "date": "2027-08-22",
+    "date": "2027-08-14",
     "time": "20:00",
     "id": "faith-and-fight",
     "category": "Purpose legacy and family",
@@ -4593,7 +4593,7 @@
   },
   {
     "n": 575,
-    "date": "2027-08-23",
+    "date": "2027-08-15",
     "time": "08:00",
     "id": "die-with-no-regrets",
     "category": "Fear and courage",
@@ -4601,7 +4601,7 @@
   },
   {
     "n": 576,
-    "date": "2027-08-23",
+    "date": "2027-08-15",
     "time": "20:00",
     "id": "news-is-noise",
     "category": "Focus and distraction",
@@ -4609,7 +4609,7 @@
   },
   {
     "n": 577,
-    "date": "2027-08-24",
+    "date": "2027-08-16",
     "time": "08:00",
     "id": "comfort-is-the-enemy",
     "category": "Discipline",
@@ -4617,7 +4617,7 @@
   },
   {
     "n": 578,
-    "date": "2027-08-24",
+    "date": "2027-08-16",
     "time": "20:00",
     "id": "non-negotiables",
     "category": "Respect and standards",
@@ -4625,7 +4625,7 @@
   },
   {
     "n": 579,
-    "date": "2027-08-25",
+    "date": "2027-08-17",
     "time": "08:00",
     "id": "losing-is-a-lesson",
     "category": "Failure and comeback",
@@ -4633,7 +4633,7 @@
   },
   {
     "n": 580,
-    "date": "2027-08-25",
+    "date": "2027-08-17",
     "time": "20:00",
     "id": "realistic-optimism",
     "category": "Mindset",
@@ -4641,7 +4641,7 @@
   },
   {
     "n": 581,
-    "date": "2027-08-26",
+    "date": "2027-08-18",
     "time": "08:00",
     "id": "breathe-through-panic",
     "category": "Emotional control and stoicism",
@@ -4649,7 +4649,7 @@
   },
   {
     "n": 582,
-    "date": "2027-08-26",
+    "date": "2027-08-18",
     "time": "20:00",
     "id": "the-boring-morning-wins",
     "category": "Mornings and routine",
@@ -4657,7 +4657,7 @@
   },
   {
     "n": 583,
-    "date": "2027-08-27",
+    "date": "2027-08-19",
     "time": "08:00",
     "id": "mentors-and-books",
     "category": "Ambition work and money",
@@ -4665,7 +4665,7 @@
   },
   {
     "n": 584,
-    "date": "2027-08-27",
+    "date": "2027-08-19",
     "time": "20:00",
     "id": "recovery-is-a-weapon",
     "category": "Body and training",
@@ -4673,7 +4673,7 @@
   },
   {
     "n": 585,
-    "date": "2027-08-28",
+    "date": "2027-08-20",
     "time": "08:00",
     "id": "give-yourself-a-deadline",
     "category": "Time and urgency",
@@ -4681,7 +4681,7 @@
   },
   {
     "n": 586,
-    "date": "2027-08-28",
+    "date": "2027-08-20",
     "time": "20:00",
     "id": "choose-your-hard",
     "category": "Discipline",
@@ -4689,7 +4689,7 @@
   },
   {
     "n": 587,
-    "date": "2027-08-29",
+    "date": "2027-08-21",
     "time": "08:00",
     "id": "one-man-army",
     "category": "The path alone",
@@ -4697,7 +4697,7 @@
   },
   {
     "n": 588,
-    "date": "2027-08-29",
+    "date": "2027-08-21",
     "time": "20:00",
     "id": "live-before-you-die",
     "category": "Fear and courage",
@@ -4705,7 +4705,7 @@
   },
   {
     "n": 589,
-    "date": "2027-08-30",
+    "date": "2027-08-22",
     "time": "08:00",
     "id": "opinions-are-distractions",
     "category": "Focus and distraction",
@@ -4713,7 +4713,7 @@
   },
   {
     "n": 590,
-    "date": "2027-08-30",
+    "date": "2027-08-22",
     "time": "20:00",
     "id": "the-last-place-lesson",
     "category": "Failure and comeback",
@@ -4721,7 +4721,7 @@
   },
   {
     "n": 591,
-    "date": "2027-08-31",
+    "date": "2027-08-23",
     "time": "08:00",
     "id": "accept-and-attack",
     "category": "Mindset",
@@ -4729,7 +4729,7 @@
   },
   {
     "n": 592,
-    "date": "2027-08-31",
+    "date": "2027-08-23",
     "time": "20:00",
     "id": "your-mission",
     "category": "Purpose legacy and family",
@@ -4737,7 +4737,7 @@
   },
   {
     "n": 593,
-    "date": "2027-09-01",
+    "date": "2027-08-24",
     "time": "08:00",
     "id": "raise-the-bar",
     "category": "Respect and standards",
@@ -4745,7 +4745,7 @@
   },
   {
     "n": 594,
-    "date": "2027-09-01",
+    "date": "2027-08-24",
     "time": "20:00",
     "id": "fear-and-calm",
     "category": "Emotional control and stoicism",
@@ -4753,7 +4753,7 @@
   },
   {
     "n": 595,
-    "date": "2027-09-02",
+    "date": "2027-08-25",
     "time": "08:00",
     "id": "morning-workouts",
     "category": "Mornings and routine",
@@ -4761,7 +4761,7 @@
   },
   {
     "n": 596,
-    "date": "2027-09-02",
+    "date": "2027-08-25",
     "time": "20:00",
     "id": "network-up",
     "category": "Ambition work and money",
@@ -4769,7 +4769,7 @@
   },
   {
     "n": 597,
-    "date": "2027-09-03",
+    "date": "2027-08-26",
     "time": "08:00",
     "id": "cold-showers",
     "category": "Body and training",
@@ -4777,7 +4777,7 @@
   },
   {
     "n": 598,
-    "date": "2027-09-03",
+    "date": "2027-08-26",
     "time": "20:00",
     "id": "the-cost-of-easy",
     "category": "Discipline",
@@ -4785,7 +4785,7 @@
   },
   {
     "n": 599,
-    "date": "2027-09-04",
+    "date": "2027-08-27",
     "time": "08:00",
     "id": "hour-by-hour",
     "category": "Time and urgency",
@@ -4793,7 +4793,7 @@
   },
   {
     "n": 600,
-    "date": "2027-09-04",
+    "date": "2027-08-27",
     "time": "20:00",
     "id": "from-broke-to-built",
     "category": "Failure and comeback",
@@ -4801,7 +4801,7 @@
   },
   {
     "n": 601,
-    "date": "2027-09-05",
+    "date": "2027-08-28",
     "time": "08:00",
     "id": "pressure-reveals-you",
     "category": "Mindset",
@@ -4809,7 +4809,7 @@
   },
   {
     "n": 602,
-    "date": "2027-09-05",
+    "date": "2027-08-28",
     "time": "20:00",
     "id": "danger-and-growth",
     "category": "Fear and courage",
@@ -4817,7 +4817,7 @@
   },
   {
     "n": 603,
-    "date": "2027-09-06",
+    "date": "2027-08-29",
     "time": "08:00",
     "id": "stay-off-the-sidelines",
     "category": "Focus and distraction",
@@ -4825,7 +4825,7 @@
   },
   {
     "n": 604,
-    "date": "2027-09-06",
+    "date": "2027-08-29",
     "time": "20:00",
     "id": "the-road-less-taken",
     "category": "The path alone",
@@ -4833,7 +4833,7 @@
   },
   {
     "n": 605,
-    "date": "2027-09-07",
+    "date": "2027-08-30",
     "time": "08:00",
     "id": "ambition-at-twenty",
     "category": "Ambition work and money",
@@ -4841,7 +4841,7 @@
   },
   {
     "n": 606,
-    "date": "2027-09-07",
+    "date": "2027-08-30",
     "time": "20:00",
     "id": "ice-baths-and-willpower",
     "category": "Body and training",
@@ -4849,7 +4849,7 @@
   },
   {
     "n": 607,
-    "date": "2027-09-08",
+    "date": "2027-08-31",
     "time": "08:00",
     "id": "self-control-is-strength",
     "category": "Discipline",
@@ -4857,7 +4857,7 @@
   },
   {
     "n": 608,
-    "date": "2027-09-08",
+    "date": "2027-08-31",
     "time": "20:00",
     "id": "stoic-mornings",
     "category": "Emotional control and stoicism",
@@ -4865,7 +4865,7 @@
   },
   {
     "n": 609,
-    "date": "2027-09-09",
+    "date": "2027-09-01",
     "time": "08:00",
     "id": "your-routine-is-your-identity",
     "category": "Mornings and routine",
@@ -4873,7 +4873,7 @@
   },
   {
     "n": 610,
-    "date": "2027-09-09",
+    "date": "2027-09-01",
     "time": "20:00",
     "id": "no-tolerance-for-nonsense",
     "category": "Respect and standards",
@@ -4881,7 +4881,7 @@
   },
   {
     "n": 611,
-    "date": "2027-09-10",
+    "date": "2027-09-02",
     "time": "08:00",
     "id": "the-calling",
     "category": "Purpose legacy and family",
@@ -4889,7 +4889,7 @@
   },
   {
     "n": 612,
-    "date": "2027-09-10",
+    "date": "2027-09-02",
     "time": "20:00",
     "id": "master-your-impulses",
     "category": "Discipline",
@@ -4897,7 +4897,7 @@
   },
   {
     "n": 613,
-    "date": "2027-09-11",
+    "date": "2027-09-03",
     "time": "08:00",
     "id": "dark-days-and-discipline",
     "category": "Failure and comeback",
@@ -4905,7 +4905,7 @@
   },
   {
     "n": 614,
-    "date": "2027-09-11",
+    "date": "2027-09-03",
     "time": "20:00",
     "id": "who-you-are-at-your-worst",
     "category": "Mindset",
@@ -4913,7 +4913,7 @@
   },
   {
     "n": 615,
-    "date": "2027-09-12",
+    "date": "2027-09-04",
     "time": "08:00",
     "id": "nerves-are-energy",
     "category": "Fear and courage",
@@ -4921,7 +4921,7 @@
   },
   {
     "n": 616,
-    "date": "2027-09-12",
+    "date": "2027-09-04",
     "time": "20:00",
     "id": "concentrate-your-energy",
     "category": "Focus and distraction",
@@ -4929,7 +4929,7 @@
   },
   {
     "n": 617,
-    "date": "2027-09-13",
+    "date": "2027-09-05",
     "time": "08:00",
     "id": "ambition-at-forty",
     "category": "Ambition work and money",
@@ -4937,7 +4937,7 @@
   },
   {
     "n": 618,
-    "date": "2027-09-13",
+    "date": "2027-09-05",
     "time": "20:00",
     "id": "breath-control",
     "category": "Body and training",
@@ -4945,7 +4945,7 @@
   },
   {
     "n": 619,
-    "date": "2027-09-14",
+    "date": "2027-09-06",
     "time": "08:00",
     "id": "stoic-evenings",
     "category": "Emotional control and stoicism",
@@ -4953,7 +4953,7 @@
   },
   {
     "n": 620,
-    "date": "2027-09-14",
+    "date": "2027-09-06",
     "time": "20:00",
     "id": "fix-your-sleep-fix-your-life",
     "category": "Mornings and routine",
@@ -4961,7 +4961,7 @@
   },
   {
     "n": 621,
-    "date": "2027-09-15",
+    "date": "2027-09-07",
     "time": "08:00",
     "id": "alone-at-the-top",
     "category": "The path alone",
@@ -4969,7 +4969,7 @@
   },
   {
     "n": 622,
-    "date": "2027-09-15",
+    "date": "2027-09-07",
     "time": "20:00",
     "id": "the-math-of-a-day",
     "category": "Time and urgency",
@@ -4977,7 +4977,7 @@
   },
   {
     "n": 623,
-    "date": "2027-09-16",
+    "date": "2027-09-08",
     "time": "08:00",
     "id": "protect-your-peace",
     "category": "Respect and standards",
@@ -4985,7 +4985,7 @@
   },
   {
     "n": 624,
-    "date": "2027-09-16",
+    "date": "2027-09-08",
     "time": "20:00",
     "id": "the-voice-that-says-quit",
     "category": "Discipline",
@@ -4993,7 +4993,7 @@
   },
   {
     "n": 625,
-    "date": "2027-09-17",
+    "date": "2027-09-09",
     "time": "08:00",
     "id": "legacy-over-likes",
     "category": "Purpose legacy and family",
@@ -5001,7 +5001,7 @@
   },
   {
     "n": 626,
-    "date": "2027-09-17",
+    "date": "2027-09-09",
     "time": "20:00",
     "id": "when-motivation-dies",
     "category": "Failure and comeback",
@@ -5009,7 +5009,7 @@
   },
   {
     "n": 627,
-    "date": "2027-09-18",
+    "date": "2027-09-10",
     "time": "08:00",
     "id": "the-man-in-the-mirror",
     "category": "Mindset",
@@ -5017,7 +5017,7 @@
   },
   {
     "n": 628,
-    "date": "2027-09-18",
+    "date": "2027-09-10",
     "time": "20:00",
     "id": "be-obsessed",
     "category": "Ambition work and money",
@@ -5025,7 +5025,7 @@
   },
   {
     "n": 629,
-    "date": "2027-09-19",
+    "date": "2027-09-11",
     "time": "08:00",
     "id": "walking-as-therapy",
     "category": "Body and training",
@@ -5033,7 +5033,7 @@
   },
   {
     "n": 630,
-    "date": "2027-09-19",
+    "date": "2027-09-11",
     "time": "20:00",
     "id": "pressure-is-a-privilege",
     "category": "Fear and courage",
@@ -5041,7 +5041,7 @@
   },
   {
     "n": 631,
-    "date": "2027-09-20",
+    "date": "2027-09-12",
     "time": "08:00",
     "id": "the-narrow-path",
     "category": "Focus and distraction",
@@ -5049,7 +5049,7 @@
   },
   {
     "n": 632,
-    "date": "2027-09-20",
+    "date": "2027-09-12",
     "time": "20:00",
     "id": "write-out-your-anger",
     "category": "Emotional control and stoicism",
@@ -5057,7 +5057,7 @@
   },
   {
     "n": 633,
-    "date": "2027-09-21",
+    "date": "2027-09-13",
     "time": "08:00",
     "id": "lights-out-on-time",
     "category": "Mornings and routine",
@@ -5065,7 +5065,7 @@
   },
   {
     "n": 634,
-    "date": "2027-09-21",
+    "date": "2027-09-13",
     "time": "20:00",
     "id": "keep-going-when-it-is-boring",
     "category": "Discipline",
@@ -5073,7 +5073,7 @@
   },
   {
     "n": 635,
-    "date": "2027-09-22",
+    "date": "2027-09-14",
     "time": "08:00",
     "id": "the-loneliness-of-ambition",
     "category": "The path alone",
@@ -5081,7 +5081,7 @@
   },
   {
     "n": 636,
-    "date": "2027-09-22",
+    "date": "2027-09-14",
     "time": "20:00",
     "id": "your-energy-is-limited",
     "category": "Respect and standards",
@@ -5089,7 +5089,7 @@
   },
   {
     "n": 637,
-    "date": "2027-09-23",
+    "date": "2027-09-15",
     "time": "08:00",
     "id": "the-hourglass",
     "category": "Time and urgency",
@@ -5097,7 +5097,7 @@
   },
   {
     "n": 638,
-    "date": "2027-09-23",
+    "date": "2027-09-15",
     "time": "20:00",
     "id": "when-nobody-believes",
     "category": "Failure and comeback",
@@ -5105,7 +5105,7 @@
   },
   {
     "n": 639,
-    "date": "2027-09-24",
+    "date": "2027-09-16",
     "time": "08:00",
     "id": "love-the-challenge",
     "category": "Mindset",
@@ -5113,7 +5113,7 @@
   },
   {
     "n": 640,
-    "date": "2027-09-24",
+    "date": "2027-09-16",
     "time": "20:00",
     "id": "lead-by-example",
     "category": "Purpose legacy and family",
@@ -5121,7 +5121,7 @@
   },
   {
     "n": 641,
-    "date": "2027-09-25",
+    "date": "2027-09-17",
     "time": "08:00",
     "id": "healthy-obsession",
     "category": "Ambition work and money",
@@ -5129,7 +5129,7 @@
   },
   {
     "n": 642,
-    "date": "2027-09-25",
+    "date": "2027-09-17",
     "time": "20:00",
     "id": "hike-a-mountain",
     "category": "Body and training",
@@ -5137,7 +5137,7 @@
   },
   {
     "n": 643,
-    "date": "2027-09-26",
+    "date": "2027-09-18",
     "time": "08:00",
     "id": "discipline-is-a-decision",
     "category": "Discipline",
@@ -5145,7 +5145,7 @@
   },
   {
     "n": 644,
-    "date": "2027-09-26",
+    "date": "2027-09-18",
     "time": "20:00",
     "id": "embrace-the-cold",
     "category": "Fear and courage",
@@ -5153,7 +5153,7 @@
   },
   {
     "n": 645,
-    "date": "2027-09-27",
+    "date": "2027-09-19",
     "time": "08:00",
     "id": "finish-one-thing",
     "category": "Focus and distraction",
@@ -5161,7 +5161,7 @@
   },
   {
     "n": 646,
-    "date": "2027-09-27",
+    "date": "2027-09-19",
     "time": "20:00",
     "id": "be-like-water",
     "category": "Emotional control and stoicism",
@@ -5169,7 +5169,7 @@
   },
   {
     "n": 647,
-    "date": "2027-09-28",
+    "date": "2027-09-20",
     "time": "08:00",
     "id": "the-power-of-a-checklist",
     "category": "Mornings and routine",
@@ -5177,7 +5177,7 @@
   },
   {
     "n": 648,
-    "date": "2027-09-28",
+    "date": "2027-09-20",
     "time": "20:00",
     "id": "saying-goodbye-to-the-old-you",
     "category": "The path alone",
@@ -5185,7 +5185,7 @@
   },
   {
     "n": 649,
-    "date": "2027-09-29",
+    "date": "2027-09-21",
     "time": "08:00",
     "id": "who-gets-your-time",
     "category": "Respect and standards",
@@ -5193,7 +5193,7 @@
   },
   {
     "n": 650,
-    "date": "2027-09-29",
+    "date": "2027-09-21",
     "time": "20:00",
     "id": "keep-fighting",
     "category": "Failure and comeback",
@@ -5201,7 +5201,7 @@
   },
   {
     "n": 651,
-    "date": "2027-09-30",
+    "date": "2027-09-22",
     "time": "08:00",
     "id": "your-thoughts-become-things",
     "category": "Mindset",
@@ -5209,7 +5209,7 @@
   },
   {
     "n": 652,
-    "date": "2027-09-30",
+    "date": "2027-09-22",
     "time": "20:00",
     "id": "every-day-is-a-vote",
     "category": "Discipline",
@@ -5217,7 +5217,7 @@
   },
   {
     "n": 653,
-    "date": "2027-10-01",
+    "date": "2027-09-23",
     "time": "08:00",
     "id": "burnout-and-balance",
     "category": "Ambition work and money",
@@ -5225,7 +5225,7 @@
   },
   {
     "n": 654,
-    "date": "2027-10-01",
+    "date": "2027-09-23",
     "time": "20:00",
     "id": "climb-the-stairs",
     "category": "Body and training",
@@ -5233,7 +5233,7 @@
   },
   {
     "n": 655,
-    "date": "2027-10-02",
+    "date": "2027-09-24",
     "time": "08:00",
     "id": "spend-time-like-money",
     "category": "Time and urgency",
@@ -5241,7 +5241,7 @@
   },
   {
     "n": 656,
-    "date": "2027-10-02",
+    "date": "2027-09-24",
     "time": "20:00",
     "id": "comfort-is-a-slow-death",
     "category": "Fear and courage",
@@ -5249,7 +5249,7 @@
   },
   {
     "n": 657,
-    "date": "2027-10-03",
+    "date": "2027-09-25",
     "time": "08:00",
     "id": "focus-when-it-is-hard",
     "category": "Focus and distraction",
@@ -5257,7 +5257,7 @@
   },
   {
     "n": 658,
-    "date": "2027-10-03",
+    "date": "2027-09-25",
     "time": "20:00",
     "id": "the-last-chapter",
     "category": "Purpose legacy and family",
@@ -5265,7 +5265,7 @@
   },
   {
     "n": 659,
-    "date": "2027-10-04",
+    "date": "2027-09-26",
     "time": "08:00",
     "id": "the-rock-in-the-river",
     "category": "Emotional control and stoicism",
@@ -5273,7 +5273,7 @@
   },
   {
     "n": 660,
-    "date": "2027-10-04",
+    "date": "2027-09-26",
     "time": "20:00",
     "id": "morning-words-that-build-you",
     "category": "Mornings and routine",
@@ -5281,7 +5281,7 @@
   },
   {
     "n": 661,
-    "date": "2027-10-05",
+    "date": "2027-09-27",
     "time": "08:00",
     "id": "become-unstoppable",
     "category": "Discipline",
@@ -5289,7 +5289,7 @@
   },
   {
     "n": 662,
-    "date": "2027-10-05",
+    "date": "2027-09-27",
     "time": "20:00",
     "id": "the-fight-is-not-over",
     "category": "Failure and comeback",
@@ -5297,7 +5297,7 @@
   },
   {
     "n": 663,
-    "date": "2027-10-06",
+    "date": "2027-09-28",
     "time": "08:00",
     "id": "choose-your-hard-thoughts",
     "category": "Mindset",
@@ -5305,7 +5305,7 @@
   },
   {
     "n": 664,
-    "date": "2027-10-06",
+    "date": "2027-09-28",
     "time": "20:00",
     "id": "leave-the-comfort-of-the-pack",
     "category": "The path alone",
@@ -5313,7 +5313,7 @@
   },
   {
     "n": 665,
-    "date": "2027-10-07",
+    "date": "2027-09-29",
     "time": "08:00",
     "id": "work-smart-and-hard",
     "category": "Ambition work and money",
@@ -5321,7 +5321,7 @@
   },
   {
     "n": 666,
-    "date": "2027-10-07",
+    "date": "2027-09-29",
     "time": "20:00",
     "id": "run-your-first-mile",
     "category": "Body and training",
@@ -5329,7 +5329,7 @@
   },
   {
     "n": 667,
-    "date": "2027-10-08",
+    "date": "2027-09-30",
     "time": "08:00",
     "id": "leave-the-table",
     "category": "Respect and standards",
@@ -5337,7 +5337,7 @@
   },
   {
     "n": 668,
-    "date": "2027-10-08",
+    "date": "2027-09-30",
     "time": "20:00",
     "id": "do-what-you-said",
     "category": "Discipline",
@@ -5345,7 +5345,7 @@
   },
   {
     "n": 669,
-    "date": "2027-10-09",
+    "date": "2027-10-01",
     "time": "08:00",
     "id": "courage-over-comfort",
     "category": "Fear and courage",
@@ -5353,7 +5353,7 @@
   },
   {
     "n": 670,
-    "date": "2027-10-09",
+    "date": "2027-10-01",
     "time": "20:00",
     "id": "train-your-attention",
     "category": "Focus and distraction",
@@ -5361,7 +5361,7 @@
   },
   {
     "n": 671,
-    "date": "2027-10-10",
+    "date": "2027-10-02",
     "time": "08:00",
     "id": "life-is-a-countdown",
     "category": "Time and urgency",
@@ -5369,7 +5369,7 @@
   },
   {
     "n": 672,
-    "date": "2027-10-10",
+    "date": "2027-10-02",
     "time": "20:00",
     "id": "unshakeable",
     "category": "Emotional control and stoicism",
@@ -5377,7 +5377,7 @@
   },
   {
     "n": 673,
-    "date": "2027-10-11",
+    "date": "2027-10-03",
     "time": "08:00",
     "id": "how-winners-start-the-day",
     "category": "Mornings and routine",
@@ -5385,7 +5385,7 @@
   },
   {
     "n": 674,
-    "date": "2027-10-11",
+    "date": "2027-10-03",
     "time": "20:00",
     "id": "plant-seeds",
     "category": "Purpose legacy and family",
@@ -5393,7 +5393,7 @@
   },
   {
     "n": 675,
-    "date": "2027-10-12",
+    "date": "2027-10-04",
     "time": "08:00",
     "id": "endure",
     "category": "Failure and comeback",
@@ -5401,7 +5401,7 @@
   },
   {
     "n": 676,
-    "date": "2027-10-12",
+    "date": "2027-10-04",
     "time": "20:00",
     "id": "the-stories-you-tell",
     "category": "Mindset",
@@ -5409,7 +5409,7 @@
   },
   {
     "n": 677,
-    "date": "2027-10-13",
+    "date": "2027-10-05",
     "time": "08:00",
     "id": "bet-on-the-long-term",
     "category": "Ambition work and money",
@@ -5417,7 +5417,7 @@
   },
   {
     "n": 678,
-    "date": "2027-10-13",
+    "date": "2027-10-05",
     "time": "20:00",
     "id": "train-with-someone-better",
     "category": "Body and training",
@@ -5425,7 +5425,7 @@
   },
   {
     "n": 679,
-    "date": "2027-10-14",
+    "date": "2027-10-06",
     "time": "08:00",
     "id": "the-wolf-who-walks-alone",
     "category": "The path alone",
@@ -5433,7 +5433,7 @@
   },
   {
     "n": 680,
-    "date": "2027-10-14",
+    "date": "2027-10-06",
     "time": "20:00",
     "id": "trust-is-built-in-private",
     "category": "Discipline",
@@ -5441,7 +5441,7 @@
   },
   {
     "n": 681,
-    "date": "2027-10-15",
+    "date": "2027-10-07",
     "time": "08:00",
     "id": "know-when-to-leave",
     "category": "Respect and standards",
@@ -5449,7 +5449,7 @@
   },
   {
     "n": 682,
-    "date": "2027-10-15",
+    "date": "2027-10-07",
     "time": "20:00",
     "id": "write-down-your-fears",
     "category": "Fear and courage",
@@ -5457,7 +5457,7 @@
   },
   {
     "n": 683,
-    "date": "2027-10-16",
+    "date": "2027-10-08",
     "time": "08:00",
     "id": "quiet-mind-loud-results",
     "category": "Focus and distraction",
@@ -5465,7 +5465,7 @@
   },
   {
     "n": 684,
-    "date": "2027-10-16",
+    "date": "2027-10-08",
     "time": "20:00",
     "id": "inner-peace",
     "category": "Emotional control and stoicism",
@@ -5473,7 +5473,7 @@
   },
   {
     "n": 685,
-    "date": "2027-10-17",
+    "date": "2027-10-09",
     "time": "08:00",
     "id": "a-morning-without-excuses",
     "category": "Mornings and routine",
@@ -5481,7 +5481,7 @@
   },
   {
     "n": 686,
-    "date": "2027-10-17",
+    "date": "2027-10-09",
     "time": "20:00",
     "id": "the-present-moment",
     "category": "Time and urgency",
@@ -5489,7 +5489,7 @@
   },
   {
     "n": 687,
-    "date": "2027-10-18",
+    "date": "2027-10-10",
     "time": "08:00",
     "id": "resilience",
     "category": "Failure and comeback",
@@ -5497,7 +5497,7 @@
   },
   {
     "n": 688,
-    "date": "2027-10-18",
+    "date": "2027-10-10",
     "time": "20:00",
     "id": "win-the-war-inside",
     "category": "Mindset",
@@ -5505,7 +5505,7 @@
   },
   {
     "n": 689,
-    "date": "2027-10-19",
+    "date": "2027-10-11",
     "time": "08:00",
     "id": "build-a-legacy-business",
     "category": "Ambition work and money",
@@ -5513,7 +5513,7 @@
   },
   {
     "n": 690,
-    "date": "2027-10-19",
+    "date": "2027-10-11",
     "time": "20:00",
     "id": "train-alone",
     "category": "Body and training",
@@ -5521,7 +5521,7 @@
   },
   {
     "n": 691,
-    "date": "2027-10-20",
+    "date": "2027-10-12",
     "time": "08:00",
     "id": "integrity-when-no-one-sees",
     "category": "Discipline",
@@ -5529,7 +5529,7 @@
   },
   {
     "n": 692,
-    "date": "2027-10-20",
+    "date": "2027-10-12",
     "time": "20:00",
     "id": "teach-your-son",
     "category": "Purpose legacy and family",
@@ -5537,7 +5537,7 @@
   },
   {
     "n": 693,
-    "date": "2027-10-21",
+    "date": "2027-10-13",
     "time": "08:00",
     "id": "silent-warrior",
     "category": "The path alone",
@@ -5545,7 +5545,7 @@
   },
   {
     "n": 694,
-    "date": "2027-10-21",
+    "date": "2027-10-13",
     "time": "20:00",
     "id": "standards-in-love",
     "category": "Respect and standards",
@@ -5553,7 +5553,7 @@
   },
   {
     "n": 695,
-    "date": "2027-10-22",
+    "date": "2027-10-14",
     "time": "08:00",
     "id": "brave-enough-to-be-bad",
     "category": "Fear and courage",
@@ -5561,7 +5561,7 @@
   },
   {
     "n": 696,
-    "date": "2027-10-22",
+    "date": "2027-10-14",
     "time": "20:00",
     "id": "your-attention-is-sacred",
     "category": "Focus and distraction",
@@ -5569,7 +5569,7 @@
   },
   {
     "n": 697,
-    "date": "2027-10-23",
+    "date": "2027-10-15",
     "time": "08:00",
     "id": "quiet-strength",
     "category": "Emotional control and stoicism",
@@ -5577,7 +5577,7 @@
   },
   {
     "n": 698,
-    "date": "2027-10-23",
+    "date": "2027-10-15",
     "time": "20:00",
     "id": "the-commute-is-your-classroom",
     "category": "Mornings and routine",
@@ -5585,7 +5585,7 @@
   },
   {
     "n": 699,
-    "date": "2027-10-24",
+    "date": "2027-10-16",
     "time": "08:00",
     "id": "discipline-is-love-for-your-future-self",
     "category": "Discipline",
@@ -5593,7 +5593,7 @@
   },
   {
     "n": 700,
-    "date": "2027-10-24",
+    "date": "2027-10-16",
     "time": "20:00",
     "id": "grit",
     "category": "Failure and comeback",
@@ -5601,7 +5601,7 @@
   },
   {
     "n": 701,
-    "date": "2027-10-25",
+    "date": "2027-10-17",
     "time": "08:00",
     "id": "do-not-believe-every-thought",
     "category": "Mindset",
@@ -5609,7 +5609,7 @@
   },
   {
     "n": 702,
-    "date": "2027-10-25",
+    "date": "2027-10-17",
     "time": "20:00",
     "id": "from-nothing-to-something",
     "category": "Ambition work and money",
@@ -5617,7 +5617,7 @@
   },
   {
     "n": 703,
-    "date": "2027-10-26",
+    "date": "2027-10-18",
     "time": "08:00",
     "id": "your-body-hears-your-thoughts",
     "category": "Body and training",
@@ -5625,7 +5625,7 @@
   },
   {
     "n": 704,
-    "date": "2027-10-26",
+    "date": "2027-10-18",
     "time": "20:00",
     "id": "make-the-days-count",
     "category": "Time and urgency",
@@ -5633,7 +5633,7 @@
   },
   {
     "n": 705,
-    "date": "2027-10-27",
+    "date": "2027-10-19",
     "time": "08:00",
     "id": "be-the-rock",
     "category": "Purpose legacy and family",
@@ -5641,7 +5641,7 @@
   },
   {
     "n": 706,
-    "date": "2027-10-27",
+    "date": "2027-10-19",
     "time": "20:00",
     "id": "the-quiet-discipline-of-champions",
     "category": "Discipline",
@@ -5649,7 +5649,7 @@
   },
   {
     "n": 707,
-    "date": "2027-10-28",
+    "date": "2027-10-20",
     "time": "08:00",
     "id": "quiet-confidence",
     "category": "The path alone",
@@ -5657,7 +5657,7 @@
   },
   {
     "n": 708,
-    "date": "2027-10-28",
+    "date": "2027-10-20",
     "time": "20:00",
     "id": "high-value-habits",
     "category": "Respect and standards",
@@ -5665,7 +5665,7 @@
   },
   {
     "n": 709,
-    "date": "2027-10-29",
+    "date": "2027-10-21",
     "time": "08:00",
     "id": "courage-to-change",
     "category": "Fear and courage",
@@ -5673,7 +5673,7 @@
   },
   {
     "n": 710,
-    "date": "2027-10-29",
+    "date": "2027-10-21",
     "time": "20:00",
     "id": "remove-the-clutter",
     "category": "Focus and distraction",
@@ -5681,7 +5681,7 @@
   },
   {
     "n": 711,
-    "date": "2027-10-30",
+    "date": "2027-10-22",
     "time": "08:00",
     "id": "emotional-discipline",
     "category": "Emotional control and stoicism",
@@ -5689,7 +5689,7 @@
   },
   {
     "n": 712,
-    "date": "2027-10-30",
+    "date": "2027-10-22",
     "time": "20:00",
     "id": "lunch-break-discipline",
     "category": "Mornings and routine",
@@ -5697,7 +5697,7 @@
   },
   {
     "n": 713,
-    "date": "2027-10-31",
+    "date": "2027-10-23",
     "time": "08:00",
     "id": "hold-the-line",
     "category": "Failure and comeback",
@@ -5705,7 +5705,7 @@
   },
   {
     "n": 714,
-    "date": "2027-10-31",
+    "date": "2027-10-23",
     "time": "20:00",
     "id": "think-like-a-soldier",
     "category": "Mindset",
@@ -5713,7 +5713,7 @@
   },
   {
     "n": 715,
-    "date": "2027-11-01",
+    "date": "2027-10-24",
     "time": "08:00",
     "id": "hungry-for-more",
     "category": "Ambition work and money",
@@ -5721,7 +5721,7 @@
   },
   {
     "n": 716,
-    "date": "2027-11-01",
+    "date": "2027-10-24",
     "time": "20:00",
     "id": "strength-for-your-family",
     "category": "Body and training",
@@ -5729,7 +5729,7 @@
   },
   {
     "n": 717,
-    "date": "2027-11-02",
+    "date": "2027-10-25",
     "time": "08:00",
     "id": "repetition-is-the-secret",
     "category": "Discipline",
@@ -5737,7 +5737,7 @@
   },
   {
     "n": 718,
-    "date": "2027-11-02",
+    "date": "2027-10-25",
     "time": "20:00",
     "id": "no-more-next-week",
     "category": "Time and urgency",
@@ -5745,7 +5745,7 @@
   },
   {
     "n": 719,
-    "date": "2027-11-03",
+    "date": "2027-10-26",
     "time": "08:00",
     "id": "a-life-well-lived",
     "category": "Purpose legacy and family",
@@ -5753,7 +5753,7 @@
   },
   {
     "n": 720,
-    "date": "2027-11-03",
+    "date": "2027-10-26",
     "time": "20:00",
     "id": "peace-in-solitude",
     "category": "The path alone",
@@ -5761,7 +5761,7 @@
   },
   {
     "n": 721,
-    "date": "2027-11-04",
+    "date": "2027-10-27",
     "time": "08:00",
     "id": "self-respect-is-attractive",
     "category": "Respect and standards",
@@ -5769,7 +5769,7 @@
   },
   {
     "n": 722,
-    "date": "2027-11-04",
+    "date": "2027-10-27",
     "time": "20:00",
     "id": "fear-will-not-wait",
     "category": "Fear and courage",
@@ -5777,7 +5777,7 @@
   },
   {
     "n": 723,
-    "date": "2027-11-05",
+    "date": "2027-10-28",
     "time": "08:00",
     "id": "focus-on-what-you-control",
     "category": "Focus and distraction",
@@ -5785,7 +5785,7 @@
   },
   {
     "n": 724,
-    "date": "2027-11-05",
+    "date": "2027-10-28",
     "time": "20:00",
     "id": "enough-is-enough",
     "category": "Emotional control and stoicism",
@@ -5793,7 +5793,7 @@
   },
   {
     "n": 725,
-    "date": "2027-11-06",
+    "date": "2027-10-29",
     "time": "08:00",
     "id": "the-last-coffee-rule",
     "category": "Mornings and routine",
@@ -5801,7 +5801,7 @@
   },
   {
     "n": 726,
-    "date": "2027-11-06",
+    "date": "2027-10-29",
     "time": "20:00",
     "id": "stay-in-the-fight",
     "category": "Failure and comeback",
@@ -5809,7 +5809,7 @@
   },
   {
     "n": 727,
-    "date": "2027-11-07",
+    "date": "2027-10-30",
     "time": "08:00",
     "id": "mental-armor",
     "category": "Mindset",
@@ -5817,7 +5817,7 @@
   },
   {
     "n": 728,
-    "date": "2027-11-07",
+    "date": "2027-10-30",
     "time": "20:00",
     "id": "the-extra-hour",
     "category": "Ambition work and money",
@@ -5825,7 +5825,7 @@
   },
   {
     "n": 729,
-    "date": "2027-11-08",
+    "date": "2027-10-31",
     "time": "08:00",
     "id": "never-skip-the-warm-up",
     "category": "Body and training",
@@ -5833,7 +5833,7 @@
   },
   {
     "n": 730,
-    "date": "2027-11-08",
+    "date": "2027-10-31",
     "time": "20:00",
     "id": "discipline-on-bad-days",
     "category": "Discipline",

@@ -10,7 +10,7 @@ from datetime import date, timedelta
 
 from common import ROOT, save_json
 
-START = date(2026, 11, 9)  # align on the launch day (the job posts topics in order)
+START = date(2026, 11, 1)  # launch day (the job posts topics in order)
 SLOTS = ["08:00", "20:00"]
 
 CATEGORIES = {

@@ -1,5 +1,5 @@
 {
-  "publish_mode": "draft",
+  "publish_mode": "schedule",
   "timezone": "Europe/Paris",
   "platforms": [
     "tiktok",
