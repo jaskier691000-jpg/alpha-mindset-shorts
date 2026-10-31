@@ -344,5 +344,240 @@
    ]
   }
  ],
- "clips": []
+ "clips": [
+  {
+   "id": "boxing-1",
+   "cat": "boxing",
+   "tags": [
+    "fight",
+    "boxing",
+    "training",
+    "discipline"
+   ],
+   "scene": "A man training on a heavy punching bag alone in an empty dark warehouse, a single hanging light bulb.",
+   "seed": 1310768916,
+   "seconds": 6.0
+  },
+  {
+   "id": "boxing-2",
+   "cat": "boxing",
+   "tags": [
+    "fight",
+    "boxing",
+    "training",
+    "discipline"
+   ],
+   "scene": "The silhouette of a boxer shadowboxing in front of a bright window in a dark gym.",
+   "seed": 3304851589,
+   "seconds": 6.0
+  },
+  {
+   "id": "boxing-3",
+   "cat": "boxing",
+   "tags": [
+    "fight",
+    "boxing",
+    "training",
+    "discipline"
+   ],
+   "scene": "An exhausted boxer sitting alone in the corner of an empty ring, sweat, dim spotlight.",
+   "seed": 57468156,
+   "seconds": 6.0
+  },
+  {
+   "id": "boxing-4",
+   "cat": "boxing",
+   "tags": [
+    "fight",
+    "boxing",
+    "training",
+    "discipline"
+   ],
+   "scene": "A man jumping rope in a dark boxing gym, the rope blurred in motion, sweat in the light.",
+   "seed": 3868008191,
+   "seconds": 6.0
+  },
+  {
+   "id": "chess-1",
+   "cat": "chess",
+   "tags": [
+    "strategy",
+    "chess",
+    "king",
+    "mind"
+   ],
+   "scene": "A black chess king standing alone on a dark chessboard, fallen pieces around it, a single light.",
+   "seed": 1767046193,
+   "seconds": 6.0
+  },
+  {
+   "id": "chess-2",
+   "cat": "chess",
+   "tags": [
+    "strategy",
+    "chess",
+    "king",
+    "mind"
+   ],
+   "scene": "A man playing chess alone in a dark room, deep in thought, lamp light on the board.",
+   "seed": 3415961393,
+   "seconds": 6.0
+  },
+  {
+   "id": "build-1",
+   "cat": "build",
+   "tags": [
+    "build",
+    "work",
+    "patience",
+    "foundation"
+   ],
+   "scene": "A man building a tall brick wall with his bare hands at sunset, dust in the air.",
+   "seed": 141180865,
+   "seconds": 6.0
+  },
+  {
+   "id": "build-2",
+   "cat": "build",
+   "tags": [
+    "build",
+    "work",
+    "patience",
+    "foundation"
+   ],
+   "scene": "A carpenter working with a hand plane in a dusty workshop, beams of light.",
+   "seed": 2091216451,
+   "seconds": 6.0
+  },
+  {
+   "id": "build-3",
+   "cat": "build",
+   "tags": [
+    "build",
+    "work",
+    "patience",
+    "foundation"
+   ],
+   "scene": "A construction worker on scaffolding at dawn, the city behind him.",
+   "seed": 2943824525,
+   "seconds": 6.0
+  },
+  {
+   "id": "build-4",
+   "cat": "build",
+   "tags": [
+    "build",
+    "work",
+    "patience",
+    "foundation"
+   ],
+   "scene": "A man laying the first stone of a foundation at sunrise, mud on his hands.",
+   "seed": 2436207204,
+   "seconds": 6.0
+  },
+  {
+   "id": "alone-road-1",
+   "cat": "alone-road",
+   "tags": [
+    "alone",
+    "journey",
+    "path",
+    "silence"
+   ],
+   "scene": "A man walking alone on an empty desert road toward the horizon at sunset.",
+   "seed": 35876611,
+   "seconds": 6.0
+  },
+  {
+   "id": "alone-road-2",
+   "cat": "alone-road",
+   "tags": [
+    "alone",
+    "journey",
+    "path",
+    "silence"
+   ],
+   "scene": "A man walking alone on a misty forest path at dawn.",
+   "seed": 4065349483,
+   "seconds": 6.0
+  },
+  {
+   "id": "alone-road-3",
+   "cat": "alone-road",
+   "tags": [
+    "alone",
+    "journey",
+    "path",
+    "silence"
+   ],
+   "scene": "A man walking alone across a long bridge at night, fog, street lamps.",
+   "seed": 1292807941,
+   "seconds": 6.0
+  },
+  {
+   "id": "alone-road-4",
+   "cat": "alone-road",
+   "tags": [
+    "alone",
+    "journey",
+    "path",
+    "silence"
+   ],
+   "scene": "A man walking alone on an empty highway at night, a long shadow under a street lamp.",
+   "seed": 2420115746,
+   "seconds": 6.0
+  },
+  {
+   "id": "arena-1",
+   "cat": "arena",
+   "tags": [
+    "stage",
+    "spotlight",
+    "pressure",
+    "moment"
+   ],
+   "scene": "An empty stadium at night with all the floodlights on, a single figure on the field.",
+   "seed": 2007774299,
+   "seconds": 6.0
+  },
+  {
+   "id": "arena-2",
+   "cat": "arena",
+   "tags": [
+    "stage",
+    "spotlight",
+    "pressure",
+    "moment"
+   ],
+   "scene": "A single spotlight on an empty stage in a dark theater, a man walking into it.",
+   "seed": 3583413315,
+   "seconds": 6.0
+  },
+  {
+   "id": "arena-3",
+   "cat": "arena",
+   "tags": [
+    "stage",
+    "spotlight",
+    "pressure",
+    "moment"
+   ],
+   "scene": "An empty boxing arena with the ring lit from above, seats in darkness.",
+   "seed": 449220204,
+   "seconds": 6.0
+  },
+  {
+   "id": "arena-4",
+   "cat": "arena",
+   "tags": [
+    "stage",
+    "spotlight",
+    "pressure",
+    "moment"
+   ],
+   "scene": "A man standing alone in the center of an empty basketball court at night, one light above.",
+   "seed": 2947682041,
+   "seconds": 6.0
+  }
+ ]
 }
