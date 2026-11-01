@@ -89,7 +89,7 @@ jobs:
           [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ] || exit 0
           curl -s -o /dev/null "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode "chat_id=$TELEGRAM_CHAT_ID" \
-            --data-urlencode "text=[Alpha Mindset] ❌ Le job vidéo GitHub a échoué. Détails : $RUN_URL"
+            --data-urlencode "text=$(printf '🟥 ALPHA MINDSET\n❌ Le job vidéo GitHub a échoué. Détails : %s' "$RUN_URL")"
 
       - name: Keep the videos for 3 days (Actions page > this run > Artifacts)
         if: always()
