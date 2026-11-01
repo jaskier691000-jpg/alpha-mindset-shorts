@@ -77,6 +77,16 @@ if GO_LIVE:
 else:
     notes.append(f"schedules are {'ON' if crons else 'OFF (by design until go-live)'}")
 
+run_daily_py = (ROOT / "src/run_daily.py").read_text(encoding="utf-8")
+notify_py = (ROOT / "src/notify.py").read_text(encoding="utf-8")
+first_cron = re.search(r'cron: "([0-9]+) ([0-9]+) \* \* \*"', daily)
+check("def make_or_skip" in run_daily_py and "info = make_or_skip(" in run_daily_py,
+      "a broken topic is skipped, never blocks the channel")
+check("check_today_scheduled()" in notify_py.split("__main__")[-1], "Telegram alert when no video was scheduled today")
+check("check_accounts_now()" in notify_py.split("__main__")[-1], "account cut by Meta/TikTok reported within 30 min")
+check((ROOT / "constraints.txt").exists() and "-c constraints.txt" in daily, "exact package versions locked (constraints.txt)")
+check(bool(first_cron) and int(first_cron.group(2)) <= 3, "daily run starts by 03:00 UTC (GitHub often starts 30-60 min late)")
+
 section("Keys never in the repository")
 code, tracked = run("git", "ls-files")
 check(".env" not in tracked.split(), ".env is not tracked by git")

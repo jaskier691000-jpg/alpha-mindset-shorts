@@ -27,7 +27,7 @@ from zoneinfo import ZoneInfo
 import notify
 from common import OUTPUT, ROOT, STATE_FILE, load_config, load_json, save_json
 from footage import clean_old_clips
-from make_video import make_video
+from make_video import make_video, pick_topic
 from publish import api, post_problems, publish
 from scenes import remember as remember_clips
 
@@ -207,6 +207,33 @@ class Tee:
             s.flush()
 
 
+def skip_topic(lang, topic_id):
+    """Mark a topic whose video can't be made as used, so it never blocks the channel again."""
+    state = load_json(STATE_FILE, {})
+    state.setdefault(lang, []).append(topic_id)
+    state.setdefault("skipped", []).append(topic_id)
+    save_json(STATE_FILE, state)
+
+
+def make_or_skip(lang, picked, real_run):
+    """Make the next video. If its topic fails but the next topic works, the problem was that topic
+    (a script the voice can't read, for example): it is skipped and Telegram says so. If the next one
+    fails too, the problem is general: stop, and the backup run tries again with the same topics."""
+    first = pick_topic(lang, exclude=picked)
+    try:
+        return make_video(lang, topic_id=first["id"])
+    except (Exception, SystemExit) as e:
+        error = e
+        print(f"[{lang}] {first['id']} could not be made ({e}), trying the next topic")
+    info = make_video(lang, exclude=[*picked, first["id"]])
+    picked.append(first["id"])
+    if real_run:
+        skip_topic(lang, first["id"])
+    notify.send(f"⚠️ Sujet sauté : « {first['title'][lang]} ». Sa vidéo n'a pas pu être faite ({str(error)[:200]}). "
+                "Le sujet suivant part à sa place.")
+    return info
+
+
 def main():
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
@@ -243,7 +270,7 @@ def main():
             if real_run and slot_done(lang, slot):
                 print(f"[{lang}] {slot} was already sent today, skipping.")
                 continue
-            info = make_video(lang, exclude=picked)
+            info = make_or_skip(lang, picked, real_run)
             picked.append(info["topic_id"])
             if args.no_publish:
                 continue

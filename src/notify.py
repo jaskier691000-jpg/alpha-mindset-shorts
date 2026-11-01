@@ -92,6 +92,57 @@ def check_live_posts():
         save_json(NOTIFIED_FILE, done[-60:])
 
 
+def check_today_scheduled():
+    """An hour after the first post time, say it once if no video was scheduled today: GitHub may have
+    skipped both daily runs, or they stopped before they could send their own alert."""
+    config = load_config()
+    now = datetime.now(ZoneInfo(config["timezone"]))
+    today = now.strftime("%Y-%m-%d")
+    done = load_json(NOTIFIED_FILE, [])
+    if f"missing-{today}" in done:
+        return
+    slots = load_json(STATE_FILE, {}).get("slots", {})
+    for lang, lang_cfg in config["languages"].items():
+        h, m = map(int, min(lang_cfg["post_times"]).split(":"))
+        if not lang_cfg.get("enabled", True) or now.hour * 60 + now.minute < h * 60 + m + 60:
+            continue
+        if not any(slot.startswith(today) for slot in slots.get(lang, {})):
+            send("❌ Aucune vidéo programmée aujourd'hui : GitHub n'a pas lancé (ou pas terminé) la fabrication. "
+                 "Dis-le à Claude.")
+            save_json(NOTIFIED_FILE, (done + [f"missing-{today}"])[-60:])
+            return
+
+
+def check_accounts_now():
+    """Every check (every 30 min around post times): if Zernio says an account can no longer post (a connection
+    cut by Meta or TikTok, a changed password...), say it once a day, before the next post fails."""
+    from publish import api  # needs the Zernio key, only loaded when checking
+
+    config = load_config()
+    today = datetime.now(ZoneInfo(config["timezone"])).strftime("%Y-%m-%d")
+    done = load_json(NOTIFIED_FILE, [])
+    for lang_cfg in config["languages"].values():
+        if not lang_cfg.get("enabled", True):
+            continue
+        for platform, account_id in lang_cfg.get("accounts", {}).items():
+            key = f"account-{account_id}-{today}"
+            if not account_id or key in done:
+                continue
+            try:
+                _, h = api("GET", f"/accounts/{account_id}/health")
+            except SystemExit as e:
+                print(f"Could not check the {platform} account: {e}")
+                continue
+            if h.get("status") in (None, "healthy") and h.get("permissions", {}).get("canPost", True):
+                continue
+            name = {"tiktok": "TikTok", "instagram": "Instagram"}.get(platform, platform)
+            reason = "; ".join(h.get("issues") or []) or h.get("status") or "raison inconnue"
+            send(f"❌ {name} ne peut plus publier : la connexion avec Zernio est coupée ({reason[:200]}).\n"
+                 f"À faire maintenant : zernio.com → ton profil → {name} → Reconnect (1 minute).")
+            done.append(key)
+            save_json(NOTIFIED_FILE, done[-60:])
+
+
 if __name__ == "__main__":
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
@@ -100,3 +151,5 @@ if __name__ == "__main__":
         print("sent" if send("👋 Test : les alertes sont bien branchées.") else "NOT sent (token or chat id missing)")
     else:
         check_live_posts()
+        check_today_scheduled()
+        check_accounts_now()
