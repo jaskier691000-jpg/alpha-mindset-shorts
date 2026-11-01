@@ -1,0 +1,67 @@
+{
+  "en": [
+    "nobody-is-coming-to-save-you",
+    "discipline-beats-motivation"
+  ],
+  "slots": {
+    "en": {
+      "2026-11-01 08:00": "nobody-is-coming-to-save-you",
+      "2026-11-01 20:00": "discipline-beats-motivation"
+    }
+  },
+  "posts": [
+    {
+      "id": "6ae6d07115a2dfafa5f4850c",
+      "lang": "en",
+      "topic": "nobody-is-coming-to-save-you",
+      "title": "Nobody is coming to save you",
+      "when": "2026-11-01T07:38:00"
+    },
+    {
+      "id": "6ae6d2b0cb39ad3c9081856e",
+      "lang": "en",
+      "topic": "discipline-beats-motivation",
+      "title": "Discipline beats motivation",
+      "when": "2026-11-01T20:18:00"
+    }
+  ],
+  "recent_clips": [
+    "rain-alone-2",
+    "pixabay_210791",
+    "morning-alarm-3",
+    "comfort-trap-3",
+    "pixabay_2294",
+    "pixabay_8294",
+    "gym-heavy-1",
+    "pixabay_8153",
+    "boxing-3",
+    "victory-2",
+    "pixabay_297918",
+    "pixabay_185096",
+    "build-1",
+    "pixabay_34972",
+    "eyes-1",
+    "hands-2",
+    "pixabay_214394",
+    "pixabay_94169",
+    "suit-3",
+    "eyes-2",
+    "pixabay_215751",
+    "getting-ready-1",
+    "morning-alarm-2",
+    "pixabay_2302",
+    "gym-effort-2",
+    "pixabay_130646",
+    "pixabay_15615",
+    "gym-heavy-2",
+    "pixabay_43869",
+    "forge-3",
+    "pixabay_212480",
+    "eyes-3",
+    "pixabay_139362",
+    "run-hard-3",
+    "pixabay_44517",
+    "summit-3",
+    "pixabay_148050"
+  ]
+}
