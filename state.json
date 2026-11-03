@@ -3,14 +3,18 @@
     "nobody-is-coming-to-save-you",
     "discipline-beats-motivation",
     "do-it-tired",
-    "your-phone-is-a-slot-machine"
+    "your-phone-is-a-slot-machine",
+    "walk-alone-if-you-must",
+    "fall-seven-times-rise-eight"
   ],
   "slots": {
     "en": {
       "2026-11-01 08:00": "nobody-is-coming-to-save-you",
       "2026-11-01 20:00": "discipline-beats-motivation",
       "2026-11-02 08:00": "do-it-tired",
-      "2026-11-02 20:00": "your-phone-is-a-slot-machine"
+      "2026-11-02 20:00": "your-phone-is-a-slot-machine",
+      "2026-11-03 08:00": "walk-alone-if-you-must",
+      "2026-11-03 20:00": "fall-seven-times-rise-eight"
     }
   },
   "posts": [
@@ -35,14 +39,30 @@
       "lang": "en",
       "topic": "do-it-tired",
       "title": "Do it tired",
-      "when": "2026-11-02T07:55:00"
+      "when": "2026-11-02T07:55:00",
+      "checked": true
     },
     {
       "id": "6ae80a5390f6873650d1816b",
       "lang": "en",
       "topic": "your-phone-is-a-slot-machine",
       "title": "Your phone is a slot machine",
-      "when": "2026-11-02T20:09:00"
+      "when": "2026-11-02T20:09:00",
+      "checked": true
+    },
+    {
+      "id": "6ae958089ef1ca41fa90c792",
+      "lang": "en",
+      "topic": "walk-alone-if-you-must",
+      "title": "Walk alone if you must",
+      "when": "2026-11-03T08:20:00"
+    },
+    {
+      "id": "6ae959fab1628563bcb9dcb5",
+      "lang": "en",
+      "topic": "fall-seven-times-rise-eight",
+      "title": "Fall seven times rise eight",
+      "when": "2026-11-03T19:33:00"
     }
   ],
   "recent_clips": [
@@ -120,6 +140,45 @@
     "pixabay_142472",
     "pixabay_31122",
     "lion-2",
-    "pixabay_24603"
+    "pixabay_24603",
+    "alone-road-2",
+    "pixabay_160975",
+    "rain-alone-1",
+    "pixabay_1623",
+    "night-drive-2",
+    "pixabay_6457",
+    "comfort-trap-2",
+    "pixabay_62895",
+    "work-late-2",
+    "pixabay_282995",
+    "reading-1",
+    "summit-4",
+    "pixabay_353078",
+    "pixabay_11284",
+    "legacy-2",
+    "pixabay_85600",
+    "sunrise-1",
+    "lion-3",
+    "suit-4",
+    "fall-rise-2",
+    "night-drive-1",
+    "fall-rise-1",
+    "phone-down-2",
+    "phone-down-1",
+    "pixabay_190331",
+    "pixabay_19459",
+    "pixabay_276392",
+    "pixabay_42696",
+    "boxing-1",
+    "pixabay_8257",
+    "pixabay_139365",
+    "gym-heavy-3",
+    "pixabay_123514",
+    "forge-1",
+    "pixabay_143416",
+    "time-4",
+    "pixabay_370552",
+    "victory-3",
+    "suit-2"
   ]
 }
