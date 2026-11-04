@@ -5,7 +5,9 @@
     "do-it-tired",
     "your-phone-is-a-slot-machine",
     "walk-alone-if-you-must",
-    "fall-seven-times-rise-eight"
+    "fall-seven-times-rise-eight",
+    "fear-is-a-liar",
+    "time-is-the-only-currency"
   ],
   "slots": {
     "en": {
@@ -14,7 +16,9 @@
       "2026-11-02 08:00": "do-it-tired",
       "2026-11-02 20:00": "your-phone-is-a-slot-machine",
       "2026-11-03 08:00": "walk-alone-if-you-must",
-      "2026-11-03 20:00": "fall-seven-times-rise-eight"
+      "2026-11-03 20:00": "fall-seven-times-rise-eight",
+      "2026-11-04 08:00": "fear-is-a-liar",
+      "2026-11-04 20:00": "time-is-the-only-currency"
     }
   },
   "posts": [
@@ -55,14 +59,30 @@
       "lang": "en",
       "topic": "walk-alone-if-you-must",
       "title": "Walk alone if you must",
-      "when": "2026-11-03T08:20:00"
+      "when": "2026-11-03T08:20:00",
+      "checked": true
     },
     {
       "id": "6ae959fab1628563bcb9dcb5",
       "lang": "en",
       "topic": "fall-seven-times-rise-eight",
       "title": "Fall seven times rise eight",
-      "when": "2026-11-03T19:33:00"
+      "when": "2026-11-03T19:33:00",
+      "checked": true
+    },
+    {
+      "id": "6aeaa8eac4ee2e56cc526a45",
+      "lang": "en",
+      "topic": "fear-is-a-liar",
+      "title": "Fear is a liar",
+      "when": "2026-11-04T07:39:00"
+    },
+    {
+      "id": "6aeaaa842c8f0f7f858d5981",
+      "lang": "en",
+      "topic": "time-is-the-only-currency",
+      "title": "Time is the only currency",
+      "when": "2026-11-04T19:55:00"
     }
   ],
   "recent_clips": [
@@ -179,6 +199,43 @@
     "time-4",
     "pixabay_370552",
     "victory-3",
-    "suit-2"
+    "suit-2",
+    "night-drive-4",
+    "pixabay_213423",
+    "phone-down-4",
+    "pixabay_47085",
+    "wolf-1",
+    "pixabay_183449",
+    "lion-4",
+    "city-night-2",
+    "boxing-4",
+    "pixabay_171110",
+    "pixabay_6403",
+    "getting-ready-2",
+    "gym-effort-4",
+    "pixabay_137186",
+    "pixabay_29112",
+    "pixabay_114223",
+    "summit-1",
+    "pixabay_2119",
+    "suit-1",
+    "time-2",
+    "pixabay_50628",
+    "time-3",
+    "stairs-3",
+    "night-drive-3",
+    "pixabay_151987",
+    "pixabay_64729",
+    "pixabay_160973",
+    "work-late-4",
+    "pixabay_148197",
+    "reading-2",
+    "legacy-3",
+    "pixabay_6384",
+    "pixabay_34499",
+    "chess-1",
+    "pixabay_28975",
+    "victory-4",
+    "city-night-4"
   ]
 }
