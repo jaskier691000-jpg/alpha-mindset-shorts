@@ -7,7 +7,9 @@
     "walk-alone-if-you-must",
     "fall-seven-times-rise-eight",
     "fear-is-a-liar",
-    "time-is-the-only-currency"
+    "time-is-the-only-currency",
+    "work-in-silence",
+    "your-mind-is-a-battlefield"
   ],
   "slots": {
     "en": {
@@ -18,7 +20,9 @@
       "2026-11-03 08:00": "walk-alone-if-you-must",
       "2026-11-03 20:00": "fall-seven-times-rise-eight",
       "2026-11-04 08:00": "fear-is-a-liar",
-      "2026-11-04 20:00": "time-is-the-only-currency"
+      "2026-11-04 20:00": "time-is-the-only-currency",
+      "2026-11-05 08:00": "work-in-silence",
+      "2026-11-05 20:00": "your-mind-is-a-battlefield"
     }
   },
   "posts": [
@@ -75,47 +79,33 @@
       "lang": "en",
       "topic": "fear-is-a-liar",
       "title": "Fear is a liar",
-      "when": "2026-11-04T07:39:00"
+      "when": "2026-11-04T07:39:00",
+      "checked": true
     },
     {
       "id": "6aeaaa842c8f0f7f858d5981",
       "lang": "en",
       "topic": "time-is-the-only-currency",
       "title": "Time is the only currency",
-      "when": "2026-11-04T19:55:00"
+      "when": "2026-11-04T19:55:00",
+      "checked": true
+    },
+    {
+      "id": "6aebfc65e0b9b41880dd4a3b",
+      "lang": "en",
+      "topic": "work-in-silence",
+      "title": "Work in silence",
+      "when": "2026-11-05T07:56:00"
+    },
+    {
+      "id": "6aebff51119a193eaa86aefd",
+      "lang": "en",
+      "topic": "your-mind-is-a-battlefield",
+      "title": "Your mind is a battlefield",
+      "when": "2026-11-05T20:18:00"
     }
   ],
   "recent_clips": [
-    "rain-alone-2",
-    "pixabay_210791",
-    "morning-alarm-3",
-    "comfort-trap-3",
-    "pixabay_2294",
-    "pixabay_8294",
-    "gym-heavy-1",
-    "pixabay_8153",
-    "boxing-3",
-    "victory-2",
-    "pixabay_297918",
-    "pixabay_185096",
-    "build-1",
-    "pixabay_34972",
-    "eyes-1",
-    "hands-2",
-    "pixabay_214394",
-    "pixabay_94169",
-    "suit-3",
-    "eyes-2",
-    "pixabay_215751",
-    "getting-ready-1",
-    "morning-alarm-2",
-    "pixabay_2302",
-    "gym-effort-2",
-    "pixabay_130646",
-    "pixabay_15615",
-    "gym-heavy-2",
-    "pixabay_43869",
-    "forge-3",
     "pixabay_212480",
     "eyes-3",
     "pixabay_139362",
@@ -236,6 +226,45 @@
     "chess-1",
     "pixabay_28975",
     "victory-4",
-    "city-night-4"
+    "city-night-4",
+    "build-2",
+    "pixabay_127690",
+    "warrior-2",
+    "stairs-1",
+    "wolf-4",
+    "wealth-3",
+    "gym-heavy-4",
+    "pixabay_277042",
+    "pixabay_44528",
+    "pixabay_159029",
+    "pixabay_202753",
+    "time-1",
+    "pixabay_166808",
+    "getting-ready-4",
+    "pixabay_206294",
+    "forge-2",
+    "pixabay_222634",
+    "wealth-2",
+    "pixabay_199623",
+    "city-night-3",
+    "warrior-3",
+    "crowd-against-4",
+    "rain-alone-2",
+    "comfort-trap-3",
+    "storm-1",
+    "pixabay_48404",
+    "pixabay_122229",
+    "pixabay_2294",
+    "pixabay_148211",
+    "pixabay_233772",
+    "cold-2",
+    "alone-road-1",
+    "pixabay_103275",
+    "boxing-3",
+    "pixabay_1845",
+    "pixabay_77854",
+    "sunrise-4",
+    "lion-1",
+    "city-night-1"
   ]
 }
