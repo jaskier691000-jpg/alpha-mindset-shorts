@@ -1,17 +1,23 @@
 Musiques d'Alpha Mindset
 ========================
 
-Mets ici les musiques téléchargées sur Pixabay Music (pixabay.com/music) :
+Les fichiers .mp3 de Pixabay ne vont pas sur GitHub : le dépôt est public et la licence interdit de redonner un fichier
+tel quel. moods.json garde seulement le lien de chaque morceau (urls) ; le robot le télécharge quand il en a besoin.
+C'est pareil pour les 2 coups de basse de assets/sfx (sfx_urls).
+
+Musiques actuelles :
+- Epic Hollywood Trailer (Good_B_Music), licence Pixabay
+- Epic Orchestral Music - Dramatic Loop (Sonican), licence Pixabay
+- Epic (The_Mountain), licence Pixabay
+- Dark Moment - Dark Epic Trailer (E. Erkut), licence CC BY 3.0 : elle reste dans le dépôt, et son crédit est ajouté
+  automatiquement dans la description des vidéos qui l'utilisent
+
+Pour ajouter une musique de Pixabay Music (pixabay.com/music) :
 - ambiance épique, sombre, motivation, "trailer" ou "cinematic" ;
 - plus de 90 secondes ;
 - sans paroles ;
-- le fichier .mp3 tel quel, sans le renommer.
-
-Déjà présentes :
-- good_b_music-epic-hollywood-trailer-9489.mp3 (Pixabay, celle de la vidéo test automatique)
-- dark-moment-dark-epic-trailer-e-erkut.mp3 (celle de la démo cinéma ; licence CC BY : son crédit est ajouté
-  automatiquement dans la description des vidéos qui l'utilisent)
+- ne pas mettre le .mp3 dans le dépôt : donner son titre à Claude, qui ajoute son nom et son lien dans moods.json (urls),
+  puis relance tools/audit.py.
 
 Le système fait tourner les musiques pour que deux vidéos d'affilée n'aient jamais la même,
 et démarre chaque musique après son intro calme.
-- sonican-epic-orchestral-music-dramatic-loop-467131.mp3 et the_mountain-epic-508009.mp3 (Pixabay, reprises de Hidden Bible Facts)

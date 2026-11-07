@@ -4,10 +4,13 @@ pick_music / music_rotation / full_sound_from / track_seconds come unchanged fro
 a track whose mood fits the topic's category, never the same track twice in a row, started after its quiet intro.
 New here: the mix is measured line by line and the music is lowered until the voice is at least
 VOICE_ABOVE_MUSIC dB louder on every line (the owner heard the music cover the voice on a test video).
+fetch_tracks downloads the Pixabay music and sound effects, which stay out of this public repo.
 """
+import http.client
 import random
 import re
 import subprocess
+import urllib.request
 from pathlib import Path
 
 from common import ROOT, find_ffmpeg, load_json, save_json
@@ -54,14 +57,43 @@ def music_rotation(topic, index, tracks, topics, moods):
     return pool or tracks, nth
 
 
+def download_missing(folder, urls):
+    """Download the files of this list that are not in the folder yet. A failure is only printed: the files already
+    here will do, and the next run tries again."""
+    folder.mkdir(parents=True, exist_ok=True)  # git keeps no empty folder: assets/sfx is missing on a fresh copy
+    for name, url in urls.items():
+        if (folder / name).exists():
+            continue
+        try:
+            request = urllib.request.Request(url, headers={"User-Agent": "alpha-mindset-shorts"})
+            with urllib.request.urlopen(request, timeout=60) as response:
+                data = response.read()
+            (folder / name).write_bytes(data)
+        except (OSError, http.client.HTTPException) as e:  # a file taken down or a network blip
+            print(f"  {folder.name} {name}: download failed ({type(e).__name__})")
+
+
+def fetch_tracks():
+    """Download the music and sound effects missing here (assets/music/moods.json: urls, sfx_urls) and return the music
+    list. These mp3 files stay out of the repo: it is public, and the Pixabay license forbids passing a file on as it is.
+    GitHub's cache keeps them between runs."""
+    moods = load_json(MUSIC_DIR / "moods.json", {})
+    download_missing(SFX_DIR, moods.get("sfx_urls", {}))
+    download_missing(MUSIC_DIR, moods.get("urls", {}))
+    return moods.get("urls", {})
+
+
 def pick_music(topic, index, total):
     """Choose the background music for a topic: a track whose mood fits the topic's category
     (assets/music/moods.json), rotated so neighbouring videos don't share a track, long enough
     for the whole video, and started after its quiet intro at a point that changes every video.
-    Returns (path, start second) or None if there is no music."""
+    Returns (path, start second) or None if the channel has no music."""
+    urls = fetch_tracks()
     tracks = sorted(p for p in MUSIC_DIR.glob("*") if p.suffix.lower() in (".mp3", ".m4a", ".wav", ".ogg"))
     tracks = [p for p in tracks if track_seconds(p) >= total + 1] or tracks
     if not tracks:
+        if urls:  # never publish a silent video because of a download problem: the run fails and Telegram says so
+            raise SystemExit("No music track could be downloaded (assets/music/moods.json: urls).")
         return None
     topics = load_json(ROOT / "topics.json")
     moods = load_json(MUSIC_DIR / "moods.json", {})

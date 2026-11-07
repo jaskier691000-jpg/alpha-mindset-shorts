@@ -162,7 +162,8 @@ thin = [k for k, v in per_cat.items() if v < 3]
 check(not thin, "every scene category has at least 3 clips", ", ".join(thin[:6]))
 
 section("Music and sound")
-from audio import track_seconds  # noqa: E402
+from audio import fetch_tracks, track_seconds  # noqa: E402
+fetch_tracks()
 tracks = [p for p in (ROOT / "assets/music").glob("*.mp3")]
 long_tracks = [p for p in tracks if track_seconds(p) >= 80]
 check(len(long_tracks) >= 3, "at least 3 music tracks longer than a video", f"{len(long_tracks)} of {len(tracks)}")
@@ -170,8 +171,13 @@ moods = json.loads((ROOT / "assets/music/moods.json").read_text(encoding="utf-8"
 check(all((ROOT / "assets/music" / f).exists() for f in moods.get("credits", {})), "every credited track exists")
 missing = [f for files_ in moods.get("moods", {}).values() for f in files_ if not (ROOT / "assets/music" / f).exists()]
 check(not missing, "moods.json only names existing tracks", ", ".join(missing))
+not_here = [f for f in moods.get("urls", {}) if not (ROOT / "assets/music" / f).exists()]
+check(not not_here, "every music link gave its track", ", ".join(not_here))
 check((ROOT / "assets/voice/deep_ref.wav").exists(), "deep reference voice present")
 check(len(list((ROOT / "assets/sfx").glob("impact-*.mp3"))) >= 2, "two bass hits for the punch cards")
+in_repo = [f for f in tracked.split() if f.startswith(("assets/music/", "assets/sfx/")) and f.endswith(".mp3")
+           and f.rsplit("/", 1)[-1] not in moods.get("credits", {})]
+check(not in_repo, "no Pixabay file in the public repo, only credited CC BY tracks (moods.json: urls, sfx_urls)", ", ".join(in_repo))
 
 section("Last GitHub runs")
 runs = gh_json("run", "list", "-R", REPO, "--workflow", "daily.yml", "--limit", "5", "--json", "conclusion,displayTitle,createdAt,event")

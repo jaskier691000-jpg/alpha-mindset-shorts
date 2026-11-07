@@ -1,7 +1,16 @@
 {
-  "_help": "moods: mood -> track files; categories: plan category -> mood (empty = every track fits every video, rotated so the same track never plays twice in a row). credits: track file -> line added to the post caption (CC BY tracks only; Pixabay Music tracks need none).",
+  "_help": "moods: mood -> track files; categories: plan category -> mood (empty = every track fits every video, rotated so the same track never plays twice in a row). urls: track file -> where audio.py downloads it; sfx_urls: the same for the sound effects of assets/sfx (these mp3 files stay out of this public repo: the Pixabay license forbids passing a file on as it is). credits: track file -> line added to the post caption (CC BY tracks only, they may stay in the repo; Pixabay tracks need none).",
   "moods": {},
   "categories": {},
+  "urls": {
+    "good_b_music-epic-hollywood-trailer-9489.mp3": "https://cdn.pixabay.com/audio/2021/10/15/audio_2320f2b0bc.mp3",
+    "sonican-epic-orchestral-music-dramatic-loop-467131.mp3": "https://cdn.pixabay.com/audio/2026/01/16/audio_f3ed8c6cd8.mp3",
+    "the_mountain-epic-508009.mp3": "https://cdn.pixabay.com/audio/2026/03/24/audio_28217ddfbb.mp3"
+  },
+  "sfx_urls": {
+    "impact-bass-1.mp3": "https://cdn.jsdelivr.net/npm/hyperframes@0.8.223/dist/skills/media-use/audio/assets/sfx/impact-bass-1.mp3",
+    "impact-bass-2.mp3": "https://cdn.jsdelivr.net/npm/hyperframes@0.8.223/dist/skills/media-use/audio/assets/sfx/impact-bass-2.mp3"
+  },
   "credits": {
     "dark-moment-dark-epic-trailer-e-erkut.mp3": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
   }

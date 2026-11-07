@@ -43,7 +43,7 @@ jobs:
         with:
           node-version: "22"       # HyperFrames needs Node 22+
 
-      - name: Reuse the AI models, Chrome and stock clips from earlier runs
+      - name: Reuse the AI models, Chrome, stock clips, music and sound effects from earlier runs
         uses: actions/cache@v6
         with:
           path: |
@@ -52,6 +52,8 @@ jobs:
             ~/.cache/puppeteer
             ~/.npm
             assets/clips
+            assets/music/*.mp3
+            assets/sfx/*.mp3
           key: models-${{ github.run_id }}
           restore-keys: models-
 

@@ -13,3 +13,9 @@ assets/music/analysis.json
 reference/
 test-run*.log
 assets/library/test-*.mp4
+
+# Pixabay music and sound effects: moods.json lists their links, audio.py downloads them (the license forbids passing them on as they are)
+assets/music/*.mp3
+assets/sfx/*.mp3
+# CC BY track: it may stay in the repo, its credit goes in the caption
+!assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3
