@@ -1,6 +1,7 @@
 # Alpha Mindset : ce qu'il reste à faire
 
-La chaîne publie 2 vidéos par jour (vers 8h et 20h, heure de Paris) sur TikTok et Instagram, toute seule,
+La chaîne publie 3 vidéos par jour (vers 13h, 21h et 2h, heure de Paris, à ±35 min près, soit 7h, 15h et 20h à
+New York pour le public anglophone) sur TikTok et Instagram, toute seule,
 grâce à GitHub (montage) et Zernio (publication). Ton PC n'est pas nécessaire une fois tout en place.
 
 ## 1. Les comptes (à faire par toi, avec une adresse email dédiée à Alpha Mindset)
