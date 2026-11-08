@@ -54,6 +54,8 @@ def next_post_time(hhmm, timezone, jitter_minutes=0):
     now = datetime.now(ZoneInfo(timezone))
     hour, minute = map(int, hhmm.split(":"))
     when = now.replace(hour=hour, minute=minute, second=0, microsecond=0)
+    if hhmm < notify.NIGHT_BEFORE:  # a night post (02:00 Paris = 20:00 New York) goes out the night after
+        when += timedelta(days=1)
     when += timedelta(minutes=random.randint(-jitter_minutes, jitter_minutes))
     if when <= now + timedelta(minutes=10):
         when = now + timedelta(minutes=random.randint(15, 25))
@@ -186,7 +188,7 @@ def check_topics_left(lang):
         if left <= limit:
             # one reminder per level for this batch of topics (a new batch resets them)
             remind_once(f"topics:{lang}:{len(written)}:{limit}",
-                        f"🔔 Rappel : il ne reste que {left} sujets écrits ({lang}), soit environ {left // 2} jours de vidéos.\n"
+                        f"🔔 Rappel : il ne reste que {left} sujets écrits ({lang}), soit environ {left // max(1, len(load_config()['languages'][lang]['post_times']))} jours de vidéos.\n"
                         f"La tâche du lundi aurait dû en écrire d'autres. Vérifie claude.ai/code/routines "
                         f"(« Alpha Mindset - write next topics ») ou demande à Claude d'écrire le mois suivant.")
             break
@@ -265,7 +267,8 @@ def main():
         if not lang_cfg.get("enabled", True):
             continue
         picked, last_when = [], None
-        for post_time in lang_cfg["post_times"]:  # one new video per post time
+        # one new video per post time, in posting order: the night post (after midnight) comes last
+        for post_time in sorted(lang_cfg["post_times"], key=lambda t: (t < notify.NIGHT_BEFORE, t)):
             slot = f"{today} {post_time}"
             if real_run and slot_done(lang, slot):
                 print(f"[{lang}] {slot} was already sent today, skipping.")

@@ -18,6 +18,8 @@ from common import ROOT, STATE_FILE, load_config, load_env, load_json, save_json
 
 # posts already reported, kept apart from state.json so the two GitHub jobs never edit the same file
 NOTIFIED_FILE = ROOT / "notified.json"
+# post times before this go out the night after the daily run (02:00 Paris = 20:00 New York)
+NIGHT_BEFORE = "06:00"
 
 
 def send(text):
@@ -103,7 +105,9 @@ def check_today_scheduled():
         return
     slots = load_json(STATE_FILE, {}).get("slots", {})
     for lang, lang_cfg in config["languages"].items():
-        h, m = map(int, min(lang_cfg["post_times"]).split(":"))
+        # night posts are made by the run of the day before: the first post of today is a day one
+        day_times = [t for t in lang_cfg["post_times"] if t >= NIGHT_BEFORE] or lang_cfg["post_times"]
+        h, m = map(int, min(day_times).split(":"))
         if not lang_cfg.get("enabled", True) or now.hour * 60 + now.minute < h * 60 + m + 60:
             continue
         if not any(slot.startswith(today) for slot in slots.get(lang, {})):

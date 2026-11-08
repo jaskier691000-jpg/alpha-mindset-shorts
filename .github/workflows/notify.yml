@@ -3,11 +3,11 @@
 name: Check posts and send Telegram alerts (Alpha Mindset)
 
 on:
-  schedule:   # turned on at go-live, 31 Oct 2026
-    # Posts go out ~13:00 and ~23:30 Paris (English-speaking audience: 07:00 and 17:30 New York, 12:00 and 22:30 London)
-    # = 11:00-12:00 and 21:30-22:30 UTC (summer / winter), +-35 min. 10:00-13:30 and 20:00-00:30 UTC cover both,
-    # all year; 06:15 UTC catches anything still pending overnight.
-    - cron: "*/30 0,10-13,20-23 * * *"
+  schedule:
+    # Posts go out ~13:00, ~21:00 and ~02:00 Paris (+-35 min) for the English-speaking audience:
+    # 07:00, 15:00 and 20:00 New York; 12:00, 20:00 and 01:00 London. In UTC (summer / winter), with the 2 h
+    # wait for a late post: 10:25-13:40, 18:25-22:35 and 23:25-03:35. 06:15 UTC catches anything left.
+    - cron: "*/30 0-3,10-13,18-23 * * *"
     - cron: "15 6 * * *"
   workflow_dispatch:     # "Run workflow" button; "test" sends a Telegram test message from GitHub
     inputs:
