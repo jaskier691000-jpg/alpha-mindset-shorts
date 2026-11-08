@@ -103,7 +103,8 @@ config = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
 en = config["languages"]["en"]
 expected_mode = "schedule" if GO_LIVE else "draft"
 check(config["publish_mode"] == expected_mode, f"publish_mode is '{expected_mode}'", config["publish_mode"])
-check(config["timezone"] == "Europe/Paris" and en["post_times"] == ["08:00", "20:00"], "post times 08:00 and 20:00 Paris")
+check(config["timezone"] == "Europe/Paris" and en["post_times"] == ["13:00", "23:30"],
+      "post times 13:00 and 23:30 Paris (English-speaking audience: 07:00 and 17:30 New York)")
 check(config.get("post_time_jitter_minutes") == 35 and config.get("min_seconds") == 61, "±35 min jitter, videos ≥ 61 s")
 check(all(en["accounts"].get(p) for p in ("tiktok", "instagram")), "TikTok and Instagram account ids set")
 check(not config.get("telegram_chat_id"), "Telegram chat id kept out of the public repository (it is a secret)")
