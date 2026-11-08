@@ -57,6 +57,8 @@ def next_post_time(hhmm, timezone, jitter_minutes=0):
     if hhmm < notify.NIGHT_BEFORE:  # a night post (02:00 Paris = 20:00 New York) goes out the night after
         when += timedelta(days=1)
     when += timedelta(minutes=random.randint(-jitter_minutes, jitter_minutes))
+    # a time that does not exist (the spring DST change skips 02:00-03:00 in Paris) moves 1 h later
+    when = when.astimezone(ZoneInfo("UTC")).astimezone(when.tzinfo)
     if when <= now + timedelta(minutes=10):
         when = now + timedelta(minutes=random.randint(15, 25))
     return when.strftime("%Y-%m-%dT%H:%M:00")
