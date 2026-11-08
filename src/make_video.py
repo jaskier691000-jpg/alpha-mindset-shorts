@@ -36,9 +36,19 @@ def pick_topic(lang, topic_id=None, exclude=()):
     if topic_id:
         return next(t for t in topics if t["id"] == topic_id)
     used = set(load_json(STATE_FILE, {}).get(lang, [])) | set(exclude)
-    for topic in topics:  # topics.json is in posting order
-        if topic["id"] not in used and lang in topic.get("lines", {}):
-            return topic
+    unused = [t for t in topics if t["id"] not in used and lang in t.get("lines", {})]  # in posting order
+    # a dated topic (Christmas, Black Friday...) waits for its day: at 3 videos a day the list runs ahead
+    # of the plan's dates. SEASONAL (build_plan.py) = dated topic -> its day; some channels have none.
+    from zoneinfo import ZoneInfo
+    import build_plan
+    from common import load_config
+    dated = getattr(build_plan, "SEASONAL", {})
+    today = datetime.now(ZoneInfo(load_config()["timezone"])).date().isoformat()
+    ready = [t for t in unused if dated.get(t["id"], today) <= today]
+    if unused and not ready:
+        print(f"[{lang}] only dated topics are left before their day: {unused[0]['id']} goes out early")
+    if ready or unused:
+        return (ready or unused)[0]
     raise SystemExit(f"No unused '{lang}' topics left in topics.json. Ask Claude to write the next batch.")
 
 

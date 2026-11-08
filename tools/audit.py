@@ -105,6 +105,8 @@ expected_mode = "schedule" if GO_LIVE else "draft"
 check(config["publish_mode"] == expected_mode, f"publish_mode is '{expected_mode}'", config["publish_mode"])
 check(config["timezone"] == "Europe/Paris" and en["post_times"] == ["13:00", "21:00", "02:00"],
       "post times 13:00, 21:00 and 02:00 Paris (English-speaking audience: 07:00, 15:00 and 20:00 New York)")
+check('dated.get(t["id"], today) <= today' in (ROOT / "src" / "make_video.py").read_text(encoding="utf-8"),
+      "dated topics (SEASONAL) wait for their day, whatever the number of posts a day")
 check(config.get("post_time_jitter_minutes") == 35 and config.get("min_seconds") == 61, "±35 min jitter, videos ≥ 61 s")
 check(all(en["accounts"].get(p) for p in ("tiktok", "instagram")), "TikTok and Instagram account ids set")
 check(not config.get("telegram_chat_id"), "Telegram chat id kept out of the public repository (it is a secret)")
