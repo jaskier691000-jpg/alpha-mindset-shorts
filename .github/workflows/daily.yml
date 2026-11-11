@@ -59,8 +59,12 @@ jobs:
 
       - name: Install FFmpeg and Python packages
         run: |
-          sudo apt-get update -q
-          sudo apt-get install -y -q ffmpeg
+          # Ubuntu's package servers sometimes fail for a minute (exit code 100): try 3 times before giving up
+          for i in 1 2 3; do
+            sudo apt-get update -q && sudo apt-get install -y -q -o Acquire::Retries=3 ffmpeg && break
+            [ $i = 3 ] && exit 1
+            sleep 30
+          done
           # CPU build of torch (GitHub has no graphics card; the CUDA build is 2 GB bigger)
           pip install torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu
           pip install -r requirements.txt -c constraints.txt   # constraints.txt = exact versions of a run that worked
