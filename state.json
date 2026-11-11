@@ -24,7 +24,6 @@
     "outwork-everyone",
     "talk-to-yourself-like-a-champion",
     "silence-is-power",
-    "find-your-why",
     "know-your-worth"
   ],
   "slots": {
@@ -411,7 +410,5 @@
     "chess-1",
     "city-night-2"
   ],
-  "skipped": [
-    "find-your-why"
-  ]
+  "skipped": []
 }
